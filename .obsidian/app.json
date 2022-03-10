@@ -1,0 +1,12 @@
+{
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "attachmentFolderPath": "Files",
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": false
+}

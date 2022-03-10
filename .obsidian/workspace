@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "8109ca24b4d5ed7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a38ab67c55bd1ee3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Передача умных указателей в функцию.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccf2bda2a01e97d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "59a065fb86ce85a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1a58d3235277b80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "595325253c14b819",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 143
+  },
+  "right": {
+    "id": "d52be8816d028c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "f66297d892748eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "546ab0e5ce2b0e96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Передача умных указателей в функцию.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dd87fa9a959a63e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f06520f401ff2c1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/Передача умных указателей в функцию.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbc4b9faaa960290",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 111.5
+  },
+  "active": "a38ab67c55bd1ee3",
+  "lastOpenFiles": [
+    "Base/Передача умных указателей в функцию.md",
+    "Base/передача shared_ptr.md",
+    "Base/передача unique_ptr.md",
+    "Base/Функции.md",
+    "Base/C++.md",
+    "Base/Programming languages.md",
+    "Base/Computer science.md",
+    "Base/020 Учёба 🏫.md",
+    "Base/010 Здоровье и продуктивность 🧠.md",
+    "Base/Передача параметра по значению.md"
+  ]
+}
