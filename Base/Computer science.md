@@ -1,7 +1,6 @@
 # Computer science
-- [[Computer system organization]]
-- [[OS]]
+- [[Operating system and computre architecture]]
 - [[Graphics]]
-- [[Algorithm]]
-- [[Programming languages]]
+- [[Algorithm and data structures]]
+- [[C++]]
 

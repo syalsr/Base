@@ -8,5 +8,6 @@
   "attachmentFolderPath": "Files",
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": true,
+  "defaultViewMode": "preview"
 }

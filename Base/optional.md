@@ -18,7 +18,7 @@ if (const auto invalid_date_reason = CheckDate(date)) {//если optional с
 }
 
 ```
-
+`optional.value_or(0)` - возвращает либо значение, либо то что в скобках
 # Эффективность
 ```cpp
 optional<HeavyObject> ReturnTemporary() {

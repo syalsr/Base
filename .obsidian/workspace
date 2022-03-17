@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Передача умных указателей в функцию.md",
+            "file": "Base/020 Учёба 🏫.md",
             "mode": "preview",
-            "source": true
+            "source": false
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Передача умных указателей в функцию.md",
+                "file": "Base/020 Учёба 🏫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Передача умных указателей в функцию.md",
+                "file": "Base/020 Учёба 🏫.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,19 +116,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 111.5
+    "width": 128.5
   },
   "active": "a38ab67c55bd1ee3",
   "lastOpenFiles": [
-    "Base/Передача умных указателей в функцию.md",
-    "Base/передача shared_ptr.md",
-    "Base/передача unique_ptr.md",
-    "Base/Функции.md",
-    "Base/C++.md",
-    "Base/Programming languages.md",
-    "Base/Computer science.md",
     "Base/020 Учёба 🏫.md",
     "Base/010 Здоровье и продуктивность 🧠.md",
-    "Base/Передача параметра по значению.md"
+    "Base/Стек.md",
+    "Base/Модель памяти.md",
+    "Base/C++.md",
+    "Base/initialization variable.md",
+    "Base/Область видимости.md",
+    "Base/Введение в арифметику указателей.md",
+    "Base/initializer lists.md",
+    "Base/C style arrays.md"
   ]
 }

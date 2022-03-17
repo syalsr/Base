@@ -26,3 +26,13 @@ _______________________________________________________
 _______________________________________________________
 - [[variant]]
 - [[optional]]
+
+
+- [[literals]]
+- [[initialization variable]]
+- [[casting]]
+- [[operators]]
+- [[Enumerated types]]
+- [[C style arrays]]
+- [[initializer lists]]
+- [[Область видимости]]
