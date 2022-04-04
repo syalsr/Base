@@ -1,4 +1,15 @@
 [
   "obsidian-emoji-toolbar",
-  "table-editor-obsidian"
+  "obsidian-footnotes",
+  "obsidian-reading-time",
+  "sliding-panes-obsidian",
+  "recent-files-obsidian",
+  "url-into-selection",
+  "obsidian-icons-plugin",
+  "cm-show-whitespace-obsidian",
+  "obsidian-timeline",
+  "obsidian-outliner",
+  "obsidian-mind-map",
+  "table-editor-obsidian",
+  "obsidian-plantuml"
 ]

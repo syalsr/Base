@@ -11,3 +11,35 @@
 | Шестнадцатеричный с плавающей точкой | 0x3.ABCp-10       |
 | Символьный                           | 'a'               |
 | Массив символов с нулевый терминатом | "character array" |
+
+Литералы хранятся в read-only памяти, они очень полезны, т.к. позволяют оптимизировать код. Допустим, если мы 1'000'000 хотим вывести строковый литера "hello", то компилятор не резервирует память для миллиона таких "hello", а только для одного, это называется объединением литералов.
+
+# Строковые литералы
+Строковые литералы являются массивом символов.
+
+```cpp
+char* ptr { "hello" }; // Assign the string literal to a variable.
+ptr[1] = 'a'; // Undefined behavior!
+//лучше в данном случае использовать const char* чтобы избежать UB
+
+const char* ptr { "hello" }; // Assign the string literal to a variable.
+ptr[1] = 'a'; // Error! Attempts to write to read-only memory
+
+char arr[] { "hello" }; // Compiler takes care of creating appropriate sized
+// character array arr.
+arr[1] = 'a'; // The contents can be modified.
+```
+
+Из-за того что литералы помещаются в read-only память, присвоение их не безопасно. Но я не понимаю почему в 1 случае компилятор помещает литерал в read-only память, а в 3 случае нет.
+
+# Raw string leteral
+Это литералы которые можно писать на нескольких строчках кода, [[Escape sequence]] обрабатываются как обычный текст.
+
+```cpp
+const char* str { R"(Hello "World"!)" };//используя обычные литералы пришлось использовать escape sequence для того что обернуть World в кавычки
+const char* str { R"(Line 1
+					 Line 2)" 
+				};//вместо \n используем enter
+const char* str { R"(Embedded )" characters)" }; // Error!
+const char* str { R"-(Embedded )" characters)-" };//избежали ошибки с помощью черточек
+```

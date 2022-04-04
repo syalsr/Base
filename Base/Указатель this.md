@@ -1,4 +1,5 @@
-Указатель `*this` - этот указатель объекта на самого себя. Нужен к пример для реализации конструкторов копирования, move, оператора присваивания...
+# Указатель this
+Указатель `*this` - этот указатель объекта на самого себя. Нужен к примеру для реализации конструкторов копирования, move, оператора присваивания... 
 
 ```cpp
 template<typename T>
@@ -25,6 +26,18 @@ SimpleVector<T>& SimpleVector<T>::operator=(SimpleVector<T>&& other) {
 		other.size = other.capacity = 0; 
 	}
 	return *this;
+}
+```
+
+```cpp
+void printval(const Sheet& sh)
+{
+	cout << sh.GetVal() << endl;
+}
+void Sheet::SetValue(int val)
+{
+	this->val = val;
+	printval(*this);
 }
 ```
 

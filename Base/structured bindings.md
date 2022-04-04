@@ -1,3 +1,8 @@
+---
+aliases:
+tags: C++17
+---
+
 1. tuple - объекты могут быть разных типов, с c++17 можно сразу распаковать в переменных
 ```cpp
 tuple<TaskInfo, TaskInfo> TeamTasks::PerfomPersonTasks(...) { 

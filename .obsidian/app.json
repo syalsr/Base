@@ -1,5 +1,5 @@
 {
-  "showLineNumber": false,
+  "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "spellcheck": true,
@@ -8,6 +8,16 @@
   "attachmentFolderPath": "Files",
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": true,
-  "defaultViewMode": "preview"
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en-GB"
+  ],
+  "trashOption": "local",
+  "tabSize": 4
 }

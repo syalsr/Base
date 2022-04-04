@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a38ab67c55bd1ee3",
+        "id": "214014654859aa38",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/020 Учёба 🏫.md",
-            "mode": "preview",
-            "source": false
+            "file": "Base/Потоки ввода вывода.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -23,7 +23,7 @@
     "type": "split",
     "children": [
       {
-        "id": "59a065fb86ce85a4",
+        "id": "914b25995a5ff5d9",
         "type": "tabs",
         "children": [
           {
@@ -33,14 +33,20 @@
               "type": "file-explorer",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "59a065fb86ce85a4",
+        "type": "tabs",
+        "children": [
           {
             "id": "595325253c14b819",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "сужени",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,17 +54,68 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "56d3a83df70c549e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 143
+    "width": 259,
+    "collapsed": true
   },
   "right": {
     "id": "d52be8816d028c61",
     "type": "split",
     "children": [
+      {
+        "id": "20dd80a6b93040df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1aeac774d287a2e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Base/Потоки ввода вывода.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.521367521367521,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 255,
+                  "scale": 0.7132754626224439,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
       {
         "id": "f66297d892748eb4",
         "type": "tabs",
@@ -69,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/020 Учёба 🏫.md",
+                "file": "Base/Потоки ввода вывода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +154,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/020 Учёба 🏫.md",
+                "file": "Base/Потоки ввода вывода.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -110,25 +167,36 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "088484dbc7db72e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Потоки ввода вывода.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 128.5
+    "width": 574,
+    "collapsed": true
   },
-  "active": "a38ab67c55bd1ee3",
+  "active": "214014654859aa38",
   "lastOpenFiles": [
-    "Base/020 Учёба 🏫.md",
-    "Base/010 Здоровье и продуктивность 🧠.md",
-    "Base/Стек.md",
-    "Base/Модель памяти.md",
-    "Base/C++.md",
-    "Base/initialization variable.md",
-    "Base/Область видимости.md",
-    "Base/Введение в арифметику указателей.md",
-    "Base/initializer lists.md",
-    "Base/C style arrays.md"
+    "Base/Потоки ввода вывода.md",
+    "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
+    "Base/20 C++.md",
+    "Base/Escape sequence.md",
+    "Base/Эффективное использование потоков ввода вывода.md",
+    "Base/ООП.md",
+    "Base/Наследование.md",
+    "Base/Классы и структуры.md",
+    "Base/Методы.md",
+    "Base/Перегрузка методов.md"
   ]
 }
