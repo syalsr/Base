@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "214014654859aa38",
+        "id": "72851e345f7865fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Потоки ввода вывода.md",
+            "file": "Base/Container adapters.md",
             "mode": "source",
             "source": true
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сужени",
+                "query": "move_iter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Потоки ввода вывода.md",
+                "file": "Base/Container adapters.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -108,7 +108,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 255,
-                  "scale": 0.7132754626224439,
+                  "scale": 1.0000000000000033,
                   "close": true
                 }
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Потоки ввода вывода.md",
+                "file": "Base/Container adapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Потоки ввода вывода.md",
+                "file": "Base/Container adapters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,29 +174,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Потоки ввода вывода.md"
+                "file": "Base/Container adapters.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 574,
+    "width": 168,
     "collapsed": true
   },
-  "active": "214014654859aa38",
+  "active": "72851e345f7865fe",
   "lastOpenFiles": [
-    "Base/Потоки ввода вывода.md",
-    "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
-    "Base/20 C++.md",
-    "Base/Escape sequence.md",
-    "Base/Эффективное использование потоков ввода вывода.md",
-    "Base/ООП.md",
-    "Base/Наследование.md",
-    "Base/Классы и структуры.md",
-    "Base/Методы.md",
-    "Base/Перегрузка методов.md"
+    "Base/Container adapters.md",
+    "Base/Контейнеры.md",
+    "Base/Sequential containers.md",
+    "Base/Категории итераторов.md",
+    "Base/Введение итераторы.md",
+    "Base/Итераторы.md",
+    "Base/Reverse iterators.md",
+    "Base/Инвалидация итераторов.md",
+    "Base/Associative containers.md",
+    "Base/Hash tables.md"
   ]
 }

@@ -1,29 +1,41 @@
 # Move-итераторы
-`make_move_iterator` возвращает обёртку над итератором, которая, если мы хотим скопировать объект, перемещает его. Функция make_move_iterator меняет семантику итератора, чтобы при обращении к нему данные перемещались бы, а не копировались.
+`make_move_iterator` возвращает обёртку над итератором, которая, если мы хотим скопировать объект, перемещает его. Функция make_move_iterator меняет семантику итератора, чтобы при обращении к нему данные перемещались бы, а не копировались. Для этого у объекта должны быть определены мув конструктор и мув присваивание
 
 ```cpp
-Sentence<Token> sentence; 
-for (; tokens_begin != sentence_end ; ++ tokens_begin ) { 
-	sentence.push_back(move(∗tokens_begin)); 
-} 
-sentences.push_back(move(sentence));
-```
-С помощью move-iterator можно заменить код на такой:
+class MoveableClass
+{
+public:
+	MoveableClass() {
+		cout << "Default constructor" << endl;
+	}
+	MoveableClass(const MoveableClass& src) {
+		cout << "Copy constructor" << endl;
+	}
+	MoveableClass(MoveableClass&& src) noexcept {
+		cout << "Move constructor" << endl;
+	}
+	MoveableClass& operator=(const MoveableClass& rhs) {
+		cout << "Copy assignment operator" << endl;
+		return *this;
+	}
+	MoveableClass& operator=(MoveableClass&& rhs) noexcept {
+		cout << "Move assignment operator" << endl;
+		return *this;
+	}
+};
 
-```cpp
-sentences.push_back(Sentence<Token>(
-	make_move_iterator(tokens_begin),
-	make_move_iterator(sentence_end)
-));
-tokens_begin = sentence_end;
-```
-
-```cpp
-copy(make_move_iterator(begin(v)), make_move_iterator(end(v)), range_begin);
-```
-
-Алгоритм move будет перемещать данные, а не копировать. Это избавит от необходимости вызывать `make_move_iterator`
-
-```cpp
-move(begin(v), end(v), range_begin);
+int main()
+{
+	MoveableClass mv;
+	vector<MoveableClass> vec;
+	for (size_t i = 0; i < 10; i++)
+	{
+		vec.push_back(mv);
+	}
+	cout << "all\n";
+	vector<MoveableClass> newvec{	make_move_iterator(begin(vec)), 
+									make_move_iterator(end(vec)) };
+	//Либо так
+	move(begin(vec), end(vec), begin(newvec));
+}
 ```

@@ -8,6 +8,10 @@ cout << ∗it << " "; // выводим
 ++it; 
 cout << ∗it << " "; 
 // C# Java
+
+vector langs = {"Python", "C++", "C", "Java", "C#"}; 
+auto it = crbegin(langs); // итератор на последний элемент 
+cout << ∗it << " "; // выводим 
 ```
 
 | Python | C++    | C   | Java | C#   |     | begin(Python), end |
