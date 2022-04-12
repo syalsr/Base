@@ -37,3 +37,21 @@ auto* const p { &i };//int* const      exp
 int x { 123 };
 decltype(x) y { 456 };
 ```
+
+# decltype(auto)
+Т.к. auto отбрасывает const и ref, используя decltype можем этого избежать
+
+```cpp
+int& f(int& aa)
+{
+	return a;
+}
+
+
+int main()
+{
+	int a = 5;
+	auto			test = f(a);//int
+	decltype(auto)	test = f(a);//int&
+}
+```

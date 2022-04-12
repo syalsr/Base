@@ -31,3 +31,4 @@ auto d { 11, 22 }; // initializer_list<int>
 
 При copy initialization все элементы должны иметь один тип
 
+#do/review возможно написать про остальные типы инициализации

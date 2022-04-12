@@ -20,6 +20,21 @@
 ```cpp
 auto string1 { "Hello World" }; // string1 is a const char*.
 auto string2 { "Hello World"s }; // string2 is an std::string.
+
+string myString;
+myString.insert(cend(myString), 'h');
+myString.insert(cend(myString), 'e');
+myString.push_back('l');
+myString.push_back('l');
+myString.push_back('o');
+for (const auto& letter : myString) {
+	cout << letter;
+}
+cout << endl;
+for (auto it { cbegin(myString) }; it != cend(myString); ++it) {
+	cout << *it;
+}
+cout << endl;
 ```
 
 ## Преобразования
@@ -189,3 +204,7 @@ cout << sv;
 ```cpp
 auto sv { "My string"sv }
 ```
+
+#do/review может что-то можно удалить, в общем, перечитать и нормально переписать
+
+Локализация и wide character - Марк Грегоир C++ professional 21 глава

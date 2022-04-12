@@ -3,8 +3,10 @@
 - [[10 Algorithm and data structures]]
 - [[10 Graphics]]
 - [[10 Programming languages]]
+- [[10 Computer network]]
 - [[10 Reverse engineering]]
 - [[10 Design]]
+- [[Linux problems and solves]]
 
 # How to?
 ~~Осуждаю пиратство~~ Сливы зарубежных курсов 

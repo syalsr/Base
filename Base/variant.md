@@ -1,8 +1,3 @@
----
-aliases:
-tags: C++17
----
-
 # variant
 
 

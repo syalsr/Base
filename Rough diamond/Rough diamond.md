@@ -7,6 +7,12 @@
 -   `Subject:` - возможные предметы - maths, biology, anatomy, writing, howtolearn, softwareengineering...
 
 * https://www.youtube.com/watch?v=nUfUncwZios
+* https://zeux.io/2019/01/17/is-c-fast/
+* https://caseymuratori.com/blog_0015
+* https://blog.codinghorror.com/why-cant-programmers-program/
+* https://caseymuratori.com/blog_0015 semantic compression
+* https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/
+* https://habr.com/ru/company/otus/blog/432834/ линковка C++
 * [Указатели и ссылки в C/C++](http://chernyy.ru/blog/2010/04/19/pointers-and-references-in-c-and-cpp)
 * [Аргументы main](https://ru.stackoverflow.com/questions/227712/Для-чего-в-main-int-argc-char-argv)
 * [Использование gcc](http://staff.mmcs.sfedu.ru/~ulysses/IT/C++/using_gcc.html)

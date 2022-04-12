@@ -1,10 +1,14 @@
 * [Книги](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [C++ faq](https://isocpp.org/wiki/faq)
+* [Yet Another C++ FAQ](http://yosefk.com/c++fqa/)
 * [dev docs](https://devdocs.io/cpp/)
 * [CPP Developer Roadmap](https://github.com/salmer/CppDeveloperRoadmap/blob/main/Russian/README.md)
 * [Modern Cpp Features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [Education and Recommended Videos for Teaching C++](https://www.cjdb.com.au/sg20-and-videos.html)
 * [Awesome cpp](https://github.com/fffaraz/awesome-cpp)
+* [Цикл статей по lock-free структурам](https://habr.com/ru/post/195770/)
+* [База многопоточки](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+* [Perfomance](https://travisdowns.github.io/)
 
 ## Авторские блоги
 

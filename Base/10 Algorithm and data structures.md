@@ -1,3 +1,8 @@
+# 10 Algorithm and data structures
+* [[Введение в алгодроч]]
+* [[Продолжение алгодроча]]
+* [[Формальная дрочь]]
+
 # Курсы
 * [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) + [практика](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)
 * [MIT 6.046J Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) + [практика](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/assignments/)
@@ -95,6 +100,7 @@
 * [Малый ШАД - Алгоритмы для NP трудных задач - Александр Куликов](https://www.youtube.com/watch?v=zW7pjf4c_aU)
 * [M* — алгоритм поиска кратчайшего пути, через весь мир, на смартфоне](https://habr.com/ru/company/2gis/blog/326638/)
 * [Алгоритмы и структуры данных в ядре Linux, Chromium и не только](https://habr.com/ru/company/wunderfund/blog/277143/)
+* [Алгоритмы на C](https://ru.algorithmica.org/)
 
 ## Практика
 * HackerRank
