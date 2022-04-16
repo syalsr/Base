@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "31993c3838d420c1",
+        "id": "64c95af366c2a840",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/20 C++.md",
+            "file": "Base/00 Health care.md",
             "mode": "source",
             "source": true
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tuple",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,9 +84,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/20 C++.md",
+                "file": "Base/00 Health care.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -99,7 +99,7 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": -0.2,
+                  "textFadeMultiplier": -0.3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/20 C++.md",
+                "file": "Base/00 Health care.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/20 C++.md",
+                "file": "Base/00 Health care.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/20 C++.md"
+                "file": "Base/00 Health care.md"
               }
             }
           }
@@ -182,20 +182,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 647,
-    "collapsed": true
+    "width": 647
   },
-  "active": "31993c3838d420c1",
+  "active": "64c95af366c2a840",
   "lastOpenFiles": [
-    "Base/20 C++.md",
-    "Base/10 Programming languages.md",
-    "Base/00 Computer science 🖥️.md",
-    "Base/Многопоточность.md",
-    "Base/Комбинаторика.md",
-    "Base/10 Математика.md",
-    "Base/Математическая логика и теория алгоритмов.md",
-    "Base/Линейная алгебра.md",
-    "Base/00 Science.md",
-    "Base/10 Algorithm and data structures.md"
+    "Base/00 Health care.md",
+    "Base/00 Начало 🏠.md",
+    "Base/Для чего нужна OS.md",
+    "Base/10 Operating system and computer architecture.md",
+    "Base/Процессы.md",
+    "Base/Потоки.md",
+    "Base/Введение Ос и СА.md",
+    "Base/00 Клетка.md",
+    "Base/Тканевая мембрана.md",
+    "Base/Мембрана.md"
   ]
 }

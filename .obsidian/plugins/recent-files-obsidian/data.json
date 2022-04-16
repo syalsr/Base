@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
-    },
-    {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
-    },
-    {
-      "basename": "00 Computer science 🖥️",
-      "path": "Base/00 Computer science 🖥️.md"
-    },
-    {
-      "basename": "Многопоточность",
-      "path": "Base/Многопоточность.md"
-    },
-    {
-      "basename": "Комбинаторика",
-      "path": "Base/Комбинаторика.md"
-    },
-    {
-      "basename": "10 Математика",
-      "path": "Base/10 Математика.md"
-    },
-    {
-      "basename": "Математическая логика и теория алгоритмов",
-      "path": "Base/Математическая логика и теория алгоритмов.md"
-    },
-    {
-      "basename": "Линейная алгебра",
-      "path": "Base/Линейная алгебра.md"
-    },
-    {
-      "basename": "00 Science",
-      "path": "Base/00 Science.md"
-    },
-    {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
-    },
-    {
-      "basename": "Формальная дрочь",
-      "path": "Base/Формальная дрочь.md"
-    },
-    {
-      "basename": "Введение в алгодроч",
-      "path": "Base/Введение в алгодроч.md"
-    },
-    {
-      "basename": "C++ links",
-      "path": "Base/C++ links.md"
-    },
-    {
-      "basename": "Математический анализ",
-      "path": "Base/Математический анализ.md"
-    },
-    {
-      "basename": "Аналитическая геометрия",
-      "path": "Base/Аналитическая геометрия.md"
-    },
-    {
-      "basename": "Продолжение алгодроча",
-      "path": "Base/Продолжение алгодроча.md"
-    },
-    {
-      "basename": "10 Operating system and computer architecture",
-      "path": "Base/10 Operating system and computer architecture.md"
-    },
-    {
-      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
-    },
-    {
-      "basename": "10 Computer network",
-      "path": "Base/10 Computer network.md"
+      "basename": "00 Health care",
+      "path": "Base/00 Health care.md"
     },
     {
       "basename": "00 Начало 🏠",
       "path": "Base/00 Начало 🏠.md"
     },
     {
-      "basename": "10 Биология",
-      "path": "Base/10 Биология.md"
+      "basename": "Для чего нужна OS",
+      "path": "Base/Для чего нужна OS.md"
     },
     {
-      "basename": "Кортежи и пары",
-      "path": "Base/Кортежи и пары.md"
+      "basename": "10 Operating system and computer architecture",
+      "path": "Base/10 Operating system and computer architecture.md"
     },
     {
-      "basename": "variant",
-      "path": "Base/variant.md"
-    },
-    {
-      "basename": "Regular expression",
-      "path": "Base/Regular expression.md"
-    },
-    {
-      "basename": "C style string",
-      "path": "Base/C style string.md"
-    },
-    {
-      "basename": "Strings",
-      "path": "Base/Strings.md"
-    },
-    {
-      "basename": "Стандартные алгоритмы",
-      "path": "Base/Стандартные алгоритмы.md"
-    },
-    {
-      "basename": "Associative containers",
-      "path": "Base/Associative containers.md"
-    },
-    {
-      "basename": "Linux problems and solves",
-      "path": "Base/Linux problems and solves.md"
-    },
-    {
-      "basename": "Потоки ввода вывода",
-      "path": "Base/Потоки ввода вывода.md"
-    },
-    {
-      "basename": "Опасности return",
-      "path": "Base/Опасности return.md"
-    },
-    {
-      "basename": "Механизм обработки исключений",
-      "path": "Base/Механизм обработки исключений.md"
-    },
-    {
-      "basename": "Как вернуть из функции набор объектов",
-      "path": "Base/Как вернуть из функции набор объектов.md"
-    },
-    {
-      "basename": "Контейнеры",
-      "path": "Base/Контейнеры.md"
-    },
-    {
-      "basename": "10 Graphics",
-      "path": "Base/10 Graphics.md"
-    },
-    {
-      "basename": "Rough diamond",
-      "path": "Rough diamond/Rough diamond.md"
-    },
-    {
-      "basename": "bitset",
-      "path": "Base/bitset.md"
-    },
-    {
-      "basename": "Review",
-      "path": "Query/Review.md"
-    },
-    {
-      "basename": "Ссылки",
-      "path": "Base/Ссылки.md"
-    },
-    {
-      "basename": "Литералы",
-      "path": "Base/Литералы.md"
-    },
-    {
-      "basename": "Лямбда-функции",
-      "path": "Base/Лямбда-функции.md"
-    },
-    {
-      "basename": "Continue",
-      "path": "Query/Continue.md"
-    },
-    {
-      "basename": "Function pointers",
-      "path": "Base/Function pointers.md"
-    },
-    {
-      "basename": "Start",
-      "path": "Query/Start.md"
-    },
-    {
-      "basename": "Не рычите на собаку",
-      "path": "Rough diamond/Не рычите на собаку.md"
-    },
-    {
-      "basename": "Ненасильственное общение",
-      "path": "Base/Ненасильственное общение.md"
+      "basename": "Процессы",
+      "path": "Base/Процессы.md"
     },
     {
       "basename": "Потоки",
       "path": "Base/Потоки.md"
     },
     {
-      "basename": "Порядок создания производных объектов",
-      "path": "Base/Порядок создания производных объектов.md"
+      "basename": "00 Клетка",
+      "path": "Base/00 Клетка.md"
     },
     {
-      "basename": "Итераторы",
-      "path": "Base/Итераторы.md"
+      "basename": "Тканевая мембрана",
+      "path": "Base/Тканевая мембрана.md"
     },
     {
-      "basename": "История средневековья",
-      "path": "Base/История средневековья.md"
+      "basename": "Мембрана",
+      "path": "Base/Мембрана.md"
+    },
+    {
+      "basename": "Супрахиазматическое ядро",
+      "path": "Base/Супрахиазматическое ядро.md"
+    },
+    {
+      "basename": "00 Экономика",
+      "path": "Base/00 Экономика.md"
+    },
+    {
+      "basename": "00 Computer science 🖥️",
+      "path": "Base/00 Computer science 🖥️.md"
+    },
+    {
+      "basename": "00 История",
+      "path": "Base/00 История.md"
+    },
+    {
+      "basename": "Плазменная мембрана",
+      "path": "Base/Плазменная мембрана.md"
+    },
+    {
+      "basename": "Цитоплазма",
+      "path": "Base/Цитоплазма.md"
+    },
+    {
+      "basename": "Эукариотические клетки",
+      "path": "Base/Эукариотические клетки.md"
+    },
+    {
+      "basename": "Прокариотические клетки",
+      "path": "Base/Прокариотические клетки.md"
+    },
+    {
+      "basename": "Органеллы",
+      "path": "Base/Органеллы.md"
+    },
+    {
+      "basename": "Вакуоль",
+      "path": "Base/Вакуоль.md"
+    },
+    {
+      "basename": "Репликация ДНК",
+      "path": "Base/Репликация ДНК.md"
+    },
+    {
+      "basename": "Деление клеток",
+      "path": "Base/Деление клеток.md"
+    },
+    {
+      "basename": "Дифференцировка клеток",
+      "path": "Base/Дифференцировка клеток.md"
+    },
+    {
+      "basename": "Экспрессия генов",
+      "path": "Base/Экспрессия генов.md"
+    },
+    {
+      "basename": "Шаблоны классов",
+      "path": "Base/Шаблоны классов.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "Base/Templates.md"
+    },
+    {
+      "basename": "Шаблоны функций",
+      "path": "Base/Шаблоны функций.md"
+    },
+    {
+      "basename": "Введение в арифметику указателей",
+      "path": "Base/Введение в арифметику указателей.md"
+    },
+    {
+      "basename": "Модель памяти",
+      "path": "Base/Модель памяти.md"
+    },
+    {
+      "basename": "C style arrays",
+      "path": "Base/C style arrays.md"
+    },
+    {
+      "basename": "20 C++",
+      "path": "Base/20 C++.md"
+    },
+    {
+      "basename": "20 Paradigms",
+      "path": "Base/20 Paradigms.md"
+    },
+    {
+      "basename": "Review",
+      "path": "Query/Review.md"
+    },
+    {
+      "basename": "Continue",
+      "path": "Query/Continue.md"
+    },
+    {
+      "basename": "Трудные диалоги",
+      "path": "Rough diamond/Трудные диалоги.md"
+    },
+    {
+      "basename": "Start",
+      "path": "Query/Start.md"
+    },
+    {
+      "basename": "Потоки ввода вывода",
+      "path": "Base/Потоки ввода вывода.md"
+    },
+    {
+      "basename": "10 Programming languages",
+      "path": "Base/10 Programming languages.md"
+    },
+    {
+      "basename": "example_obsidian",
+      "path": "Base/example_obsidian.md"
+    },
+    {
+      "basename": "00 Conversation🗣️",
+      "path": "Base/00 Conversation🗣️.md"
+    },
+    {
+      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+    },
+    {
+      "basename": "00 How to learn",
+      "path": "Base/00 How to learn.md"
+    },
+    {
+      "basename": "Классы и структуры",
+      "path": "Base/Классы и структуры.md"
+    },
+    {
+      "basename": "friends",
+      "path": "Base/friends.md"
+    },
+    {
+      "basename": "Templates title",
+      "path": "Templates/Templates title.md"
+    },
+    {
+      "basename": "Операторы new && delete",
+      "path": "Base/Операторы new && delete.md"
+    },
+    {
+      "basename": "Initialization",
+      "path": "Base/Initialization.md"
+    },
+    {
+      "basename": "ООП",
+      "path": "Base/ООП.md"
+    },
+    {
+      "basename": "Объявление и определение класса",
+      "path": "Base/Объявление и определение класса.md"
+    },
+    {
+      "basename": "Ссылки",
+      "path": "Base/Ссылки.md"
+    },
+    {
+      "basename": "rvalue lvalue reference",
+      "path": "Base/rvalue lvalue reference.md"
     }
   ],
   "omittedPaths": [],

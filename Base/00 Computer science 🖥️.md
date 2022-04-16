@@ -51,7 +51,7 @@
 * [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
 * [The mythical 10x programmer](http://antirez.com/news/112)
  
-  
+
 # Программирование
 * [Game Programming Patterns](http://gameprogrammingpatterns.com)
 * [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)

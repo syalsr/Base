@@ -1,3 +1,0 @@
-[[Сон]]
-
-* [Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health)
