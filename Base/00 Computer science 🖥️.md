@@ -41,9 +41,11 @@
 # Статьи
 * [Почему 0.1 + 0.2 != 0.3?](https://floating-point-gui.de/basic/)
 * [Про плавующую точку](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
-* [git](https://stepik.org/course/3145/promo)
+* git
+	* [stepik](https://stepik.org/course/3145/promo)
+	* [Casey Muratori](https://www.youtube.com/watch?v=3mOVK0oSH2M&list=WL&index=5)
+	* [Conference - advance git](https://www.youtube.com/watch?v=0SJCYPsef54&list=WL&index=4)
 * [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
-* [computer science topics](https://teachyourselfcs.com)
 * [awesome-cmake](https://github.com/onqtam/awesome-cmake)
 * [What every web developer must know about URL encoding](https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/)
 * [Why are we so bad at software engineering?](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/)
@@ -55,8 +57,7 @@
 # Программирование
 * [Game Programming Patterns](http://gameprogrammingpatterns.com)
 * [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
-* [source making](https://sourcemaking.com)
-* [design patterns Java and C++](http://www.vincehuston.org/dp/)
+* [Design patterns and anti-pattertns](https://sourcemaking.com)
 
 # Интервью
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)

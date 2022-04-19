@@ -1,112 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "00 Health care",
-      "path": "Base/00 Health care.md"
-    },
-    {
-      "basename": "00 Начало 🏠",
-      "path": "Base/00 Начало 🏠.md"
-    },
-    {
-      "basename": "Для чего нужна OS",
-      "path": "Base/Для чего нужна OS.md"
-    },
-    {
       "basename": "10 Operating system and computer architecture",
       "path": "Base/10 Operating system and computer architecture.md"
-    },
-    {
-      "basename": "Процессы",
-      "path": "Base/Процессы.md"
-    },
-    {
-      "basename": "Потоки",
-      "path": "Base/Потоки.md"
-    },
-    {
-      "basename": "00 Клетка",
-      "path": "Base/00 Клетка.md"
-    },
-    {
-      "basename": "Тканевая мембрана",
-      "path": "Base/Тканевая мембрана.md"
-    },
-    {
-      "basename": "Мембрана",
-      "path": "Base/Мембрана.md"
-    },
-    {
-      "basename": "Супрахиазматическое ядро",
-      "path": "Base/Супрахиазматическое ядро.md"
-    },
-    {
-      "basename": "00 Экономика",
-      "path": "Base/00 Экономика.md"
     },
     {
       "basename": "00 Computer science 🖥️",
       "path": "Base/00 Computer science 🖥️.md"
     },
     {
-      "basename": "00 История",
-      "path": "Base/00 История.md"
+      "basename": "10 Graphics",
+      "path": "Base/10 Graphics.md"
     },
     {
-      "basename": "Плазменная мембрана",
-      "path": "Base/Плазменная мембрана.md"
+      "basename": "Для чего нужна OS",
+      "path": "Base/Для чего нужна OS.md"
     },
     {
-      "basename": "Цитоплазма",
-      "path": "Base/Цитоплазма.md"
+      "basename": "Процессы",
+      "path": "Base/Процессы.md"
     },
     {
-      "basename": "Эукариотические клетки",
-      "path": "Base/Эукариотические клетки.md"
+      "basename": "Процессор",
+      "path": "Base/Процессор.md"
     },
     {
-      "basename": "Прокариотические клетки",
-      "path": "Base/Прокариотические клетки.md"
+      "basename": "00 Начало 🏠",
+      "path": "Base/00 Начало 🏠.md"
     },
     {
-      "basename": "Органеллы",
-      "path": "Base/Органеллы.md"
-    },
-    {
-      "basename": "Вакуоль",
-      "path": "Base/Вакуоль.md"
-    },
-    {
-      "basename": "Репликация ДНК",
-      "path": "Base/Репликация ДНК.md"
-    },
-    {
-      "basename": "Деление клеток",
-      "path": "Base/Деление клеток.md"
-    },
-    {
-      "basename": "Дифференцировка клеток",
-      "path": "Base/Дифференцировка клеток.md"
-    },
-    {
-      "basename": "Экспрессия генов",
-      "path": "Base/Экспрессия генов.md"
-    },
-    {
-      "basename": "Шаблоны классов",
-      "path": "Base/Шаблоны классов.md"
+      "basename": "example math obsidian",
+      "path": "Example use obsidian/example math obsidian.md"
     },
     {
       "basename": "Templates",
       "path": "Base/Templates.md"
     },
     {
-      "basename": "Шаблоны функций",
-      "path": "Base/Шаблоны функций.md"
+      "basename": "Move семантика",
+      "path": "Base/Move семантика.md"
     },
     {
-      "basename": "Введение в арифметику указателей",
-      "path": "Base/Введение в арифметику указателей.md"
+      "basename": "20 C++",
+      "path": "Base/20 C++.md"
+    },
+    {
+      "basename": "Функция move",
+      "path": "Base/Функция move.md"
+    },
+    {
+      "basename": "Шаблоны классов",
+      "path": "Base/Шаблоны классов.md"
+    },
+    {
+      "basename": "Лямбда-функции",
+      "path": "Base/Лямбда-функции.md"
+    },
+    {
+      "basename": "Идиома immediately invoked lambda expression (IILE)",
+      "path": "Base/Идиома immediately invoked lambda expression (IILE).md"
+    },
+    {
+      "basename": "Функции",
+      "path": "Base/Функции.md"
     },
     {
       "basename": "Модель памяти",
@@ -117,88 +73,132 @@
       "path": "Base/C style arrays.md"
     },
     {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
+      "basename": "Аналитическая геометрия",
+      "path": "Base/Аналитическая геометрия.md"
     },
     {
-      "basename": "20 Paradigms",
-      "path": "Base/20 Paradigms.md"
+      "basename": "00 Математика",
+      "path": "Base/00 Математика.md"
     },
     {
-      "basename": "Review",
-      "path": "Query/Review.md"
+      "basename": "Органы",
+      "path": "Base/Органы.md"
     },
     {
-      "basename": "Continue",
-      "path": "Query/Continue.md"
+      "basename": "Система органов",
+      "path": "Base/Система органов.md"
     },
     {
-      "basename": "Трудные диалоги",
-      "path": "Rough diamond/Трудные диалоги.md"
+      "basename": "00 Health care",
+      "path": "Base/00 Health care.md"
     },
     {
-      "basename": "Start",
-      "path": "Query/Start.md"
+      "basename": "Тканевая мембрана",
+      "path": "Base/Тканевая мембрана.md"
     },
     {
-      "basename": "Потоки ввода вывода",
-      "path": "Base/Потоки ввода вывода.md"
+      "basename": "Ткань",
+      "path": "Base/Ткань.md"
+    },
+    {
+      "basename": "00 Клетка",
+      "path": "Base/00 Клетка.md"
+    },
+    {
+      "basename": "Дифференцировка клеток",
+      "path": "Base/Дифференцировка клеток.md"
+    },
+    {
+      "basename": "Статическая и динамическая память",
+      "path": "Base/Статическая и динамическая память.md"
     },
     {
       "basename": "10 Programming languages",
       "path": "Base/10 Programming languages.md"
     },
     {
-      "basename": "example_obsidian",
-      "path": "Base/example_obsidian.md"
+      "basename": "URI",
+      "path": "Example use obsidian/URI.md"
     },
     {
-      "basename": "00 Conversation🗣️",
-      "path": "Base/00 Conversation🗣️.md"
+      "basename": "BASE",
+      "path": "Example use obsidian/BASE.md"
     },
     {
-      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+      "basename": "checklist",
+      "path": "Example use obsidian/Data view/tasks/checklist.md"
     },
     {
-      "basename": "00 How to learn",
-      "path": "Base/00 How to learn.md"
+      "basename": "Annotated Tasks",
+      "path": "Example use obsidian/Data view/tasks/Annotated Tasks.md"
     },
     {
-      "basename": "Классы и структуры",
-      "path": "Base/Классы и структуры.md"
+      "basename": "toast",
+      "path": "Example use obsidian/Data view/recipes/toast.md"
     },
     {
-      "basename": "friends",
-      "path": "Base/friends.md"
+      "basename": "pbj",
+      "path": "Example use obsidian/Data view/recipes/pbj.md"
     },
     {
-      "basename": "Templates title",
-      "path": "Templates/Templates title.md"
+      "basename": "The Great Gatsby",
+      "path": "Example use obsidian/Data view/books/The Great Gatsby.md"
     },
     {
-      "basename": "Операторы new && delete",
-      "path": "Base/Операторы new && delete.md"
+      "basename": "Origin of Species",
+      "path": "Example use obsidian/Data view/books/Origin of Species.md"
     },
     {
-      "basename": "Initialization",
-      "path": "Base/Initialization.md"
+      "basename": "Catcher in the Rye",
+      "path": "Example use obsidian/Data view/books/Catcher in the Rye.md"
     },
     {
-      "basename": "ООП",
-      "path": "Base/ООП.md"
+      "basename": "2021-08-08-a-post",
+      "path": "Example use obsidian/Data view/blog/2021-08-08-a-post.md"
     },
     {
-      "basename": "Объявление и определение класса",
-      "path": "Base/Объявление и определение класса.md"
+      "basename": "2020-08-08-an-earlier-post",
+      "path": "Example use obsidian/Data view/blog/2020-08-08-an-earlier-post.md"
     },
     {
-      "basename": "Ссылки",
-      "path": "Base/Ссылки.md"
+      "basename": "Uncompleted Tasks",
+      "path": "Example use obsidian/Data view/tasks/Uncompleted Tasks.md"
     },
     {
-      "basename": "rvalue lvalue reference",
-      "path": "Base/rvalue lvalue reference.md"
+      "basename": "Tasks in a specific section",
+      "path": "Example use obsidian/Data view/tasks/Tasks in a specific section.md"
+    },
+    {
+      "basename": "Tasks Completed on specific Date",
+      "path": "Example use obsidian/Data view/tasks/Tasks Completed on specific Date.md"
+    },
+    {
+      "basename": "Sorted Tasks",
+      "path": "Example use obsidian/Data view/tasks/Sorted Tasks.md"
+    },
+    {
+      "basename": "Grouped Sorted Tasks",
+      "path": "Example use obsidian/Data view/tasks/Grouped Sorted Tasks.md"
+    },
+    {
+      "basename": "example tasks",
+      "path": "Example use obsidian/Data view/tasks/example tasks.md"
+    },
+    {
+      "basename": "Completed Tasks",
+      "path": "Example use obsidian/Data view/tasks/Completed Tasks.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Example use obsidian/Data view/Books.md"
+    },
+    {
+      "basename": "example calendars",
+      "path": "Example use obsidian/Data view/example calendars.md"
+    },
+    {
+      "basename": "example lists",
+      "path": "Example use obsidian/Data view/example lists.md"
     }
   ],
   "omittedPaths": [],

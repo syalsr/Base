@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "64c95af366c2a840",
+        "id": "39998eeb68c0eda6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 Health care.md",
+            "file": "Base/10 Operating system and computer architecture.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "конвейер",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,12 +63,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 233,
+    "collapsed": true
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -84,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/00 Health care.md",
+                "file": "Base/10 Operating system and computer architecture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Health care.md",
+                "file": "Base/10 Operating system and computer architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/00 Health care.md",
+                "file": "Base/10 Operating system and computer architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 Health care.md"
+                "file": "Base/10 Operating system and computer architecture.md"
               }
             }
           }
@@ -182,19 +182,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 647
+    "width": 502,
+    "collapsed": true
   },
-  "active": "64c95af366c2a840",
+  "active": "39998eeb68c0eda6",
   "lastOpenFiles": [
-    "Base/00 Health care.md",
-    "Base/00 Начало 🏠.md",
-    "Base/Для чего нужна OS.md",
     "Base/10 Operating system and computer architecture.md",
+    "Base/00 Computer science 🖥️.md",
+    "Base/10 Graphics.md",
+    "Base/Для чего нужна OS.md",
     "Base/Процессы.md",
-    "Base/Потоки.md",
-    "Base/Введение Ос и СА.md",
-    "Base/00 Клетка.md",
-    "Base/Тканевая мембрана.md",
-    "Base/Мембрана.md"
+    "Base/Процессор.md",
+    "Base/00 Начало 🏠.md",
+    "Example use obsidian/example math obsidian.md",
+    "Base/Templates.md",
+    "Base/Move семантика.md"
   ]
 }

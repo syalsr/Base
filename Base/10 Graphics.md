@@ -10,6 +10,7 @@
 * [Полезные статьи](https://gafferongames.com/)
 * [Полезные статьи по Unity](https://www.raywenderlich.com/gametech)
 * http://www.adriancourreges.com
+* [Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 
 # OpenGl
 * [OpenGL API Documentation](http://docs.gl)
