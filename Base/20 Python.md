@@ -8,3 +8,4 @@
 * Канал по питону - https://www.youtube.com/user/zaemiel/videos
 * Introduction to scripting in python - https://www.coursera.org/specializations/introduction-scripting-in-python
 * Junior Python Developer: полный разбор собеседования и ответы на наиболее частые вопросы интервью - https://www.youtube.com/watch?v=fgXCN7A8yzg
+* Чат на питоне https://medium.com/swlh/lets-write-a-chat-app-in-python-f6783a9ac170

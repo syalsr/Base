@@ -47,12 +47,31 @@ bool bothOdd(int item1, int item2) { return item1 % 2 == 1 && item2 % 2 == 1; }
 # Pointer to methods and data members
 Мы не можем иметь указатель на статический метод/данные, потому что мы выполняем операции в контексте объекта.
 ```cpp
-int (Employee::*methodPtr) () const { &Employee::getSalary };//определяем переменную methodPtr типа указаль на нестатический метод класса Empoyee::getSalary() который возвращает int
-Employee employee { "John", "Doe" };
-cout << (employee.*methodPtr)() << endl;//поскольку operator() имеет более высокий приоритет, чем * оборачиваем все в скобки
-
-Employee* employee { new Employee { "John", "Doe" } };
-cout << (employee->*methodPtr)() << endl;
+class Employee  
+{  
+public:  
+    Employee(string s, string s1){}  
+    int getSalary() const  
+    {  
+        return 1;  
+    }  
+};  
+  
+int main()  
+{  
+    {  
+        int (Employee::*methodPtr)() const {&Employee::getSalary};//определяем переменную methodPtr типа указаль на нестатический метод класса Empoyee::getSalary() который возвращает int  
+        Employee employee{"John", "Doe"};  
+        cout << (employee.*methodPtr)()  
+             << endl;//поскольку operator() имеет более высокий приоритет, чем * оборачиваем все в скобки  
+    }  
+  
+    {  
+        int (Employee::*methodPtr)() const {&Employee::getSalary};  
+        Employee *employee{new Employee{"John", "Doe"}};  
+        cout << (employee->*methodPtr)() << endl;  
+    }  
+}
 ```
 
 Определим methodPtr через alias и auto
@@ -68,7 +87,7 @@ Employee employee { "John", "Doe" };
 cout << (employee.*methodPtr)() << endl;
 ```
 
-Указатели на методы и данные обычно не используются, но стоит помнить, что разыменовывать указатель на не статический метод или данные нельзя без объекта. 
+Указатели на методы и данные обычно не используются, но стоит помнить, что разыменовывать указатель на не статический метод или данные нельзя без объекта. Оператор ->* можно [[Перегрузка операторов#Примеры переопределения некоторых операторов|перегружать]]
 
 # std::function
 Является полиморфной оберткой функции которая используется для создания типа который может указывать на что-либо вызываемое - функцию, функциональный объект, лямбда выражение.

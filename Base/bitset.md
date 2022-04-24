@@ -32,16 +32,14 @@ public:
 	// Number of supported channels.
 	static const size_t NumChannels{ 10 };
 	// Adds package with the channels specified as a bitset to the database.
-	void addPackage(std::string_view packageName,
-		const std::bitset<NumChannels>& channels);
+	void addPackage(std::string_view packageName, const std::bitset<NumChannels>& channels);
 	// Adds package with the channels specified as a string to the database.
 	void addPackage(std::string_view packageName, std::string_view channels);
 	// Removes the specified package from the database.
 	void removePackage(std::string_view packageName);
 	// Retrieves the channels of a given package.
 	// Throws out_of_range if the package name is invalid.
-	const std::bitset<NumChannels>& getPackage(
-		std::string_view packageName) const;
+	const std::bitset<NumChannels>& getPackage(std::string_view packageName) const;
 	// Adds customer to database with initial channels found in package.
 // Throws out_of_range if the package name is invalid.
 // Throws invalid_argument if the customer is already known.
@@ -158,8 +156,7 @@ bitset<CableCompany::NumChannels>& CableCompany::getCustomerChannelsHelper(
 	string_view name)
 {
 	// Forward to const getCustomerChannels() to avoid code duplication.
-	return const_cast<bitset<NumChannels>&>(
-		as_const(*this).getCustomerChannels(name));
+	return const_cast<bitset<NumChannels>&>(as_const(*this).getCustomerChannels(name));
 }
 int main()
 {
@@ -172,5 +169,3 @@ int main()
 	cout << myCC.getCustomerChannels("Marc G.") << endl;//1111100111
 }
 ```
-
-#do/review Удалить очевидные комментарии из кода выше

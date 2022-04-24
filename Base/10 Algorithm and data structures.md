@@ -101,6 +101,7 @@
 * [M* — алгоритм поиска кратчайшего пути, через весь мир, на смартфоне](https://habr.com/ru/company/2gis/blog/326638/)
 * [Алгоритмы и структуры данных в ядре Linux, Chromium и не только](https://habr.com/ru/company/wunderfund/blog/277143/)
 * [Алгоритмы на C](https://ru.algorithmica.org/)
+* [Различные алгоритмы](http://algolist.ru/)
 
 ## Практика
 * HackerRank
