@@ -26,6 +26,7 @@
 * [C++ FAQ](http://yosefk.com/c++fqa/)
 * [C++ stories](https://www.cppstories.com/p/start-here/)
 * [Fluent C++](https://www.fluentcpp.com/posts/)
+* [Sean Parent](https://sean-parent.stlab.cc/papers-and-presentations/)
 
 ## Проекты
 

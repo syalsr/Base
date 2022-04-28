@@ -1,11 +1,10 @@
 # Container adapters
 # queue
-Основана на деке, работает быстрее,  но операций меньше. Это именно односторонняя очередь
+![[../Files/Pasted image 20220425142927.png]]
+FIFO - first in, first out. Основана на деке, работает быстрее,  но операций меньше. Это именно односторонняя очередь
 
 ```cpp
-q.push(x), q.pop() // вставляем в начало и удаляем из конца 
-q.front(), q.back() // ссылки на первый и последний элементы очереди 
-q.size(), q.empty() // размер и проверка на пустоту
+template <class T, class Container = deque<T> > class queue;
 ```
 
 ```cpp
@@ -97,6 +96,11 @@ int main()
 Это queue хранящая элементы в отсортированном порядке, поддерживает [[Категории итераторов#Random access iterators]]. Головной элемент имеет наивысший приоритет.
 
 ```cpp
+template <class T,  
+        class Container = vector<T>,  
+        class Compare = less<typename Container::value_type>>  
+class priority_queue;
+
 int main()
 {
     priority_queue<int> q;
@@ -178,9 +182,11 @@ int main()
 ```
 
 # Stack
-Позволяет лишь добавлять в конец и удалять из конца. Как queue, но обеспечивает семантику FILO - первый вошел, последний вышел
+![[../Files/Pasted image 20220425142905.png]]
+LIFO - last in, first out. Позволяет лишь добавлять в конец и удалять из конца, основан на деке.
 
 ```cpp
+template <class T, class Container = deque<T> > class stack;
 int main()
 {
     stack<int> q;

@@ -1,11 +1,11 @@
-# Templates
+ооооо# Templates
 # Зачем нужны шаблоны
 Если у нас есть несколько функций с одинаковым поведением, но разными типами параметров, либо несколько классов с одинаковым набором методов и данных, но с разными типами этих методов и данных, то можно сделать шаблон функции/шаблон класса, чтобы уменьшить повторяющийся код
 
 [[Шаблоны функций]]
 [[Шаблоны классов]]
 
-# Вариативные шаблоны
+# Вариативные шаблоны Variadic templates
 Позволяет передавать произвольное количество аргументов произвольного типа.
 
 ```cpp
@@ -64,6 +64,22 @@ int main()
 }
 ```
 
+```cpp
+template<typename ... Types> void f(Types ... args);  
+template<typename ... Types> void g(Types ... args) {  
+    f(args ...); // → f(x, y);  
+    f(&args ...); // → f(&x, &y);  
+    f(h(args) ...); // → f(h(x), h(y));h(x) вызов функции  
+    f(const_cast<const Types*>(&args)...);  
+		// → f(const_cast<const int*>(&x), const_cast<const double*>(&y));  
+}  
+g(1, 1.0); // → g(int x, double y);
+```
+
+```cpp
+f(h(args...) + h(args)...); // →  f(h(x, y, z) + h(x), h(x, y, z) + h(y), h(x, y, z) + h(z));
+f(h(args, args...)...);     // →  f(h(x, x, y, z), h(y, x, y, z), h(z, x, y, z));
+```
 ## Оператор sizeof...
 ```cpp
 template<typename T, typename ... Types>  
@@ -224,6 +240,24 @@ int main()
 
 К вариативным параметрам шаблона применяются те же правила, что и к обычным параметрам шаблона.
 
+## emplace
+Если мы хотим пробросить в функцию какой-то аргумент и пачку параметров, сначала должен идти одиночный аргумент, а потом уже пачка параметров, иначе функция никогда не вызовется.
+
+```cpp
+struct StackNode {  
+    T elem;  
+    StackNode *next;  
+    template<typename ... U> StackNode(StackNode *nxt, U ... cargs) :  
+            elem (cargs ...), next (nxt) {}
+
+template <typename T> class Stack {  
+public:  
+    void push(const T& elem) { top_ = new StackNode (top_, elem); }  
+    template <typename U> void emplace(U&& ... args) {  
+        top_ = new StackNode(top_, forward<U>(args)...);  
+    }
+```
+
 ## Вариативные шаблоны классов
 ```cpp
 template<typename... Elements>
@@ -278,42 +312,6 @@ int main()
 }
 ```
 
-# typename
-Указывает на то, что идентификатор является типом
-
-```cpp
-template<typename T>
-class MyClass {
-public:
-	...
-	void foo() {
-		typename T::SubType* ptr;//без использования typename - это трактовалось как умножение статического члена SubType класса T на какой-то ptr; 
-	}
-};
-```
-
-Обычно используется для указания типа итератора
-
-```cpp
-// print elements of an STL container  
-template<typename T>  
-void printcoll (T const& coll)  
-{  
-    typename T::const_iterator pos; // iterator to iterate over coll  
-    typename T::const_iterator end(coll.end()); // end position  
-    for (pos=coll.begin(); pos!=end; ++pos) {  
-        std::cout << *pos << ' ';  
-    }  
-    std::cout << '\n';  
-}  
-  
-class stlcontainer {  
-public:  
-    using iterator = ...; // iterator for read/write access  
-    using const_iterator = ...; // iterator for read access  
-};
-```
-
 # Инициализация объектов по умолчанию
 ```cpp
 //befor C++11
@@ -336,17 +334,6 @@ class X
 	void test(T x = T{});
 }
 ```
-
-# Конструкция .template
-Эта конструкция нужна, чтобы указать компилятору, что < - это не оператор меньше, а начала параметров шаблона.
-```cpp
-template<unsigned long N>
-void printBitset (std::bitset<N> const& bs) {
-	std::cout << bs.template to_string<char, std::char_traits<char>, std::allocator<char>>();
-}
-```
-
-Эта конструкция имеет смысл только если метод после точки зависит от параметра шаблона
 
 # Обобщенные лямбда выражения и шаблоны членов
 Такие сокращенные лямбда выражения
@@ -515,7 +502,7 @@ void f (T val) {
 }
 ```
 
-То код не будет работать для перемещения. C++11 предоставляет perfect forwarding - прямую передачу параметров.
+То код не будет работать для перемещения, поскольку именнованная && это lvalue C++11 предоставляет perfect forwarding - прямую передачу параметров.
 
 ```cpp
 class X {  
@@ -756,4 +743,303 @@ int main()
     C c{};  
     C f{c};//используется шаблон конструктора
 }
+```
+
+# SFINAE - Substitution Failure Is Not An Error 
+Провал подстановки не является ошибкой. Если в результате подстановки в непосредственном контексте класса (функции, алиаса, переменной) возникает невалидная конструкция, эта подстановка неуспешна, но не ошибочна.
+
+Подстановка должна быть провалена в объявлении:
+
+```cpp
+int negate (int i) { return -i; } 
+template T negate(const T& t) { 
+	typename T::value_type n = -t(); //в перегрузке выигрывает эта функция, подстановка состоялась, но у double нет вложенного типа value_type, подстановка состоялась, это не SFINAE 
+} 
+negate(2.0); // ошибка второй фазы
+```
+
+Допустим у нас есть 2 типа и мы хотим знать равны ли они:
+
+```cpp
+template int foo() { 
+	// как вернуть 1 если T == U и 0 если нет? 
+}
+```
+
+Это задача отображения из типов на числа - называется интегральной константой:
+
+```cpp
+template <typename T, T v> struct integral_constant {  
+    static const T value = v;  
+    typedef T value_type;  
+    typedef integral_constant type;  
+    operator value_type() const { return value; }  //оператор приведения типов
+};
+
+using ic6 = integral_constant<int, 6>; 
+auto n = 7 * ic6{};
+```
+
+Зная это решим задачу:
+
+```cpp
+using true_type = integral_constant<bool, true>; //из std
+using false_type = integral_constant<bool, false>;//из std
+
+namespace s  
+{  
+    template<typename T, typename U>  
+    struct is_same : std::false_type //публичное наследование  
+    {};  
+  
+    template<typename T>  
+    struct is_same<T, T> : std::true_type //публичное наследование  
+    {}; // для T == T  
+  
+    template<typename T, typename U>  
+    using is_same_t = typename is_same<T, U>::type;  
+  
+}  
+  
+int main() {  
+    std::cout << std::boolalpha;  
+    std::cout << s::is_same_t<int, int>{} << std::endl;  
+    std::cout << s::is_same_t<int, char>{} << std::endl;  
+}
+```
+
+# is reference remove reference
+```cpp
+Проверяет, есть ли ссылка
+template <typename T> struct is_reference : false_type {};  
+template <typename T> struct is_reference<T&> : true_type {};  
+template <typename T> struct is_reference<T&&> : true_type {};  
+
+Убирает ссылку если есть
+template <typename T> struct remove_reference { using type = T; };  
+template <typename T> struct remove_reference<T&> { using type = T; };  
+template <typename T> struct remove_reference<T&&> { using type = T; };
+
+template<typename T> 
+using remove_reference_t = typename remove_reference<T>::type;
+```
+
+# Категории типов
+Любой тип в языке C++ попадает под одну из следующих категорий:
+
+```cpp
+is_void  
+is_null_pointer//именно тип nullptr_t  
+is_integral, is_floating_point // для T и для cv T& транзитивно  
+is_array; // только встроенные, не std::array  
+is_pointer; // включая указатели на обычные функции  
+is_lvalue_reference, is_rvalue_reference  
+is_member_object_pointer, is_member_function_pointer  
+is_enum, is_union, is_class  
+is_function // обычные функции
+
+std::cout << std::boolalpha << std::is_void::value << '\n';
+```
+
+# Свойства типов type traits
+```cpp
+is_trivially_copyable // побайтово копируемый, memcpy  
+is_standard_layout // можно адресовать поля указателем  
+is_aggregate // доступна агрегатная инициализация как в C  
+is_default_constructible // есть default ctor  
+is_copy_constructible, is_copy_assignable  
+is_move_constructible, is_nothrow_move_constructible  
+is_move_assignable  
+is_base_of // B является базой (транзитивно, включая сам тип)  
+is_convertible // есть преобразование из A к B
+```
+
+Указано не все, проще приложить ссылку https://en.cppreference.com/w/cpp/header/type_traits
+
+# forward
+```cpp
+template<typename Fun, typename Args>  
+decltype(auto) transparent(Fun fun, Args&& args) {  
+    return fun(forward<Args>(args));  
+}
+```
+
+1. Используем decltype(auto), чтобы не срезать тип
+2. Args&& используем свертку ссылок
+3. forward в зависимости от того какой тип, мувает либо передает ссылку. Если у нас передали lvalue ref то forward не влияет, если передаем rvalue ref или rvalue мувается
+
+```cpp
+```cpp
+template<typename Fun, typename... Args>  
+decltype(auto) transparent(Fun fun, Args&&... args) {  
+    return fun(forward<Args>(args)...);  
+}
+```
+
+# void_t
+```cpp
+template <typename...> using void_t = void;
+```
+
+`void_t<T, U, V>` означает `void` если все типы легальны и нелегален если нелегален хоть один, т.е. это что-то на подобии конъюнкция
+
+Задача: есть две структуры, в одной есть foobar, в другой нет, как определить?
+
+```cpp
+struct foo { typedef float foobar; };  
+struct bar { };  
+
+std::cout << std::boolalpha << ??? foo << " " << ??? bar;
+```
+
+Решение:
+
+```cpp
+template <typename, typename = void>  
+struct has_typedef_foobar: std::false_type { };  
+  
+template <typename T>  
+struct has_typedef_foobar<T,  
+        std::void_t<typename T::foobar>>: std::true_type{};  
+  
+struct Foo { typedef float foobar; };  
+struct Bar {};  
+  
+int main() {  
+    std::cout << std::boolalpha;  
+    std::cout << has_typedef_foobar<Foo>{} << std::endl;  
+    std::cout << has_typedef_foobar<Bar>{} << std::endl;  
+    //true  
+    //false
+}
+```
+
+# declval
+Это функция стандартной библиотеки которая имеет только объявления делает из нас rvalue ref
+
+```cpp
+template <typename T> struct Tricky {  
+    Tricky() = delete;  
+    const volatile T foo ();  
+};  
+int main() {  
+    decltype(declval<Tricky<int>>().foo()) t; // int  
+}
+```
+
+delctype только оценивает тип, поскольку у declval нет тела, все хорошо.
+
+## Конструирование вектора из итераторов
+Проблема в том, что передав 2 числа, вызовется конструктор для итераторов, хотя не хотелось бы. 
+
+```cpp
+MyVector(size_t nelts, T value);  
+template <typename Iter,  
+        typename = void_t<decltype(*Iter{}),  
+		                  decltype(++Iter{})>//сомнитьтельно, префиксу нужно lvalue  
+         >  
+MyVector(Iter fst, Iter lst);
+```
+
+Вот как это решить:
+
+```cpp
+MyVector(size_t nelts, T value);  
+template <typename Iter,  
+        typename = void_t<decltype(*std::declval<Iter&>()), //вернет l ref 
+		                  decltype(++std::declval<Iter&>())>//вернет l ref
+        > 				 
+MyVector(Iter fst, Iter lst);  
+....  
+MyVector v1(10, 3); // 1, поскольку 2 провалилось  
+MyVector v2(v1.begin(), v1.end()); // 2
+```
+
+Эти 2 decltype можно представить как интерфейс void_t, то есть то что он должен уметь, чтобы успешно выполнилась работа конструктора - этот интерфейс называется [[Consepts|концептом]]
+
+# enable_if
+Модернизированный void_t.  Хотим чтобы foo было валидно только для input итераторов:
+
+```cpp
+template<typename It>
+using iterator_category_t = typename std::iterator_traits<IT>::iterator_category;
+
+template<typename It, typename T = std::enable_if_t<std::is_base_of_v<input_iterator_tag,
+																	iterator_category_t<It>>>>
+void foo(It first, It last)
+{}
+```
+
+```cpp
+template <typename It>  
+using iterator_category_t = typename std::iterator_traits<It>::iterator_category;  
+  
+template <typename It, typename T = std::enable_if_t<  
+        std::is_base_of_v<std::random_access_iterator_tag,  
+                iterator_category_t<It>>  
+>>  
+void foo(It first, It last) {  
+    std::cout << std::distance(first, last) << std::endl;  
+}  
+  
+int main() {  
+    std::vector v{1, 2, 3};  
+    foo(v.begin(), v.end());//3  
+    std::list l{1, 2, 3};  
+    foo(l.begin(), l.end());//error  
+    //no matching function for call to    
+    // foo(std::__cxx11::list<int, std::allocator<int> >::iterator,    
+    //      std::__cxx11::list<int, std::allocator<int> >::iterator)    
+    //no type named ‘type’ in ‘struct std::enable_if<false, void>’    
+    //using enable_if_t = typename enable_if<_Cond, _Tp>::type;
+}
+```
+
+# Вывод типов шаблонами
+cv-квалификатор - const, volatile, внутренние cv не удаляются
+1. Вывод уточненных типов
+	1. Ссылки и cv-квалификаторы игнорируются для T, также работает и с auto
+2. Вывод уточненных типов
+	1. Уточняющая обвязка игнорируется для T, но cv-квалификаторы сохраняются
+	2. Типичные уточнители это ссылка и указатель
+
+```cpp
+template<typename T> void foo (T t); // неуточнённый 
+template<typename T> void bar (T& t); // ссылка 
+template<typename T> void buz (T* t); // указатель
+```
+`
+
+```cpp
+template <typename T> void foo(T t);
+template <typename T> void bar(T& t);
+int x = 42;
+int const& y = x;
+int const* const z = &x;
+foo(x); // → foo<int>(int)
+foo(y); // → foo<int>(int)
+foo(z); // → foo<int const *>(int const *)
+bar(x); // → bar<int>(int&)
+bar(y); // → bar<int const>(int const &)
+bar(z); // → bar<int const * const>(int const * const &)
+
+template <typename T> void foo(T t);
+template <typename T> void buz(T* t);
+int x = 42; int* px = &x;
+int*& py = px;
+int const* const pz = px;
+foo(px); // → foo<int*>(int*)
+foo(py); // → foo<int*>(int*)
+foo(pz); // → foo<int const *>(int const *)
+buz(px); // → buz<int>(int*)
+buz(py); // → buz<int>(int*)
+buz(pz); // → buz<int const>(int const * const)
+
+template <typename T> void foo(T* const& t);
+int x = 42;
+int const& y = x;
+int const* z = &x;
+foo(&x); // → foo<int>(int * const &)
+foo(&y); // → foo<int const>(int const * const &)
+foo(z); // → foo<int const>(int const * const &)
 ```

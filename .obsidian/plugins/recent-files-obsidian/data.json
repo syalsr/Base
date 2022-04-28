@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "10 Design",
-      "path": "Base/10 Design.md"
+      "basename": "Road to 10xprogrammer",
+      "path": "Base/Road to 10xprogrammer.md"
     },
     {
-      "basename": "Наследование",
-      "path": "Base/Наследование.md"
-    },
-    {
-      "basename": "00 Computer science 🖥️",
-      "path": "Base/00 Computer science 🖥️.md"
-    },
-    {
-      "basename": "Rough diamond",
-      "path": "Rough diamond/Rough diamond.md"
-    },
-    {
-      "basename": "10 Computer network",
-      "path": "Base/10 Computer network.md"
-    },
-    {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
-    },
-    {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
-    },
-    {
-      "basename": "20 Python",
-      "path": "Base/20 Python.md"
-    },
-    {
-      "basename": "Модель памяти",
-      "path": "Base/Модель памяти.md"
-    },
-    {
-      "basename": "Статическая и динамическая память",
-      "path": "Base/Статическая и динамическая память.md"
-    },
-    {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
-    },
-    {
-      "basename": "Обработка исключений",
-      "path": "Base/Обработка исключений.md"
-    },
-    {
-      "basename": "Ключевое слово noexcept",
-      "path": "Base/Ключевое слово noexcept.md"
-    },
-    {
-      "basename": "Чем хороша виртуальность",
-      "path": "Base/Чем хороша виртуальность.md"
-    },
-    {
-      "basename": "Безопасность в исключительных ситуаций",
-      "path": "Base/Безопасность в исключительных ситуаций.md"
-    },
-    {
-      "basename": "Перегрузка операторов",
-      "path": "Base/Перегрузка операторов.md"
-    },
-    {
-      "basename": "Типы исключений",
-      "path": "Base/Типы исключений.md"
-    },
-    {
-      "basename": "Обработка исключительных ситуаций в списке инициализаций",
-      "path": "Base/Обработка исключительных ситуаций в списке инициализаций.md"
-    },
-    {
-      "basename": "Раскрутка стека при выбросе исключения",
-      "path": "Base/Раскрутка стека при выбросе исключения.md"
-    },
-    {
-      "basename": "Вложенные исключения",
-      "path": "Base/Вложенные исключения.md"
-    },
-    {
-      "basename": "Механизм обработки исключений",
-      "path": "Base/Механизм обработки исключений.md"
-    },
-    {
-      "basename": "Введение в наследование",
-      "path": "Base/Введение в наследование.md"
-    },
-    {
-      "basename": "ООП",
-      "path": "Base/ООП.md"
-    },
-    {
-      "basename": "RTTI",
-      "path": "Base/RTTI.md"
-    },
-    {
-      "basename": "casting",
-      "path": "Base/casting.md"
-    },
-    {
-      "basename": "Множественное наследование",
-      "path": "Base/Множественное наследование.md"
-    },
-    {
-      "basename": "Linux problems and solves",
-      "path": "Base/Linux problems and solves.md"
-    },
-    {
-      "basename": "10 Operating system and computer architecture",
-      "path": "Base/10 Operating system and computer architecture.md"
-    },
-    {
-      "basename": "00 Начало 🏠",
-      "path": "Base/00 Начало 🏠.md"
-    },
-    {
-      "basename": "Особые случаи при переопределения методов",
-      "path": "Base/Особые случаи при переопределения методов.md"
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
     },
     {
       "basename": "EBCO",
       "path": "Base/EBCO.md"
     },
     {
+      "basename": "Многопоточность",
+      "path": "Base/Многопоточность.md"
+    },
+    {
+      "basename": "async и future",
+      "path": "Base/async и future.md"
+    },
+    {
+      "basename": "20 C++",
+      "path": "Base/20 C++.md"
+    },
+    {
+      "basename": "Rough diamond",
+      "path": "Rough diamond/Rough diamond.md"
+    },
+    {
       "basename": "Умные указатели",
       "path": "Base/Умные указатели.md"
     },
     {
-      "basename": "20 Paradigms",
-      "path": "Base/20 Paradigms.md"
+      "basename": "Генерализация",
+      "path": "Base/Генерализация.md"
     },
     {
-      "basename": "Спецификаторы наследования",
-      "path": "Base/Спецификаторы наследования.md"
+      "basename": "Ковариантность и Контрвариантность",
+      "path": "Base/Ковариантность и Контрвариантность.md"
     },
     {
-      "basename": "Перегрузка методов",
-      "path": "Base/Перегрузка методов.md"
+      "basename": "C style string",
+      "path": "Base/C style string.md"
     },
     {
-      "basename": "Переопределение методов",
-      "path": "Base/Переопределение методов.md"
+      "basename": "Модель памяти",
+      "path": "Base/Модель памяти.md"
     },
     {
-      "basename": "Чисто виртуальные методы и абстрактный класс",
-      "path": "Base/Чисто виртуальные методы и абстрактный класс.md"
+      "basename": "Лямбда-функции",
+      "path": "Base/Лямбда-функции.md"
     },
     {
-      "basename": "protected Деструктор",
-      "path": "Base/protected Деструктор.md"
+      "basename": "Идиома immediately invoked lambda expression (IILE)",
+      "path": "Base/Идиома immediately invoked lambda expression (IILE).md"
     },
     {
-      "basename": "Конструктор и деструктор",
-      "path": "Base/Конструктор и деструктор.md"
+      "basename": "Вложенные исключения",
+      "path": "Base/Вложенные исключения.md"
     },
     {
-      "basename": "Деструктор",
-      "path": "Base/Деструктор.md"
+      "basename": "Обработка исключений",
+      "path": "Base/Обработка исключений.md"
+    },
+    {
+      "basename": "Повторный выброс исключений",
+      "path": "Base/Повторный выброс исключений.md"
+    },
+    {
+      "basename": "Review",
+      "path": "Query/Review.md"
+    },
+    {
+      "basename": "Start",
+      "path": "Query/Start.md"
+    },
+    {
+      "basename": "important_start",
+      "path": "Query/important_start.md"
+    },
+    {
+      "basename": "Continue",
+      "path": "Query/Continue.md"
+    },
+    {
+      "basename": "10 Operating system and computer architecture",
+      "path": "Base/10 Operating system and computer architecture.md"
+    },
+    {
+      "basename": "10 Programming languages",
+      "path": "Base/10 Programming languages.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
+      "basename": "Категории итераторов",
+      "path": "Base/Категории итераторов.md"
+    },
+    {
+      "basename": "Итераторы",
+      "path": "Base/Итераторы.md"
+    },
+    {
+      "basename": "Инвалидация итераторов",
+      "path": "Base/Инвалидация итераторов.md"
+    },
+    {
+      "basename": "Преобразования итераторов",
+      "path": "Base/Преобразования итераторов.md"
+    },
+    {
+      "basename": "Пишем свой итератор",
+      "path": "Base/Пишем свой итератор.md"
+    },
+    {
+      "basename": "Атрибуты",
+      "path": "Base/Атрибуты.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "Base/Templates.md"
+    },
+    {
+      "basename": "Стандартные алгоритмы",
+      "path": "Base/Стандартные алгоритмы.md"
+    },
+    {
+      "basename": "Категории выражений",
+      "path": "Base/Категории выражений.md"
     },
     {
       "basename": "Классы и структуры",
       "path": "Base/Классы и структуры.md"
     },
     {
-      "basename": "Модификаторы доступа",
-      "path": "Base/Модификаторы доступа.md"
+      "basename": "ООП",
+      "path": "Base/ООП.md"
     },
     {
-      "basename": "Проблемы возникающие во время наследования",
-      "path": "Base/Проблемы возникающие во время наследования.md"
+      "basename": "Ссылки",
+      "path": "Base/Ссылки.md"
     },
     {
-      "basename": "Методы",
-      "path": "Base/Методы.md"
+      "basename": "Move семантика",
+      "path": "Base/Move семантика.md"
     },
     {
-      "basename": "UML",
-      "path": "Example use obsidian/UML.md"
+      "basename": "rvalue lvalue reference",
+      "path": "Base/rvalue lvalue reference.md"
     },
     {
-      "basename": "struct and  union",
-      "path": "Base/struct and  union.md"
+      "basename": "Type inference",
+      "path": "Base/Type inference.md"
     },
     {
-      "basename": "Введение в алгодроч",
-      "path": "Base/Введение в алгодроч.md"
+      "basename": "Объекты",
+      "path": "Base/Объекты.md"
     },
     {
-      "basename": "Формальная дрочь",
-      "path": "Base/Формальная дрочь.md"
+      "basename": "Шаблоны функций",
+      "path": "Base/Шаблоны функций.md"
     },
     {
-      "basename": "Function pointers",
-      "path": "Base/Function pointers.md"
+      "basename": "10 Design",
+      "path": "Base/10 Design.md"
     },
     {
-      "basename": "Операторы",
-      "path": "Base/Операторы.md"
+      "basename": "Шаблоны классов",
+      "path": "Base/Шаблоны классов.md"
+    },
+    {
+      "basename": "Перегрузка функций",
+      "path": "Base/Перегрузка функций.md"
+    },
+    {
+      "basename": "Функции",
+      "path": "Base/Функции.md"
+    },
+    {
+      "basename": "BASE",
+      "path": "Example use obsidian/BASE.md"
+    },
+    {
+      "basename": "example math obsidian",
+      "path": "Example use obsidian/example math obsidian.md"
+    },
+    {
+      "basename": "Strings",
+      "path": "Base/Strings.md"
+    },
+    {
+      "basename": "Введение в арифметику указателей",
+      "path": "Base/Введение в арифметику указателей.md"
+    },
+    {
+      "basename": "Литералы",
+      "path": "Base/Литералы.md"
     }
   ],
   "omittedPaths": [],

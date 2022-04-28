@@ -6,7 +6,9 @@
 - [[10 Computer network]]
 - [[10 Reverse engineering]]
 - [[10 Design]]
+- [[10 Design Patterns]]
 - [[Linux problems and solves]]
+- [[Road to 10xprogrammer]]
 
 # How to?
 ~~Осуждаю пиратство~~ Сливы зарубежных курсов 

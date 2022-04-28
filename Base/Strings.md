@@ -1,9 +1,26 @@
 # String
-
-
-Что не так с [[C style string|сишными строками]]?
+Что не так с [[C style string|сишными строками]]?  [[Литералы]] [[Потоки ввода вывода#stringstreams]]
 
 Класс string, основан на динамическом массиве char, сам выделяет нужную память и сам ее удаляет, когда объект выходит из области видимости.
+
+![[../Files/Pasted image 20220426120152.png]]
+
+```cpp
+char astr[] = "hello";         |string astr = "hello";
+char bstr[15];                 |string bstr;
+int alen = std::strlen(astr);  |int alen = astr.length();
+assert(alen == 5);             |assert(alen == 5);     
+std::strcpy(bstr, astr);       |bstr = astr;
+std::strcat(bstr, ", world!"); |bstr += ", world!";  
+res = std::strcmp(astr, bstr); |res = astr.compare(bstr); 
+assert(res < 0);               |assert(res < 0);
+foo(bstr);                     |foo(bstr.c_str());
+
+template <typename CharT,  
+        typename Traits = std::char_traits<CharT>//строки бывают разные, у всех их есть особые правила сравнения, присваивания и т.д., поэтому чтобы не переписывать все 80 методов для каждого типа создали char_traits где хранятся их особые свойства  
+        typename Allocator = std::allocator<CharT>>  
+class basic_string { .... }
+```
 
 Полезные методы:
 1. substr - возвращает подстроку
@@ -29,9 +46,16 @@ for (auto it { cbegin(myString) }; it != cend(myString); ++it) {
 	cout << *it;
 }
 cout << endl;
+
+int main() {  
+    string s = "Hello";  
+    string::size_type notfound = s.find("bye");//т.к. не нашел вернул npos  
+    string::size_type ellp = s.find("ell");//ellp==1  
+    string::size_type hpos = s.find("H", ellp);//вернул npos  
+    //Чтобы избежать проблем используем string::size_type
+}
 ```
 
-## [[Литералы]]
 
 ## Преобразования
 ### High-level
@@ -132,7 +156,9 @@ const size_t BufferSize{ 50 };
 ```
 
 # String_view
-`string_view` – это ссылка на где-то хранящийся диапазон символов(он работает не с итераторами, а с позициями). Допустим нам дана строка состоящая из пробелов и слов, нужно написать функцию которая возвращает вектор из этих строк
+`string_view` – это невладеющий указатель на где-то хранящийся диапазон символов( работает не с итераторами, а с позициями), в отличии от `const char*` знает размер. Допустим нам дана строка состоящая из пробелов и слов, нужно написать функцию которая возвращает вектор из этих строк
+
+![[../Files/Pasted image 20220426114402.png]]
 
 ```cpp
 string_view LeftSpace(string_view& s)
@@ -162,8 +188,9 @@ vector<string_view> SplitIntoWords(string_view s)
 	SplitIntoWord(cstr);
 ```
 
-Т.к. string_view это указатель на начало строки и его длина, то не стоит в функции принимать значение по ссылке, если в дальнейшем строка уничтожится, string_view будет не понятно на что указывать, лучше не использовать `const string&`, а `string_view` и принимать по значению.
+Чем `string_view` лучше `string`, он не владеющий, т.е. он не делает сложных аллокаций, он имеет лишь указатель и размер, нам не так часто нужен весь интерфейс класса `string`
 
+Т.к. string_view это указатель на начало строки и его длина, то не стоит в функции принимать значение по ссылке, если в дальнейшем строка уничтожится, string_view будет не понятно на что указывать, лучше не использовать `const string&`, а `string_view` и принимать по значению.
 
 У `string_view` есть конструктор принимающий const char* и длину
 
@@ -205,3 +232,67 @@ auto sv { "My string"sv }
 
 
 Локализация и wide character - Марк Грегоир C++ professional 21 глава
+
+# Идиома COW - copy on write
+```cpp
+class stringbuf {   
+    char *data;   
+    size_t size;  
+    size_t capacity;  
+    int refcount;  
+// etc ....  
+    class string {  
+        stringbuf *buf;  
+// etc ....  
+        
+        string s1 = "Hello";  
+        string s2 = s1;
+```
+
+![[../Files/Pasted image 20220426114742.png]]
+
+Вместо того, чтобы в последней строке делать аллокацию, объект s2 указывает на ту же область памяти, если какой-то из объектов захочет изменить данные, то произойдет копирование буфера.
+
+![[../Files/Pasted image 20220426114902.png]]
+
+Плюсы и минусы идиомы:
+1. Экономия памяти 
+2. Дешёвое копирование (просто инкремент счётчика ссылок) 
+3. Меньше аллокаций и удалений в куче => прирост производительности 
+4. Лишний уровень косвенности 
+5. Вирусное проникновение копирования во все модифицирующие операции 
+6. Проблемы thread safety (Multithread COW disease) 
+7. Однако есть соображение, которое рушит баланс. Это инвалидация указателей
+
+```cpp
+string a = "Hello";  
+const char *p = &a[3];  
+a += "world"; // после этой точки p нельзя использовать, т.к. возможно произошла реалокация
+
+string s("str");
+const char* p = s.data();
+{
+	std::string s2(s);
+	s[0] = 'S';//в этот момент  s отделяется от s2 в новый буфер; s == Str
+}
+std::cout << *p << '\n';//невалидно, хотя я не понимаю почему, ведь данные там остались s2
+```
+
+# SSO - small string optimizations
+Напомню, что строки хранятся так:
+![[../Files/Pasted image 20220426120152.png]]
+
+Если подумать, то при маленьких строках нет смысла хранить их в куче, когда на стеке они занимают больше размера.
+
+```cpp
+class string {
+	size_type size_;
+	union {
+		struct {
+			char* data_;
+			size_type capacity_;
+		} large_;
+		char small_[sizeof(large_)];
+	};
+```
+

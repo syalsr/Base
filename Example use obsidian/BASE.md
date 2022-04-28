@@ -1,10 +1,12 @@
 # base
-![[00 Начало 🏠]]
+![[../Base/00 Начало]]
 
 
 # Hello
 
 ## Hello2
 
+^db59f5
+
 ^5717d2
-[[example math obsidian#^5717d2|move to ##Hello2]]
+[[Base#^db59f5|move to ##Hello2]]

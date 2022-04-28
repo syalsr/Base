@@ -19,3 +19,15 @@ cout << ∗it << " "; // выводим
 |        | Python | C++ | C    | Java | C#  | rbegin(C#), rend   | 
 
 Функция sort() от обычных итераторов сортирует контейнер по возрастанию, а от обратных по убыванию.
+
+# Переход к прямым итераторам
+```cpp
+int main()  
+{  
+    std::vector v {1, 2, 3, 4, 5, 6, 7};  
+    auto ri = v.rbegin() + 4;  
+    auto it = ri.base();  
+    cout << *ri << " " << *it << endl; // 3 4  
+}
+```
+![[../Files/Pasted image 20220425122631.png]]

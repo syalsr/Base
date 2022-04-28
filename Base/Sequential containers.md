@@ -33,6 +33,7 @@ int* data2 { data(vec) };
 2. диапазон итераторов - удаление набора элементов
 
 ## emplace_back vs push_back
+Поскольку emplace_back создает объект на месте, то нет смысла передавать туда локальный объект, т.к. произойдет копирование, нужно передавать параметры конструктора.
 
 ```cpp
 struct Point
@@ -122,8 +123,16 @@ cout << v.size() << " " << v.capacity() << "\n";
 
 При reserve также происходит инвалидация, увеличивается capacity, size остается тем же.
 
+## Инициализация вектора
+```cpp
+// это вектор [14, 14, 14] 
+vector v1 (3, 14); 
+// а это вектор [3, 14] 
+vector v2 {3, 14};//вызывается конструктор с initializer_list
+```
+
 ## vector bool
-Поскольку bool хранит 2 значения на выбор true, false, для оптимизации памяти, `vector<bool` представляет собой массив 0 и 1, каждый элемент занимает только 1 бит
+Поскольку bool хранит 2 значения на выбор true, false, для оптимизации памяти, `vector<bool>` представляет собой массив 0 и 1, каждый элемент занимает только 1 бит
 
 #do/review дописать что-то про vector bool из других источников, в книге я слабо понял это все
 
@@ -158,7 +167,7 @@ int main()
 ```
 
 # Deque
-Двусторонняя очередь. Новые приходят в конец и удаляются из начала(или наоборот).
+[[Категории итераторов#Random access iterators]] Двусторонняя очередь. Новые приходят в конец и удаляются из начала(или наоборот).
 
 ```cpp
 d.push_back (x)    // добавление в конец 
@@ -209,7 +218,7 @@ int main()
 ```
 
 ## Splicing
-Перемещает элементы из одного list в другой, list из которого перемещаются элементы становится пустым
+Перемещает элементы из одного list в другой, list из которого перемещаются элементы становится пустым, т.к. одна нода это указатель на следующую и предыдущую, довольно эффективно вставлять в любую точку.
 ```cpp
 int main()
 {
@@ -237,6 +246,8 @@ int main()
 }
 ```
 
+## Как и когда использовать forward_list
+1. Когда хотим избежать инвалидации итераторов
 
 # Forward list
 Для каждого элемента свой блок памяти в котором хранятся значение и адрес следующего элемента. Поддерживает [[Категории итераторов#Forward iterators]], т.е. может ходить только в одном направлении
@@ -262,7 +273,68 @@ int main()
 }
 ```
 
-Разница между list и forward list(1 - контейнер поддерживает операцию, 0 - контейнер не поддерживает операцию)
+```cpp
+forward_list<int> fst = { 1, 2, 3 };  
+forward_list<int> snd = { 10, 20, 30 };  
+auto it = fst.begin(); // указывает на 1  
+// перемещаем second в начало first, it указывает на 1  
+fst.splice_after(fst.before_begin(), snd);//ПРОСТАЯ ФОРМА O(1)
+```
+
+![[../Files/Pasted image 20220425141648.png]]
+
+```cpp
+// перекидываем элементы со второго по it в список second 
+snd.splice_after(snd.before_begin(), fst, fst.begin(), it);//СЛОЖНАЯ ФОРМА O(N)
+//т.к. итераторы не инвалидируются, используем старый который также указывает на значение 1
+```
+
+![[../Files/Pasted image 20220425141947.png]]
+
+```cpp
+// все элементы второго списка начиная со второго в первый 
+fst.splice_after(fst.before_begin(), snd, snd.begin());//СРЕДНЯЯ ФОРМА O(1)
+```
+
+![[../Files/Pasted image 20220425142150.png]]
+
+```cpp
+int main() {  
+    std::ostream_iterator<int> icout{std::cout, " "};  
+    std::forward_list<int> first = {1, 2, 3};  
+    std::forward_list<int> second = {10, 20, 30};  
+    auto it = first.begin();  
+  
+    // splice second to first: note special before_begin insert position  
+    first.splice_after(first.before_begin(), second);  
+    std::cout << "1." << std::endl;  
+    std::copy(first.begin(), first.end(), icout); std::cout << std::endl;  
+  
+    second.splice_after(second.before_begin(), first, first.begin(), it);  
+    std::cout << "2." << std::endl;  
+    std::copy(first.begin(), first.end(), icout); std::cout << std::endl;  
+    std::copy(second.begin(), second.end(), icout); std::cout << std::endl;  
+  
+    first.splice_after(first.before_begin(), second, second.begin());  
+    std::cout << "3." << std::endl;  
+    std::copy(first.begin(), first.end(), icout); std::cout << std::endl;  
+    std::copy(second.begin(), second.end(), icout); std::cout << std::endl;  
+    //1.  
+    //10 20 30 1 2 3    
+    //2.    
+    //10 1 2 3    
+    //20 30    
+    //3.    
+    //30 10 1 2 3    
+    //20
+}
+```
+
+## Как и когда использовать forward_list
+1. Когда нужно экономить память
+
+# Разница между list и forward list
+1 - контейнер поддерживает операцию, 0 - контейнер не поддерживает операцию
 
 
 | OPERATION                               | list | forward_list |
@@ -308,3 +380,72 @@ int main()
 | splice_after()                          | 0    | 1            |
 | swap()                                  | 1    | 1            |
 | unique()                                | 1    | 1            |
+
+
+# Deque vs Vector
+## Заполнение
+```cpp
+static void DequeFill(benchmark::State& state) {  
+    for (auto _ : state) {  
+        std::deque<int> d;  
+        for (int i = 0; i < 100000; ++i)  
+            d.push_back(i);  
+        benchmark::DoNotOptimize(d);  
+    }  
+}  
+BENCHMARK(DequeFill);  
+  
+static void VectorFill(benchmark::State& state) {  
+    for (auto _ : state) {  
+        std::vector<int> v;  
+        for (int i = 0; i < 100000; ++i)  
+            v.push_back(i);  
+        benchmark::DoNotOptimize(v);  
+    }  
+}  
+BENCHMARK(VectorFill);
+```
+
+![[../Files/Pasted image 20220425140318.png]]
+[Quick bench](https://quick-bench.com/q/gzYuHHieOrubE5kJ5PavQy_u6s4)
+## Вставка
+```cpp
+static std::random_device rd;  
+static std::mt19937 rng{rd()};  
+  
+int dice(int min, int max) {  
+    std::uniform_int_distribution<int> uid(min, max);  
+    return uid(rng);  
+}  
+  
+constexpr int size = 1000;  
+  
+static void DequeAcc(benchmark::State& state) {  
+    std::deque<int> d;  
+    for (int i = 0; i < size; ++i)  
+        d.push_back(i);  
+    for (auto _ : state) {  
+        int j = dice(0, size - 1);  
+        j = d[j];  
+        benchmark::DoNotOptimize(j);  
+    }  
+}  
+BENCHMARK(DequeAcc);  
+  
+static void VectorAcc(benchmark::State& state) {  
+    std::vector<int> v;  
+    for (int i = 0; i < size; ++i)  
+        v.push_back(i);  
+    for (auto _ : state) {  
+        int j = dice(0, size - 1);  
+        j = v[j];  
+        benchmark::DoNotOptimize(j);  
+    }  
+}  
+BENCHMARK(VectorAcc);
+```
+
+![[../Files/Pasted image 20220425140752.png]]
+[Quick bench](https://quick-bench.com/q/RuJH7bh8isdJ5lXamRQEODCrLNw)
+
+Из бенчмарков понятно, что вставка в дек в начало и конец эффективнее, чем у вектора, но из середины нет.

@@ -1,4 +1,4 @@
-# Итераторы inserter && back_inserter
+# Итераторы inserter && back_inserter && front_inserter
 ```cpp
 vector<string> langs = {"Python", "C++", "C", "Java", "C#"}; 
 vector<string> c_langs; // о размере уже не беспокоимся 
@@ -28,6 +28,7 @@ int main()
 }
 ```
 
+`front_inserter` - вставляет в начало.
 
 `inserter` возвращает специальный итератор, который вставляет элемент в множество, конструктор принимает контейнер и позицию
 

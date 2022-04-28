@@ -1,3 +1,6 @@
+# 10 Graphics
+[[Как рендерит OpenGL]]
+
 # Based
 * [Книга](https://realtimerendering.com)
 * [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
