@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7a68e4aedfe0f258",
+        "id": "f7542f978147fe92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Road to 10xprogrammer.md",
+            "file": "Base/Templates.md",
             "mode": "source",
             "source": false
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ковариант",
+                "query": "локализа",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233,
-    "collapsed": true
+    "width": 233
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -85,7 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Road to 10xprogrammer.md",
+                "file": "Base/Templates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Road to 10xprogrammer.md",
+                "file": "Base/Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,9 +153,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Road to 10xprogrammer.md",
+                "file": "Base/Templates.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Road to 10xprogrammer.md"
+                "file": "Base/Templates.md"
               }
             }
           }
@@ -183,20 +182,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502,
-    "collapsed": true
+    "width": 502
   },
-  "active": "7a68e4aedfe0f258",
+  "active": "f7542f978147fe92",
   "lastOpenFiles": [
-    "Base/Road to 10xprogrammer.md",
-    "Base/00 Начало.md",
-    "Base/EBCO.md",
-    "Base/Многопоточность.md",
-    "Base/async и future.md",
-    "Base/20 C++.md",
-    "Rough diamond/Rough diamond.md",
-    "Base/Умные указатели.md",
-    "Base/Генерализация.md",
-    "Base/Ковариантность и Контрвариантность.md"
+    "Base/Templates.md",
+    "Base/Универсальные ссылки perfect forwarding.md",
+    "Base/SFINAE.md",
+    "Base/Шаблоны специальных методов.md",
+    "Base/is_reference remove_reference.md",
+    "Base/enable_if.md",
+    "Base/void_t.md",
+    "Base/Шаблоны функций.md",
+    "Base/Параметры шаблонов не являющиеся типами.md",
+    "Base/Указание возвращаемого типа у шаблонов функций.md"
   ]
 }

@@ -1,7 +1,8 @@
 # Road to 10xprogrammer
 ## C++ все расположено в порядке изучения, кроме самих топиков
-* [ ] АКОС  
-* [ ] [КСЦ Операционные системы](https://stepik.org/course/1780/syllabus)  
+* [ ] АКОС
+	* [ ] [Первый 3 лекции по ассемблеру](https://www.youtube.com/playlist?list=PLd7QXkfmSY7a2zw_PVPn7vKs9F9BG6Pd4)
+	* [ ] [КСЦ Операционные системы](https://stepik.org/course/1780/syllabus)  
 * [ ] **Математика**  
     * [ ] Мат. логика  и теория алгоритмов  
         * [ ] [Дашков 1 семестр](https://www.youtube.com/playlist?list=PL4_hYwCyhAvb4c-Z43ppdKwC1hWX6hOYi)  

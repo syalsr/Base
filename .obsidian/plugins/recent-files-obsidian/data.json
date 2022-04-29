@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Road to 10xprogrammer",
-      "path": "Base/Road to 10xprogrammer.md"
-    },
-    {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
-    },
-    {
-      "basename": "EBCO",
-      "path": "Base/EBCO.md"
-    },
-    {
-      "basename": "Многопоточность",
-      "path": "Base/Многопоточность.md"
-    },
-    {
-      "basename": "async и future",
-      "path": "Base/async и future.md"
-    },
-    {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
-    },
-    {
-      "basename": "Rough diamond",
-      "path": "Rough diamond/Rough diamond.md"
-    },
-    {
-      "basename": "Умные указатели",
-      "path": "Base/Умные указатели.md"
-    },
-    {
-      "basename": "Генерализация",
-      "path": "Base/Генерализация.md"
-    },
-    {
-      "basename": "Ковариантность и Контрвариантность",
-      "path": "Base/Ковариантность и Контрвариантность.md"
-    },
-    {
-      "basename": "C style string",
-      "path": "Base/C style string.md"
-    },
-    {
-      "basename": "Модель памяти",
-      "path": "Base/Модель памяти.md"
-    },
-    {
-      "basename": "Лямбда-функции",
-      "path": "Base/Лямбда-функции.md"
-    },
-    {
-      "basename": "Идиома immediately invoked lambda expression (IILE)",
-      "path": "Base/Идиома immediately invoked lambda expression (IILE).md"
-    },
-    {
-      "basename": "Вложенные исключения",
-      "path": "Base/Вложенные исключения.md"
-    },
-    {
-      "basename": "Обработка исключений",
-      "path": "Base/Обработка исключений.md"
-    },
-    {
-      "basename": "Повторный выброс исключений",
-      "path": "Base/Повторный выброс исключений.md"
-    },
-    {
-      "basename": "Review",
-      "path": "Query/Review.md"
-    },
-    {
-      "basename": "Start",
-      "path": "Query/Start.md"
-    },
-    {
-      "basename": "important_start",
-      "path": "Query/important_start.md"
-    },
-    {
-      "basename": "Continue",
-      "path": "Query/Continue.md"
-    },
-    {
-      "basename": "10 Operating system and computer architecture",
-      "path": "Base/10 Operating system and computer architecture.md"
-    },
-    {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
-    },
-    {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
-    },
-    {
-      "basename": "Категории итераторов",
-      "path": "Base/Категории итераторов.md"
-    },
-    {
-      "basename": "Итераторы",
-      "path": "Base/Итераторы.md"
-    },
-    {
-      "basename": "Инвалидация итераторов",
-      "path": "Base/Инвалидация итераторов.md"
-    },
-    {
-      "basename": "Преобразования итераторов",
-      "path": "Base/Преобразования итераторов.md"
-    },
-    {
-      "basename": "Пишем свой итератор",
-      "path": "Base/Пишем свой итератор.md"
-    },
-    {
-      "basename": "Атрибуты",
-      "path": "Base/Атрибуты.md"
-    },
-    {
       "basename": "Templates",
       "path": "Base/Templates.md"
     },
     {
-      "basename": "Стандартные алгоритмы",
-      "path": "Base/Стандартные алгоритмы.md"
+      "basename": "Универсальные ссылки perfect forwarding",
+      "path": "Base/Универсальные ссылки perfect forwarding.md"
     },
     {
-      "basename": "Категории выражений",
-      "path": "Base/Категории выражений.md"
+      "basename": "SFINAE",
+      "path": "Base/SFINAE.md"
     },
     {
-      "basename": "Классы и структуры",
-      "path": "Base/Классы и структуры.md"
+      "basename": "Шаблоны специальных методов",
+      "path": "Base/Шаблоны специальных методов.md"
     },
     {
-      "basename": "ООП",
-      "path": "Base/ООП.md"
+      "basename": "is_reference remove_reference",
+      "path": "Base/is_reference remove_reference.md"
     },
     {
-      "basename": "Ссылки",
-      "path": "Base/Ссылки.md"
+      "basename": "enable_if",
+      "path": "Base/enable_if.md"
     },
     {
-      "basename": "Move семантика",
-      "path": "Base/Move семантика.md"
-    },
-    {
-      "basename": "rvalue lvalue reference",
-      "path": "Base/rvalue lvalue reference.md"
-    },
-    {
-      "basename": "Type inference",
-      "path": "Base/Type inference.md"
-    },
-    {
-      "basename": "Объекты",
-      "path": "Base/Объекты.md"
+      "basename": "void_t",
+      "path": "Base/void_t.md"
     },
     {
       "basename": "Шаблоны функций",
       "path": "Base/Шаблоны функций.md"
     },
     {
-      "basename": "10 Design",
-      "path": "Base/10 Design.md"
+      "basename": "Параметры шаблонов не являющиеся типами",
+      "path": "Base/Параметры шаблонов не являющиеся типами.md"
+    },
+    {
+      "basename": "Указание возвращаемого типа у шаблонов функций",
+      "path": "Base/Указание возвращаемого типа у шаблонов функций.md"
+    },
+    {
+      "basename": "Двухэтапная трансляция",
+      "path": "Base/Двухэтапная трансляция.md"
+    },
+    {
+      "basename": "Разрешения перегрузки шаблонов и обычных функций",
+      "path": "Base/Разрешения перегрузки шаблонов и обычных функций.md"
+    },
+    {
+      "basename": "Инстанцирование",
+      "path": "Base/Инстанцирование.md"
     },
     {
       "basename": "Шаблоны классов",
       "path": "Base/Шаблоны классов.md"
     },
     {
-      "basename": "Перегрузка функций",
-      "path": "Base/Перегрузка функций.md"
+      "basename": "Частичная специализация шаблонов классов",
+      "path": "Base/Частичная специализация шаблонов классов.md"
     },
     {
-      "basename": "Функции",
-      "path": "Base/Функции.md"
+      "basename": "Специализация шаблонов классов",
+      "path": "Base/Специализация шаблонов классов.md"
     },
     {
-      "basename": "BASE",
-      "path": "Example use obsidian/BASE.md"
+      "basename": "Конфликты имен",
+      "path": "Base/Конфликты имен.md"
     },
     {
-      "basename": "example math obsidian",
-      "path": "Example use obsidian/example math obsidian.md"
+      "basename": "Шаблоны глобальных переменных",
+      "path": "Base/Шаблоны глобальных переменных.md"
+    },
+    {
+      "basename": "Свойства типов Type traits",
+      "path": "Base/Свойства типов Type traits.md"
+    },
+    {
+      "basename": "Категории типов в C++",
+      "path": "Base/Категории типов в C++.md"
+    },
+    {
+      "basename": "Вывод типов Type deduction",
+      "path": "Base/Вывод типов Type deduction.md"
+    },
+    {
+      "basename": "Вариативные шаблоны variadic templates",
+      "path": "Base/Вариативные шаблоны variadic templates.md"
+    },
+    {
+      "basename": "Явное инстанцирование",
+      "path": "Base/Явное инстанцирование.md"
+    },
+    {
+      "basename": "20 C++",
+      "path": "Base/20 C++.md"
+    },
+    {
+      "basename": "Модель памяти",
+      "path": "Base/Модель памяти.md"
+    },
+    {
+      "basename": "important_start",
+      "path": "Query/important_start.md"
     },
     {
       "basename": "Strings",
       "path": "Base/Strings.md"
     },
     {
-      "basename": "Введение в арифметику указателей",
-      "path": "Base/Введение в арифметику указателей.md"
+      "basename": "Контейнеры",
+      "path": "Base/Контейнеры.md"
     },
     {
-      "basename": "Литералы",
-      "path": "Base/Литералы.md"
+      "basename": "std stack",
+      "path": "Base/std stack.md"
+    },
+    {
+      "basename": "priority queue",
+      "path": "Base/priority queue.md"
+    },
+    {
+      "basename": "queue",
+      "path": "Base/queue.md"
+    },
+    {
+      "basename": "std unordered_set",
+      "path": "Base/std unordered_set.md"
+    },
+    {
+      "basename": "std set and std multiset",
+      "path": "Base/std set and std multiset.md"
+    },
+    {
+      "basename": "std unordered_map",
+      "path": "Base/std unordered_map.md"
+    },
+    {
+      "basename": "std map and std multimap",
+      "path": "Base/std map and std multimap.md"
+    },
+    {
+      "basename": "bidirectional list",
+      "path": "Base/bidirectional list.md"
+    },
+    {
+      "basename": "forward list",
+      "path": "Base/forward list.md"
+    },
+    {
+      "basename": "std deque",
+      "path": "Base/std deque.md"
+    },
+    {
+      "basename": "std array",
+      "path": "Base/std array.md"
+    },
+    {
+      "basename": "std vector",
+      "path": "Base/std vector.md"
+    },
+    {
+      "basename": "Hash tables",
+      "path": "Base/Hash tables.md"
+    },
+    {
+      "basename": "difference between std vector and std array",
+      "path": "Base/difference between std vector and std array.md"
+    },
+    {
+      "basename": "difference between linked lists",
+      "path": "Base/difference between linked lists.md"
+    },
+    {
+      "basename": "Категории итераторов",
+      "path": "Base/Категории итераторов.md"
+    },
+    {
+      "basename": "Контейнеро подобные классы",
+      "path": "Base/Контейнеро подобные классы.md"
+    },
+    {
+      "basename": "Итераторы",
+      "path": "Base/Итераторы.md"
+    },
+    {
+      "basename": "Стандартные алгоритмы",
+      "path": "Base/Стандартные алгоритмы.md"
+    },
+    {
+      "basename": "10 Operating system and computer architecture",
+      "path": "Base/10 Operating system and computer architecture.md"
+    },
+    {
+      "basename": "Road to 10xprogrammer",
+      "path": "Base/Road to 10xprogrammer.md"
+    },
+    {
+      "basename": "Rough diamond",
+      "path": "Rough diamond/Rough diamond.md"
     }
   ],
   "omittedPaths": [],

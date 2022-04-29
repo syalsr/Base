@@ -230,6 +230,11 @@ cout << sv;
 auto sv { "My string"sv }
 ```
 
+# Локализация
+```cpp
+cout.imbue(locale { "en-US" }); // "en_US" for POSIX
+cout << 32767 << endl;//32,767
+```
 
 Локализация и wide character - Марк Грегоир C++ professional 21 глава
 
