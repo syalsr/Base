@@ -15,7 +15,9 @@
         * [ ] Грокаем алгоритмы  
         * [ ] [КСЦ Алгоритмы. Теория. Практика. Методы](https://stepik.org/course/217/syllabus)  
         * [ ] [Доп. семинар по матроидам](https://www.youtube.com/watch?v=F7B4sYnLm5I)  
-        * [ ] [Формальные языки](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbl7pkWGbeOjWyU-z7hDnlb)  
+        * [ ] Формальные языки
+            * [ ] [2019](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbl7pkWGbeOjWyU-z7hDnlb)  
+            * [ ] [2021](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYkVw2wY5Ax6Mq79vBGbze3)
         * [ ] LeetCode  
 * [ ] C++  
     * [x] Белый пояс  

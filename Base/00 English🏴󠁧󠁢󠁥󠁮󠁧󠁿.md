@@ -2,19 +2,17 @@
 # Listening
 ## Podcasts
 * [ESL Podcasts](https://www.eslpod.com) - Anyone who wants to improve their English speaking and listening skills.
-* [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Learn and practise useful English language for everyday situations with the BBC.
-* [CBC](https://www.cbc.ca/radio/podcasts)
-* [ABC](https://www.abc.net.au/radio/podcasts/)
-* [HardCore History](https://www.dancarlin.com)
 * [Radio lab](https://www.wnycstudios.org/podcasts/radiolab)
 * [BBC sounds](https://www.bbc.co.uk/sounds/categories) - podcasts by category
-
-## Tech Podcasts
+* [HardCore History](https://www.dancarlin.com)
+* [Tai asks why](https://www.cbc.ca/listen/cbc-podcasts/204-tai-asks-why)
+* [White Hot Hate](https://www.cbc.ca/listen/cbc-podcasts/1031-white-hot-hate)
+* [2050: Degrees of change](https://www.cbc.ca/listen/cbc-podcasts/156-2050-degrees-of-change)
+* [Ladies, we need to talk](https://www.abc.net.au/radio/programs/ladies-we-need-to-talk/episodes/)
 * [CppCast](https://cppcast.com)
-* [MageTalk](https://magetalk.com/) - This is a great show with the latest news around Magento ecosystem, community and eCommerce.
 
 ## Listening + reading
-* [English Language Learning : Listen & Read](http://esl-bits.net) listeninng audio book and reading it
+* [English Language Learning : Listen & Read](http://esl-bits.net) listening audio book and reading it
 
 # Watching
 ## Useful
@@ -22,7 +20,7 @@
 
 ## Series and films
 * [subline](https://subline.su/)
-* [FanSerials](http://myseria.pro/)
+* [FanSerials - актуальное зеркало в группе в вк](https://vk.com/myserianet)
 * [Zetflix](https://zetflix.biz)
 
 # Words

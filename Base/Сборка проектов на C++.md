@@ -55,5 +55,3 @@ int x { 3 };
 ---
 extern int x { 3 };
 ```
-
-#do/important_start начать конспектировать https://www.youtube.com/playlist?list=PL3BR09unfgchnggx7IJuSU57mxjMhrSaq

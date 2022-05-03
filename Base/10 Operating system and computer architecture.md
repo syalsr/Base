@@ -9,11 +9,6 @@
 [Direct Mapping — Map cache and main memory](https://medium.com/breaktheloop/direct-mapping-map-cache-and-main-memory-d5e4c1cbf73e)
 [Direct-Mapped Cache and its architecture](http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/8-cache/dm.html)
 
-#do/important_start 
-1. законспектировать эти 2 статьи
-2. начать проходить курсы по акосу на степике ксц
-3. https://www.youtube.com/playlist?list=PLd7QXkfmSY7ZG6T7gPZ7OfAEiCwR7i8fu https://www.youtube.com/playlist?list=PLd7QXkfmSY7afUPCdL2hzDi57b8FV9EZQ как нибудь потом
-
 # Что каждый программист должен знать о памяти?
 ## RAM - random access memory
 Существуют 2 типа подобной памяти, статическая и динамическая RAM - SRAM и DRAM, статическая память намного быстрее динамической и предоставляет ту же функциональность, но из-за цены нам приходится использовать еще и динамическую.
@@ -107,6 +102,7 @@
 1. Поток мигрирует с одного процессора на другой, и все кэш-строки должны быть сразу перенесены на новый процессор.
 2. Кэш-строка действительно необходима в двух разных процессорах. В меньшей степени то же самое верно для двух ядер на одном процессоре. Затраты только немного меньше. Вероятно, что сообщение RFO будет отправляться много раз.
 
-#do/review https://www.youtube.com/watch?v=7n_8cOBpQrg
-https://www.youtube.com/c/АПСПопов/videos
+
+#do/start https://www.youtube.com/c/АПСПопов/videos
 https://github.com/MPSU/APS-info
+

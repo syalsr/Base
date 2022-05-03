@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f7542f978147fe92",
+        "id": "a2086ce9f19d809f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Templates.md",
+            "file": "Base/00 How to learn.md",
             "mode": "source",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "914b25995a5ff5d9",
         "type": "tabs",
+        "dimension": 48.70517928286853,
         "children": [
           {
             "id": "e1a58d3235277b80",
@@ -39,6 +40,7 @@
       {
         "id": "59a065fb86ce85a4",
         "type": "tabs",
+        "dimension": 51.29482071713147,
         "children": [
           {
             "id": "595325253c14b819",
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "локализа",
+                "query": "самоконтрол",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -62,13 +64,23 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "088484dbc7db72e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/00 How to learn.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 292,
+    "collapsed": true
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -84,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Templates.md",
+                "file": "Base/00 How to learn.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +119,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 255,
-                  "scale": 0.5087618855792607,
+                  "scale": 0.508761885579261,
                   "close": true
                 }
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Templates.md",
+                "file": "Base/00 How to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Templates.md",
+                "file": "Base/00 How to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,35 +178,26 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "088484dbc7db72e6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Base/Templates.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 502
+    "width": 502,
+    "collapsed": true
   },
-  "active": "f7542f978147fe92",
+  "active": "a2086ce9f19d809f",
   "lastOpenFiles": [
-    "Base/Templates.md",
-    "Base/Универсальные ссылки perfect forwarding.md",
-    "Base/SFINAE.md",
-    "Base/Шаблоны специальных методов.md",
-    "Base/is_reference remove_reference.md",
-    "Base/enable_if.md",
-    "Base/void_t.md",
-    "Base/Шаблоны функций.md",
-    "Base/Параметры шаблонов не являющиеся типами.md",
-    "Base/Указание возвращаемого типа у шаблонов функций.md"
+    "Base/00 How to learn.md",
+    "Base/Привычки.md",
+    "Base/Серотонин.md",
+    "Base/Правильное питание.md",
+    "Base/Медитация.md",
+    "Base/Интервальное голодание.md",
+    "Base/Контрастный душ.md",
+    "Base/00 Health care.md",
+    "Base/Нейропластичность.md",
+    "Base/Осознанность.md"
   ]
 }
