@@ -60,6 +60,7 @@
 * [Game Programming Patterns](http://gameprogrammingpatterns.com)
 * [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [Design patterns and anti-pattertns](https://sourcemaking.com)
+* [Backend](https://github.com/bzick/oh-my-backend)
 
 # Интервью
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)

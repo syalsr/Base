@@ -60,6 +60,60 @@ struct torgle_register
 torgle_register tr = {14, true, false};
 ```
 
+## Выравнивание
+```cpp
+struct S
+{
+	double j;
+	int j;
+	int l;
+}sizeof(S)=16
+struct S
+{
+	int j;
+	double j;
+	int l;
+}sizeof(S)=24
+```
+#do/important_start найти почему так
+
+Можно сказать структуре как она должна выравниваться
+
+```cpp
+struct S  
+{  
+    double j;  
+    int j1;  
+    int l;  
+};  
+struct S1  
+{  
+    int j;  
+    double j1;  
+    int l;  
+};  
+  
+struct alignas(8) S2  
+{  
+    int j;  
+    double j1;  
+    int l;  
+};  
+  
+struct alignas(std::max_align_t) S3  
+{  
+    int j;  
+    double j1;  
+    int l;  
+};  
+  
+int main() {  
+  
+    std:: cout << sizeof(S) << sizeof(S1) << sizeof(S2) << sizeof(S3);//16242432  
+    return 0;  
+}
+```
+
 # Объединения(union)
 Объединение - это формат данных, который может хранить в пределах одной области памяти разные типы данных, но в каждый момент времени только один из них.
 

@@ -1,5 +1,5 @@
 # enable_if
-Позволяет игнорировать шаблоны при определенных компайл тайм условиях.
+Позволяет [[Шаблоны специальных методов|игнорировать шаблоны]] при определенных компайл тайм условиях.
 
 ```cpp
 template<typename T>
@@ -53,8 +53,7 @@ using iterator_category_t = typename std::iterator_traits<It>::iterator_category
   
 template <typename It, typename T = std::enable_if_t<  
         std::is_base_of_v<std::random_access_iterator_tag,  
-                iterator_category_t<It>>  
->>  
+                iterator_category_t<It>>>>  
 void foo(It first, It last) {  
     std::cout << std::distance(first, last) << std::endl;  
 }  

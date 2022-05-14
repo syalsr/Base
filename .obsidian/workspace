@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a2086ce9f19d809f",
+        "id": "87c6864f177fd6e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 How to learn.md",
+            "file": "Base/Раннее новое время.md",
             "mode": "source",
             "source": false
           }
@@ -25,7 +25,7 @@
       {
         "id": "914b25995a5ff5d9",
         "type": "tabs",
-        "dimension": 48.70517928286853,
+        "dimension": 43.213572854291414,
         "children": [
           {
             "id": "e1a58d3235277b80",
@@ -40,7 +40,7 @@
       {
         "id": "59a065fb86ce85a4",
         "type": "tabs",
-        "dimension": 51.29482071713147,
+        "dimension": 56.786427145708586,
         "children": [
           {
             "id": "595325253c14b819",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "самоконтрол",
+                "query": "Iter{}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 How to learn.md"
+                "file": "Base/Раннее новое время.md"
               }
             }
           }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292,
+    "width": 235,
     "collapsed": true
   },
   "right": {
@@ -89,6 +89,7 @@
       {
         "id": "20dd80a6b93040df",
         "type": "tabs",
+        "dimension": 64.44223107569721,
         "children": [
           {
             "id": "d1aeac774d287a2e",
@@ -96,9 +97,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/00 How to learn.md",
+                "file": "Base/Раннее новое время.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -111,7 +112,7 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": -0.3,
+                  "textFadeMultiplier": -1,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -119,7 +120,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 255,
-                  "scale": 0.508761885579261,
+                  "scale": 0.5087618855792627,
                   "close": true
                 }
               }
@@ -130,6 +131,7 @@
       {
         "id": "f66297d892748eb4",
         "type": "tabs",
+        "dimension": 35.55776892430279,
         "children": [
           {
             "id": "546ab0e5ce2b0e96",
@@ -137,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 How to learn.md",
+                "file": "Base/Раннее новое время.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/00 How to learn.md",
+                "file": "Base/Раннее новое время.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,20 +186,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502,
+    "width": 485,
     "collapsed": true
   },
-  "active": "a2086ce9f19d809f",
+  "active": "87c6864f177fd6e6",
   "lastOpenFiles": [
-    "Base/00 How to learn.md",
-    "Base/Привычки.md",
-    "Base/Серотонин.md",
-    "Base/Правильное питание.md",
-    "Base/Медитация.md",
-    "Base/Интервальное голодание.md",
-    "Base/Контрастный душ.md",
-    "Base/00 Health care.md",
-    "Base/Нейропластичность.md",
-    "Base/Осознанность.md"
+    "Base/Раннее новое время.md",
+    "Base/00 История.md",
+    "Base/BFS.md",
+    "Base/std unordered_map.md",
+    "Base/std unordered_set.md",
+    "Base/Dijkstra's algorithm.md",
+    "Base/Мир в XIX веке.md",
+    "Base/Мир в XVIII веке.md",
+    "Base/Road to 10xprogrammer.md",
+    "Base/Япония в эпоху правления династии Токугава.md"
   ]
 }

@@ -19,5 +19,6 @@
     "en-GB"
   ],
   "trashOption": "local",
-  "tabSize": 4
+  "tabSize": 4,
+  "readableLineLength": true
 }

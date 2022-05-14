@@ -9,6 +9,7 @@
 * https://www.youtube.com/watch?v=nUfUncwZios
 * [A Case against the GO TO Statement](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD02xx/EWD215.html)
 * [The Humble Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
+* https://russianblogs.com/article/84112590082/
 * https://arne-mertz.de/2016/01/modern-c-features-keyword-noexcept/
 * https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa
 * http://maplant.com/gc.html
