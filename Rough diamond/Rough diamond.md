@@ -27,5 +27,4 @@
 * [Использование gcc](http://staff.mmcs.sfedu.ru/~ulysses/IT/C++/using_gcc.html)
 * ПОЧЕМУ ШАБЛОНЫ МОГУТ БЫТЬ РЕАЛИЗОВАНЫ ТОЛЬКО В ЗАГОЛОВОЧНОМ ФАЙЛЕ? - [1](https://web-answers.ru/c/pochemu-shablony-mogut-byt-realizovany-tolko-v.html), [2](https://stackoverflow.com/questions/495021/why-can-templates-only-be-implemented-in-the-header-file) [3](https://isocpp.org/wiki/faq/templates\#templates-defn-vs-decl)
 * [Why C++ is not just an Object-Oriented Programming Language](https://www.stroustrup.com/oopsla.pdf)
-* #do/important_start [sorokin](https://lejabque.github.io/cpp-notes/print.html)[Первые 3 лекции по асемблеру и акосу посмотреть](https://www.youtube.com/playlist?list=PLd7QXkfmSY7a2zw_PVPn7vKs9F9BG6Pd4)
 * [Как стать долларовым миллионером за 30 лет, лежа на диване](https://habr.com/ru/post/500754/)

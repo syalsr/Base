@@ -25,13 +25,8 @@
 
 # Words
 ## Dictionaries
-* [wooordhunt](https://wooordhunt.ru/word)
-* [lingvolive](https://www.lingvolive.com/ru-ru)
-* [urbandictionary](https://www.urbandictionary.com)
 * [collinsdictionary](https://www.collinsdictionary.com/dictionary/english)
-* [techopedia](https://www.techopedia.com/dictionary)
 * [oxfordlearnersdictionaries](https://oxfordlearnersdictionaries.com/definition/english)
-* [techdico](https://www.techdico.com/translation/english-russian/target.html)
 * [context.reverso](https://context.reverso.net/перевод/английский-русский)
 
 # Grammar

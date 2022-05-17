@@ -75,7 +75,8 @@ struct S
 	int l;
 }sizeof(S)=24
 ```
-#do/important_start найти почему так
+
+![[aliignment.excalidraw]]
 
 Можно сказать структуре как она должна выравниваться
 
