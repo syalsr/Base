@@ -1,8 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "10 Operating system and computer architecture",
+      "path": "Base/10 Operating system and computer architecture.md"
+    },
+    {
+      "basename": "Операционная система",
+      "path": "Base/Операционная система.md"
+    },
+    {
+      "basename": "Interrupts",
+      "path": "Base/Interrupts.md"
+    },
+    {
+      "basename": "Явное инстанцирование",
+      "path": "Base/Явное инстанцирование.md"
+    },
+    {
       "basename": "Аппаратное обеспечение",
       "path": "Base/Аппаратное обеспечение.md"
+    },
+    {
+      "basename": "Rough diamond",
+      "path": "Rough diamond/Rough diamond.md"
+    },
+    {
+      "basename": "How to ask for c++ coding help",
+      "path": "Rough diamond/How to ask for c++ coding help.md"
+    },
+    {
+      "basename": "Не рычите на собаку",
+      "path": "Rough diamond/Не рычите на собаку.md"
+    },
+    {
+      "basename": "00 История",
+      "path": "История/00 История.md"
+    },
+    {
+      "basename": "Мир в XX веке",
+      "path": "История/Мир в XX веке.md"
+    },
+    {
+      "basename": "Средневековье",
+      "path": "История/Средневековье.md"
+    },
+    {
+      "basename": "Англия в раннее Средневековье",
+      "path": "История/Англия в раннее Средневековье.md"
+    },
+    {
+      "basename": "Великое переселение народов в IV-VII веках",
+      "path": "История/Великое переселение народов в IV-VII веках.md"
+    },
+    {
+      "basename": "Крестьяне и феодалы",
+      "path": "История/Крестьяне и феодалы.md"
+    },
+    {
+      "basename": "Древний мир",
+      "path": "История/Древний мир.md"
+    },
+    {
+      "basename": "Цивилизация Древнего Рима VIII века до н.э. – V века н.э.",
+      "path": "История/Цивилизация Древнего Рима VIII века до н.э. – V века н.э..md"
+    },
+    {
+      "basename": "Цивилизация Древнего Египта II - I тысячелетия до н.э.",
+      "path": "История/Цивилизация Древнего Египта II - I тысячелетия до н.э..md"
+    },
+    {
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
+    },
+    {
+      "basename": "00 Экономика",
+      "path": "Base/00 Экономика.md"
+    },
+    {
+      "basename": "Операторы",
+      "path": "Base/Операторы.md"
+    },
+    {
+      "basename": "00 How to learn",
+      "path": "Base/00 How to learn.md"
+    },
+    {
+      "basename": "Мозг",
+      "path": "Base/Мозг.md"
+    },
+    {
+      "basename": "Система органов",
+      "path": "Base/Система органов.md"
+    },
+    {
+      "basename": "00 Органы",
+      "path": "Base/00 Органы.md"
+    },
+    {
+      "basename": "C++ links",
+      "path": "Base/C++ links.md"
+    },
+    {
+      "basename": "20 cmake",
+      "path": "Base/20 cmake.md"
+    },
+    {
+      "basename": "Linux problems and solves",
+      "path": "Base/Linux problems and solves.md"
     },
     {
       "basename": "Cache",
@@ -17,16 +121,8 @@
       "path": "Base/Primary memory.md"
     },
     {
-      "basename": "10 Operating system and computer architecture",
-      "path": "Base/10 Operating system and computer architecture.md"
-    },
-    {
       "basename": "Логические вентили",
       "path": "Base/Логические вентили.md"
-    },
-    {
-      "basename": "Операционная система",
-      "path": "Base/Операционная система.md"
     },
     {
       "basename": "Road to 10xprogrammer",
@@ -61,18 +157,6 @@
       "path": "Excalidraw/adrr.excalidraw.md"
     },
     {
-      "basename": "Явное инстанцирование",
-      "path": "Base/Явное инстанцирование.md"
-    },
-    {
-      "basename": "Rough diamond",
-      "path": "Rough diamond/Rough diamond.md"
-    },
-    {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
-    },
-    {
       "basename": "Пишем свой итератор",
       "path": "Base/Пишем свой итератор.md"
     },
@@ -105,16 +189,8 @@
       "path": "Excalidraw/Drawing 2022-05-07 10.19.22.excalidraw.md"
     },
     {
-      "basename": "Мир в XX веке",
-      "path": "История/Мир в XX веке.md"
-    },
-    {
       "basename": "linearalloca3.excalidraw",
       "path": "Excalidraw/linearalloca3.excalidraw.md"
-    },
-    {
-      "basename": "20 cmake",
-      "path": "Base/20 cmake.md"
     },
     {
       "basename": "Матрицы",
@@ -123,82 +199,6 @@
     {
       "basename": "00 Health care",
       "path": "Base/00 Health care.md"
-    },
-    {
-      "basename": "Принятие решения человеком",
-      "path": "Base/Принятие решения человеком.md"
-    },
-    {
-      "basename": "Прокрастинация",
-      "path": "Base/Прокрастинация.md"
-    },
-    {
-      "basename": "dijkstra16.excalidraw",
-      "path": "Excalidraw/dijkstra16.excalidraw.md"
-    },
-    {
-      "basename": "Reverse iterators",
-      "path": "Base/Reverse iterators.md"
-    },
-    {
-      "basename": "dijkstra13.excalidraw",
-      "path": "Excalidraw/dijkstra13.excalidraw.md"
-    },
-    {
-      "basename": "Деление клеток",
-      "path": "Base/Деление клеток.md"
-    },
-    {
-      "basename": "ООП",
-      "path": "Base/ООП.md"
-    },
-    {
-      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
-    },
-    {
-      "basename": "if constexpr",
-      "path": "Base/if constexpr.md"
-    },
-    {
-      "basename": "Drawing 2022-05-10 20.46.10.excalidraw",
-      "path": "Excalidraw/Drawing 2022-05-10 20.46.10.excalidraw.md"
-    },
-    {
-      "basename": "C++ links",
-      "path": "Base/C++ links.md"
-    },
-    {
-      "basename": "Dijkstra's algorithm",
-      "path": "Base/Dijkstra's algorithm.md"
-    },
-    {
-      "basename": "История России",
-      "path": "История/История России.md"
-    },
-    {
-      "basename": "00 История",
-      "path": "История/00 История.md"
-    },
-    {
-      "basename": "Мир в XIX веке",
-      "path": "История/Мир в XIX веке.md"
-    },
-    {
-      "basename": "Мир в XVIII веке",
-      "path": "История/Мир в XVIII веке.md"
-    },
-    {
-      "basename": "Раннее новое время",
-      "path": "История/Раннее новое время.md"
-    },
-    {
-      "basename": "Конкиста",
-      "path": "История/Конкиста.md"
-    },
-    {
-      "basename": "Средневековье",
-      "path": "История/Средневековье.md"
     }
   ],
   "omittedPaths": [],

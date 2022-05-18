@@ -160,14 +160,14 @@
 	* [x] queue
 	* [x] priority_queue
 * [ ] Принципы разработки
-	* [ ] KISS - keep it simple, stupid
+	* [x] KISS - keep it simple, stupid
 	* [x] DRY - dont repeat yourself
 	* [ ] YAGNI - you arent gonna need it
-	* [ ] APO - avoid premature optimization
+	* [x] APO - avoid premature optimization
 	* [ ] BDUF - big design up front
-	* [ ] Композиция предпочтительнее наследования
+	* [x] Композиция предпочтительнее наследования
 	* [ ] Бритва Оккама
-	* [ ] Разделяй и властвуй
+	* [x] Разделяй и властвуй
 * [ ] Архитектура ПО
 	* [x] UML
 	* [x] SOLID
