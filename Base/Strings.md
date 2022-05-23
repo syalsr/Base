@@ -169,7 +169,7 @@ string_view LeftSpace(string_view& s)
 vector<string_view> SplitIntoWords(string_view s)
 {
 	vector<string_view> result;
-	LeftSpace(s); //убираем пробелы слева, если бы мы использовали string и итераторы, код бы значительно усложнился
+	LeftSpace(s); //убираем пробелы слева, если бы мы использовали string и [[итераторы]], код бы значительно усложнился
 	while(true){
 		size_t space = str.find(' ');
 		result.push_back(str.substr(0, space));

@@ -9,7 +9,7 @@ copy_if(begin(langs), end(langs),
 PrintRange (begin(c_langs), end(c_langs)); // C++, C, C#,
 ```
 
-Итератор `back_inserter` помимо того, что умеют делать обычные итераторы, еще делает push_back в контейнер к которому относится.
+Итератор `back_inserter` помимо того, что умеют делать обычные [[итераторы]], еще делает push_back в контейнер к которому относится.
 
 ```cpp
 template <typename InputIter, typename OutputIter>
