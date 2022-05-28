@@ -38,3 +38,7 @@
 ## Поиск работы
 * [Geek job](https://geekjob.ru/geeks?qs=с%2B%2B)
 * [g-mate](https://your.gms.tech)
+* [jobme](https://jobme.cc/?tags=c)
+* mock interview
+	* https://interviewing.io
+	* https://www.pramp.com

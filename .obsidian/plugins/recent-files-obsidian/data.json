@@ -1,24 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "00 How to learn",
-      "path": "Base/00 How to learn.md"
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
     },
     {
-      "basename": "Детерменизм",
-      "path": "Base/Детерменизм.md"
+      "basename": "20 C++",
+      "path": "Base/20 C++.md"
+    },
+    {
+      "basename": "00 Conversation🗣️",
+      "path": "Base/00 Conversation🗣️.md"
+    },
+    {
+      "basename": "Медитация",
+      "path": "Base/Медитация.md"
+    },
+    {
+      "basename": "Серотонин",
+      "path": "Base/Серотонин.md"
+    },
+    {
+      "basename": "Самоконтроль",
+      "path": "Base/Самоконтроль.md"
+    },
+    {
+      "basename": "C++ links",
+      "path": "Base/C++ links.md"
+    },
+    {
+      "basename": "Множества",
+      "path": "Base/Множества.md"
+    },
+    {
+      "basename": "example math obsidian",
+      "path": "Example use obsidian/example math obsidian.md"
+    },
+    {
+      "basename": "Дискретная математика",
+      "path": "Base/Дискретная математика.md"
+    },
+    {
+      "basename": "Road to 10xprogrammer",
+      "path": "Base/Road to 10xprogrammer.md"
+    },
+    {
+      "basename": "00 Математика",
+      "path": "Math/00 Математика.md"
     },
     {
       "basename": "00 Health care",
       "path": "Base/00 Health care.md"
     },
     {
-      "basename": "00 Экономика",
-      "path": "Base/00 Экономика.md"
+      "basename": "Физическое здоровье",
+      "path": "Base/Физическое здоровье.md"
     },
     {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
+      "basename": "00 Система органов",
+      "path": "Base/00 Система органов.md"
+    },
+    {
+      "basename": "00 Клетка",
+      "path": "Base/00 Клетка.md"
+    },
+    {
+      "basename": "Питание",
+      "path": "Base/Питание.md"
     },
     {
       "basename": "00 Органы",
@@ -29,12 +77,44 @@
       "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
     },
     {
-      "basename": "История России",
-      "path": "История/История России.md"
+      "basename": "Религия",
+      "path": "История/Религия.md"
     },
     {
-      "basename": "Road to 10xprogrammer",
-      "path": "Base/Road to 10xprogrammer.md"
+      "basename": "Мусульманство",
+      "path": "История/Мусульманство.md"
+    },
+    {
+      "basename": "00 How to learn",
+      "path": "Base/00 How to learn.md"
+    },
+    {
+      "basename": "Ментальное здоровье",
+      "path": "Base/Ментальное здоровье.md"
+    },
+    {
+      "basename": "Сон",
+      "path": "Base/Сон.md"
+    },
+    {
+      "basename": "Дофамин",
+      "path": "Base/Дофамин.md"
+    },
+    {
+      "basename": "time.excalidraw",
+      "path": "Excalidraw/time.excalidraw.md"
+    },
+    {
+      "basename": "Детерменизм",
+      "path": "Base/Детерменизм.md"
+    },
+    {
+      "basename": "00 Экономика",
+      "path": "Base/00 Экономика.md"
+    },
+    {
+      "basename": "История России",
+      "path": "История/История России.md"
     },
     {
       "basename": "Hash tables",
@@ -117,88 +197,8 @@
       "path": "История/Цивилизация Древнего Рима VIII века до н.э. – V века н.э..md"
     },
     {
-      "basename": "00 Conversation🗣️",
-      "path": "Base/00 Conversation🗣️.md"
-    },
-    {
       "basename": "Шаблоны глобальных переменных",
       "path": "Base/Шаблоны глобальных переменных.md"
-    },
-    {
-      "basename": "Система органов",
-      "path": "Base/Система органов.md"
-    },
-    {
-      "basename": "Дискретная математика",
-      "path": "Base/Дискретная математика.md"
-    },
-    {
-      "basename": "Модель памяти",
-      "path": "Base/Модель памяти.md"
-    },
-    {
-      "basename": "10 Design",
-      "path": "Base/10 Design.md"
-    },
-    {
-      "basename": "Данные",
-      "path": "Base/Данные.md"
-    },
-    {
-      "basename": "ООП",
-      "path": "Base/ООП.md"
-    },
-    {
-      "basename": "Развитие Италии в XV-XVI века",
-      "path": "История/Развитие Италии в XV-XVI века.md"
-    },
-    {
-      "basename": "quick sort",
-      "path": "Base/quick sort.md"
-    },
-    {
-      "basename": "Процессы",
-      "path": "Base/Процессы.md"
-    },
-    {
-      "basename": "Вывод типов Type deduction",
-      "path": "Base/Вывод типов Type deduction.md"
-    },
-    {
-      "basename": "std unordered_map",
-      "path": "Base/std unordered_map.md"
-    },
-    {
-      "basename": "Некопируемые типы",
-      "path": "Base/Некопируемые типы.md"
-    },
-    {
-      "basename": "Дофамин",
-      "path": "Base/Дофамин.md"
-    },
-    {
-      "basename": "Правильное питание",
-      "path": "Base/Правильное питание.md"
-    },
-    {
-      "basename": "Серотонин",
-      "path": "Base/Серотонин.md"
-    },
-    {
-      "basename": "Итераторы",
-      "path": "Base/Итераторы.md"
-    },
-    {
-      "basename": "Потоки ввода вывода",
-      "path": "Base/Потоки ввода вывода.md"
-    },
-    {
-      "basename": "Введение итераторы",
-      "path": "Base/Введение итераторы.md"
-    },
-    {
-      "basename": "Потоки",
-      "path": "Base/Потоки.md"
     }
   ],
   "omittedPaths": [],

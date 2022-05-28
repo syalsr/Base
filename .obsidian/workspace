@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a466d5c899650c03",
+        "id": "485850e37cc9a582",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 How to learn.md",
+            "file": "Base/00 Начало.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vector<bool>",
+                "query": "цель",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,16 +71,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 How to learn.md"
+                "file": "Base/00 Начало.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 235,
+    "width": 272,
     "collapsed": true
   },
   "right": {
@@ -97,9 +96,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/00 How to learn.md",
+                "file": "Base/00 Начало.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 How to learn.md",
+                "file": "Base/00 Начало.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f66297d892748eb4",
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/00 How to learn.md",
+                "file": "Base/00 Начало.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,17 +188,17 @@
     "width": 465,
     "collapsed": true
   },
-  "active": "a466d5c899650c03",
+  "active": "485850e37cc9a582",
   "lastOpenFiles": [
-    "Base/00 How to learn.md",
-    "Base/Детерменизм.md",
-    "Base/Детерменизм детерменизма.md",
-    "Base/00 Health care.md",
-    "Base/00 Экономика.md",
     "Base/00 Начало.md",
-    "Base/00 Органы.md",
-    "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
-    "История/История России.md",
-    "Base/Road to 10xprogrammer.md"
+    "Base/20 C++.md",
+    "Base/00 Conversation🗣️.md",
+    "Base/Медитация.md",
+    "Base/Серотонин.md",
+    "Base/Самоконтроль.md",
+    "Base/Трудные диалоги.md",
+    "Rough diamond/Не рычите на собаку.md",
+    "Base/C++ links.md",
+    "Base/Множества.md"
   ]
 }

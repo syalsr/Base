@@ -5,6 +5,7 @@ c & d
 \end{vmatrix}=ad-bc
 $$
 
+
 $$\forall k\geq 1$$
 
 $$(P(k)\implies P(k+1))$$
@@ -706,7 +707,7 @@ Let $( \mathcal{T} )$ be a topological space, a basis is defined as
 | $$\nshortmid$$                | \nshortmid                |
 | $$\nshortparallel$$           | \nshortparallel           |
 | $$\nsim$$                     | \nsim                     |
-| $$\nsubseteq$$                | \nsubseteq                |
+| $$\nsubseteq$$                | \nsubseteqq                |
 | $$\nsubseteqq$$               | \nsubseteqq               |
 | $$\nsucc$$                    | \nsucc                    |
 | $$\nsucceq$$                  | \nsucceq                  |

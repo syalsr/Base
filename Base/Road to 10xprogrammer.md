@@ -1,6 +1,6 @@
 # Road to 10xprogrammer
 ## C++ все расположено в порядке изучения, кроме самих топиков
-* [ ] АКОС
+* [x] АКОС
 	* [x] [Первый 3 лекции по ассемблеру](https://www.youtube.com/playlist?list=PLd7QXkfmSY7a2zw_PVPn7vKs9F9BG6Pd4)
 	* [x] Лекции 4-8 по [акосу](https://www.youtube.com/playlist?list=PLd7QXkfmSY7a2zw_PVPn7vKs9F9BG6Pd4)
 	* [x] Лекции 11-12 по [сборке](https://www.youtube.com/playlist?list=PLd7QXkfmSY7a2zw_PVPn7vKs9F9BG6Pd4)
@@ -13,17 +13,14 @@
         * [ ] Виленкин до 144 страницы  
     * [ ] Дискретная математика  
         * [ ] Сюзанна
-    * [ ] Теория множеств
-        * [ ] Шень
     * [ ] Алгоритмы и структуры данных  
         * [x] Грокаем алгоритмы  
         * [ ] [КСЦ Алгоритмы. Теория. Практика. Методы](https://stepik.org/course/217/syllabus)  
-        * [ ] [Доп. семинар по матроидам](https://www.youtube.com/watch?v=F7B4sYnLm5I)  
         * [ ] Формальные языки
             * [ ] [2019](https://www.youtube.com/playlist?list=PL4_hYwCyhAvbl7pkWGbeOjWyU-z7hDnlb)  
             * [ ] [2021](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYkVw2wY5Ax6Mq79vBGbze3)
-        * [ ] LeetCode  
-* [ ] C++  
+        * [ ] LeetCode
+* [ ] C++
     * [x] Белый пояс  
     * [x] Желтый пояс  
     * [x] Красный пояс  
@@ -45,7 +42,7 @@
     * [ ] Perf book  
 * [ ] Проекты
 	* [x] vector
-	* [ ] Allocator
+	* [x] Allocator
 	* [ ] Garbage collector
 	* [ ] Транспортный справочник
 * [ ] Статьи
@@ -265,7 +262,7 @@
 	* [ ] 6.10.2 Predefined Function Objects . . . . . . . . . . . . . . . . . . . . . . . . 239
 	* [ ] 6.10.3 Binders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
 	* [ ] 6.10.4 Function Objects and Binders versus Lambdas . . . . . . . . . . . . . . . 243
-* [ ] 6.11 Container Elements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244
+* [x] 6.11 Container Elements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244
 	* [ ] 6.11.1 Requirements for Container Elements . . . . . . . . . . . . . . . . . . . 244
 	* [ ] 6.11.2 Value Semantics or Reference Semantics . . . . . . . . . . . . . . . . . . 245
 * [ ] 6.12 Errors and Exceptions inside the STL . . . . . . . . . . . . . . . . . . . . . . . . 245
