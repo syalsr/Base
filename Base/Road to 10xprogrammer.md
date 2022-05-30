@@ -209,15 +209,15 @@
 * [x] shared_ptr
 * [ ] weak_ptr 84-98
 * [ ] unique_ptr до 114
-* [ ] type traits До 134
-* [ ] 5.4.1 Purpose of Type Traits 
-	* [ ] 5.4.2 Type Traits in Detail 
-	* [ ] 5.4.3 Reference Wrappers 
-	* [ ] 5.4.4 Function Type Wrappers .
-* [ ] Auxiliary Functionsдо
-	* [ ] 5.5.1 Processing the Minimum and Maximum
-	* [ ] 5.5.2 Swapping Two Values 
-	* [ ] 5.5.3 Supplementary Comparison Operators
+* [x] type traits До 134
+* [x] 5.4.1 Purpose of Type Traits 
+	* [x] 5.4.2 Type Traits in Detail 
+	* [x] 5.4.3 Reference Wrappers 
+	* [x] 5.4.4 Function Type Wrappers .
+* [x] Auxiliary Functionsдо
+	* [x] 5.5.1 Processing the Minimum and Maximum
+	* [x] 5.5.2 Swapping Two Values 
+	* [x] 5.5.3 Supplementary Comparison Operators
 * [ ] Compile-Time Fractional Arithmetic with Class ratio<> . . . . . . . . . . . . . 140
 * [ ] 5.7 Clocks and Timers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
 	* [ ] 5.7.1 Overview of the Chrono Library . . . . . . . . . . . . . . . . . . . . . . 143
@@ -225,52 +225,52 @@
 	* [ ] 5.7.3 Clocks and Timepoints . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
 	* [ ] 5.7.4 Date and Time Functions by C and POSIX . . . . . . . . . . . . . . . . . 157
 	* [ ] 5.7.5 Blocking with Timers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
-* [ ] 5.8 Header Files `<cstddef>, <cstdlib>, and <cstring>` . . . . . . . . . . . . . . 161
-	* [ ]  5.8.1 Definitions in` <cstddef>` . . . . . . . . . . . . . . . . . . . . . . . . . . 161
-	* [ ] 5.8.2 Definitions in `<cstdlib>` . . . . . . . . . . . . . . . . . . . . . . . . . . 162
-	* [ ] 5.8.3 Definitions in `<cstring>` . . . . . . . . . . . . . . . . . . . . . . . . . . 163
-* [ ] 6.1 STL Components . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
-* [ ] 6.2 Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
-	* [ ] 6.2.1 Sequence Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
-	* [ ] 6.2.2 Associative Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
-	* [ ] 6.2.3 Unordered Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180
-	* [ ] 6.2.4 Associative Arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185
-	* [ ] 6.2.5 Other Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
-	* [ ] 6.2.6 Container Adapters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
-* [ ] 6.3 Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
-	* [ ] 6.3.1 Further Examples of Using Associative and Unordered Containers . . . . 193
-	* [ ] 6.3.2 Iterator Categories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
-* [ ] 6.4 Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199
-	* [ ] 6.4.1 Ranges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
-	* [ ] 6.4.2 Handling Multiple Ranges . . . . . . . . . . . . . . . . . . . . . . . . . 207
-	* [ ] 6.5 Iterator Adapters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
-	* [ ] 6.5.1 Insert Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+* [x] 5.8 Header Files `<cstddef>, <cstdlib>, and <cstring>` . . . . . . . . . . . . . . 161
+	* [x]  5.8.1 Definitions in` <cstddef>` . . . . . . . . . . . . . . . . . . . . . . . . . . 161
+	* [x] 5.8.2 Definitions in `<cstdlib>` . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+	* [x] 5.8.3 Definitions in `<cstring>` . . . . . . . . . . . . . . . . . . . . . . . . . . 163
+* [x] 6.1 STL Components . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+* [x] 6.2 Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+	* [x] 6.2.1 Sequence Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+	* [x] 6.2.2 Associative Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+	* [x] 6.2.3 Unordered Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+	* [x] 6.2.4 Associative Arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185
+	* [x] 6.2.5 Other Containers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+	* [x] 6.2.6 Container Adapters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
+* [x] 6.3 Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
+	* [x] 6.3.1 Further Examples of Using Associative and Unordered Containers . . . . 193
+	* [x] 6.3.2 Iterator Categories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+* [x] 6.4 Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199
+	* [x] 6.4.1 Ranges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+	* [x] 6.4.2 Handling Multiple Ranges . . . . . . . . . . . . . . . . . . . . . . . . . 207
+* [x] 6.5 Iterator Adapters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+	* [x] 6.5.1 Insert Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
 	* [ ] 6.5.2 Stream Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212
-	* [ ] 6.5.3 Reverse Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
-	* [ ] 6.5.4 Move Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 216
-* [ ] 6.6 User-Defined Generic Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . 216
-* [ ] 6.7 Manipulating Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217
-	* [ ] 6.7.1 “Removing” Elements . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
-	* [ ] 6.7.2 Manipulating Associative and Unordered Containers . . . . . . . . . . . 221
-	* [ ] 6.7.3 Algorithms versus Member Functions . . . . . . . . . . . . . . . . . . . 223
-* [ ] 6.8 Functions as Algorithm Arguments . . . . . . . . . . . . . . . . . . . . . . . . . 224
-	* [ ] 6.8.1 Using Functions as Algorithm Arguments . . . . . . . . . . . . . . . . . 224
-	* [ ] 6.8.2 Predicates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+	* [x] 6.5.3 Reverse Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
+	* [x] 6.5.4 Move Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 216
+* [x] 6.6 User-Defined Generic Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . 216
+* [x] 6.7 Manipulating Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217
+	* [x] 6.7.1 “Removing” Elements . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+	* [x] 6.7.2 Manipulating Associative and Unordered Containers . . . . . . . . . . . 221
+	* [x] 6.7.3 Algorithms versus Member Functions . . . . . . . . . . . . . . . . . . . 223
+* [x] 6.8 Functions as Algorithm Arguments . . . . . . . . . . . . . . . . . . . . . . . . . 224
+	* [x] 6.8.1 Using Functions as Algorithm Arguments . . . . . . . . . . . . . . . . . 224
+	* [x] 6.8.2 Predicates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
 * [x] 6.9 Using Lambdas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
 * [x] 6.10 Function Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
 	* [ ] 6.10.1 Definition of Function Objects . . . . . . . . . . . . . . . . . . . . . . . 233
-	* [ ] 6.10.2 Predefined Function Objects . . . . . . . . . . . . . . . . . . . . . . . . 239
+	* [x] 6.10.2 Predefined Function Objects . . . . . . . . . . . . . . . . . . . . . . . . 239
 	* [ ] 6.10.3 Binders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
-	* [ ] 6.10.4 Function Objects and Binders versus Lambdas . . . . . . . . . . . . . . . 243
+	* [x] 6.10.4 Function Objects and Binders versus Lambdas . . . . . . . . . . . . . . . 243
 * [x] 6.11 Container Elements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244
-	* [ ] 6.11.1 Requirements for Container Elements . . . . . . . . . . . . . . . . . . . 244
-	* [ ] 6.11.2 Value Semantics or Reference Semantics . . . . . . . . . . . . . . . . . . 245
-* [ ] 6.12 Errors and Exceptions inside the STL . . . . . . . . . . . . . . . . . . . . . . . . 245
-	* [ ] 6.12.1 Error Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246
-	* [ ] 6.12.2 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 248
-* [ ] 6.13 Extending the STL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250
-	* [ ] 6.13.1 Integrating Additional Types . . . . . . . . . . . . . . . . . . . . . . . . 250
-	* [ ] 6.13.2 Deriving from STL Types . . . . . . . . . . . . . . . . . . . . . . . . . . 251
+	* [x] 6.11.1 Requirements for Container Elements . . . . . . . . . . . . . . . . . . . 244
+	* [x] 6.11.2 Value Semantics or Reference Semantics . . . . . . . . . . . . . . . . . . 245
+* [x] 6.12 Errors and Exceptions inside the STL . . . . . . . . . . . . . . . . . . . . . . . . 245
+	* [x] 6.12.1 Error Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246
+	* [x] 6.12.2 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 248
+* [x] 6.13 Extending the STL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250
+	* [x] 6.13.1 Integrating Additional Types . . . . . . . . . . . . . . . . . . . . . . . . 250
+	* [x] 6.13.2 Deriving from STL Types . . . . . . . . . . . . . . . . . . . . . . . . . . 251
 * [x] 7.1 Common Container Abilities and Operations . . . . . . . . . . . . . . . . . . . . 254
 	* [x] 7.1.1 Container Abilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
 	* [x] 7.1.2 Container Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
@@ -294,22 +294,22 @@
 	* [x] 7.4.2 Deque Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 285
 	* [x] 7.4.3 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 288
 	* [x] 7.4.4 Examples of Using Deques . . . . . . . . . . . . . . . . . . . . . . . . . 288
-* [ ] 7.5 Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 290
-	* [ ] 7.5.1 Abilities of Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 290
-	* [ ] 7.5.2 List Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 291
-	* [ ] 7.5.3 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 296
-	* [ ] 7.5.4 Examples of Using Lists . . . . . . . . . . . . . . . . . . . . . . . . . . 298
-* [ ] 7.6 Forward Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
-	* [ ] 7.6.1 Abilities of Forward Lists . . . . . . . . . . . . . . . . . . . . . . . . . . 300
-	* [ ] 7.6.2 Forward List Operations . . . . . . . . . . . . . . . . . . . . . . . . . . 302
-	* [ ] 7.6.3 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 311
-	* [ ] 7.6.4 Examples of Using Forward Lists . . . . . . . . . . . . . . . . . . . . . . 312
-* [ ] 7.7 Sets and Multisets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314
-	* [ ] 7.7.1 Abilities of Sets and Multisets . . . . . . . . . . . . . . . . . . . . . . . 315
-	* [ ] 7.7.2 Set and Multiset Operations . . . . . . . . . . . . . . . . . . . . . . . . . 316
-	* [ ] 7.7.3 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325
-	* [ ] 7.7.4 Examples of Using Sets and Multisets . . . . . . . . . . . . . . . . . . . 325
-	* [ ] 7.7.5 Example of Specifying the Sorting Criterion at Runtime . . . . . . . . . . 328
+* [x] 7.5 Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 290
+	* [x] 7.5.1 Abilities of Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 290
+	* [x] 7.5.2 List Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 291
+	* [x] 7.5.3 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 296
+	* [x] 7.5.4 Examples of Using Lists . . . . . . . . . . . . . . . . . . . . . . . . . . 298
+* [x] 7.6 Forward Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+	* [x] 7.6.1 Abilities of Forward Lists . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+	* [x] 7.6.2 Forward List Operations . . . . . . . . . . . . . . . . . . . . . . . . . . 302
+	* [x] 7.6.3 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 311
+	* [x] 7.6.4 Examples of Using Forward Lists . . . . . . . . . . . . . . . . . . . . . . 312
+* [x] 7.7 Sets and Multisets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 314
+	* [x] 7.7.1 Abilities of Sets and Multisets . . . . . . . . . . . . . . . . . . . . . . . 315
+	* [x] 7.7.2 Set and Multiset Operations . . . . . . . . . . . . . . . . . . . . . . . . . 316
+	* [x] 7.7.3 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325
+	* [x] 7.7.4 Examples of Using Sets and Multisets . . . . . . . . . . . . . . . . . . . 325
+	* [x] 7.7.5 Example of Specifying the Sorting Criterion at Runtime . . . . . . . . . . 328
 * [ ] 7.8 Maps and Multimaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 331
 	* [ ] 7.8.1 Abilities of Maps and Multimaps . . . . . . . . . . . . . . . . . . . . . . 332
 	* [ ] 7.8.2 Map and Multimap Operations . . . . . . . . . . . . . . . . . . . . . . . 333
@@ -329,8 +329,8 @@
 	* [ ] 7.10.1 Strings as STL Containers . . . . . . . . . . . . . . . . . . . . . . . . . 385
 	* [ ] 7.10.2 Ordinary C-Style Arrays as STL Containers . . . . . . . . . . . . . . . . 386
 * [ ] 7.11 Implementing Reference Semantics . . . . . . . . . . . . . . . . . . . . . . . . . 388
-* [ ] 7.12 When to Use Which Container . . . . . . . . . . . . . . . . . . . . . . . . . . . . 392
-* [ ] 8.1 Type Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 397
+* [x] 7.12 When to Use Which Container . . . . . . . . . . . . . . . . . . . . . . . . . . . . 392
+* [x] 8.1 Type Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 397
 * [ ] 8.2 Create, Copy, and Destroy Operations . . . . . . . . . . . . . . . . . . . . . . . . 400
 * [ ] 8.3 Nonmodifying Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 403
 	* [ ] 8.3.1 Size Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 403
@@ -593,7 +593,7 @@
 	* [ ] 17.2.3 Operations for Complex Numbers . . . . . . . . . . . . . . . . . . . . . 928
 	* [ ] 17.2.4 Class complex<> in Detail . . . . . . . . . . . . . . . . . . . . . . . . . 935
 * [ ] 17.3 Global Numeric Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 941
-* [ ] 17.4 Valarrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 943
+* [x] 17.4 Valarrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 943
 * [ ] 18.1 The High-Level Interface: async() and Futures . . . . . . . . . . . . . . . . . . 946
 	* [ ] 18.1.1 A First Example Using async() and Futures . . . . . . . . . . . . . . . 946
 	* [ ] 18.1.2 An Example of Waiting for Two Tasks . . . . . . . . . . . . . . . . . . . 955
@@ -624,14 +624,14 @@
 	* [ ] 18.6.2 A First Complete Example for Condition Variables . . . . . . . . . . . . 1004
 	* [ ] 18.6.3 Using Condition Variables to Implement a Queue for Multiple Threads . . 1006
 	* [ ] 18.6.4 Condition Variables in Detail . . . . . . . . . . . . . . . . . . . . . . . . 1009
-* [ ] 18.7 Atomics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1012
+* [x] 18.7 Atomics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1012
 	* [ ] 18.7.1 Example of Using Atomics . . . . . . . . . . . . . . . . . . . . . . . . . 1012
 	* [ ] 18.7.2 Atomics and Their High-Level Interface in Detail . . . . . . . . . . . . . 1016
 	* [ ] 18.7.3 The C-Style Interface of Atomics . . . . . . . . . . . . . . . . . . . . . . 1019
 	* [ ] 18.7.4 The Low-Level Interface of Atomics . . . . . . . . . . . . . . . . . . . . 1019
-* [ ] Allocators 1023
+* [x] Allocators 1023
 	* [ ] 19.1 Using Allocators as an Application Programmer . . . . . . . . . . . . . . . . . . 1023
-		* [ ] 19.2 A User-Defined Allocator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1024
-			* [ ] 19.3 Using Allocators as a Library Programmer . . . . . . . . . . . . . . . . . . . . . 1026
+	* [ ] 19.2 A User-Defined Allocator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1024
+	* [ ] 19.3 Using Allocators as a Library Programmer . . . . . . . . . . . . . . . . . . . . . 1026
 
 #roadto

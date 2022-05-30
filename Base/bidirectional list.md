@@ -51,6 +51,46 @@ int main()
         cout << word << endl;
     }
 }
+int main()
+{
+	// create two empty lists
+	list<int> list1, list2;
+	// fill both lists with elements
+	for (int i=0; i<6; ++i) {
+		list1.push_back(i);
+		list2.push_front(i);
+	}
+	printLists(list1, list2);
+	// insert all elements of list1 before the first element with value 3 of list2
+	// - find() returns an iterator to the first element with value 3
+	list2.splice(find(list2.begin(),list2.end(), // destination position
+						3),
+					list1); // source list
+	printLists(list1, list2);
+	// move first element of list2 to the end
+	list2.splice(list2.end(), // destination position
+					list2, // source list
+					list2.begin()); // source position
+	printLists(list1, list2);
+	// sort second list, assign to list1 and remove duplicates
+	list2.sort();
+	list1 = list2;
+	list2.unique();
+	printLists(list1, list2);
+	// merge both sorted lists into the first list
+	list1.merge(list2);
+	printLists(list1, list2);
+	list1: 0 1 2 3 4 5
+	list2: 5 4 3 2 1 0
+	list1:
+	list2: 5 4 0 1 2 3 4 5 3 2 1 0
+	list1:
+	list2: 4 0 1 2 3 4 5 3 2 1 0 5
+	list1: 0 0 1 1 2 2 3 3 4 4 5 5
+	list2: 0 1 2 3 4 5
+	list1: 0 0 0 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5
+	list2:
+}
 ```
 
 ## Когда использовать?
