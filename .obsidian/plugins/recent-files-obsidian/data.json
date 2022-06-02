@@ -1,16 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
+      "basename": "Бинарный поиск",
+      "path": "Base/Бинарный поиск.md"
     },
     {
-      "basename": "Ссылки",
-      "path": "Base/Ссылки.md"
+      "basename": "Категории итераторов",
+      "path": "Base/Категории итераторов.md"
+    },
+    {
+      "basename": "Облака",
+      "path": "Base/Облака.md"
+    },
+    {
+      "basename": "Модель памяти",
+      "path": "Base/Модель памяти.md"
+    },
+    {
+      "basename": "Память в C++",
+      "path": "Base/Память в C++.md"
+    },
+    {
+      "basename": "Арифметика указателей",
+      "path": "Base/Арифметика указателей.md"
+    },
+    {
+      "basename": "Strings in pure C",
+      "path": "Base/Strings in pure C.md"
+    },
+    {
+      "basename": "Arrays in pure C",
+      "path": "Base/Arrays in pure C.md"
+    },
+    {
+      "basename": "Выделение и освобождение динамической памяти",
+      "path": "Base/Выделение и освобождение динамической памяти.md"
+    },
+    {
+      "basename": "Placement new",
+      "path": "Base/Placement new.md"
+    },
+    {
+      "basename": "Переопределение new delete",
+      "path": "Base/Переопределение new delete.md"
+    },
+    {
+      "basename": "Как обнаружить утечки памяти в Visual Studio",
+      "path": "Base/Как обнаружить утечки памяти в Visual Studio.md"
+    },
+    {
+      "basename": "Type punning",
+      "path": "Base/Type punning.md"
+    },
+    {
+      "basename": "Многопоточность и аллокация памяти",
+      "path": "Base/Многопоточность и аллокация памяти.md"
+    },
+    {
+      "basename": "Allocators",
+      "path": "Base/Allocators.md"
     },
     {
       "basename": "STL",
       "path": "Base/STL.md"
+    },
+    {
+      "basename": "20 C++",
+      "path": "Base/20 C++.md"
+    },
+    {
+      "basename": "Road to 10xprogrammer",
+      "path": "Base/Road to 10xprogrammer.md"
+    },
+    {
+      "basename": "Graph",
+      "path": "Base/Graph.md"
+    },
+    {
+      "basename": "Дискретная математика",
+      "path": "Base/Дискретная математика.md"
+    },
+    {
+      "basename": "10 Algorithm and data structures",
+      "path": "Base/10 Algorithm and data structures.md"
+    },
+    {
+      "basename": "Структурная дрочь",
+      "path": "Base/Структурная дрочь.md"
+    },
+    {
+      "basename": "Drawing 2022-05-07 10.13.07.excalidraw",
+      "path": "Excalidraw/Drawing 2022-05-07 10.13.07.excalidraw.md"
+    },
+    {
+      "basename": "Множества",
+      "path": "Base/Множества.md"
+    },
+    {
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
+    },
+    {
+      "basename": "10 Programming languages",
+      "path": "Base/10 Programming languages.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
+      "basename": "Алгодроч",
+      "path": "Base/Алгодроч.md"
+    },
+    {
+      "basename": "quick sort",
+      "path": "Base/quick sort.md"
+    },
+    {
+      "basename": "Сумма на отрезке",
+      "path": "Base/Сумма на отрезке.md"
+    },
+    {
+      "basename": "Эффективность алгоритмов",
+      "path": "Base/Эффективность алгоритмов.md"
+    },
+    {
+      "basename": "Ссылки",
+      "path": "Base/Ссылки.md"
     },
     {
       "basename": "constexpr",
@@ -83,118 +199,6 @@
     {
       "basename": "Устройства ввода вывода",
       "path": "Base/Устройства ввода вывода.md"
-    },
-    {
-      "basename": "Модель потоков ввода вывода",
-      "path": "Base/Модель потоков ввода вывода.md"
-    },
-    {
-      "basename": "Для чего нужны потоки",
-      "path": "Base/Для чего нужны потоки.md"
-    },
-    {
-      "basename": "Макросы",
-      "path": "Base/Макросы.md"
-    },
-    {
-      "basename": "Сборка проектов на C++",
-      "path": "Base/Сборка проектов на C++.md"
-    },
-    {
-      "basename": "Литералы",
-      "path": "Base/Литералы.md"
-    },
-    {
-      "basename": "Целочисленные типы",
-      "path": "Base/Целочисленные типы.md"
-    },
-    {
-      "basename": "Concurency in C++",
-      "path": "Base/Concurency in C++.md"
-    },
-    {
-      "basename": "mutable в многопоточных программах",
-      "path": "Base/mutable в многопоточных программах.md"
-    },
-    {
-      "basename": "Функции",
-      "path": "Base/Функции.md"
-    },
-    {
-      "basename": "Когда применять константность",
-      "path": "Base/Когда применять константность.md"
-    },
-    {
-      "basename": "ООП",
-      "path": "Base/ООП.md"
-    },
-    {
-      "basename": "Методы",
-      "path": "Base/Методы.md"
-    },
-    {
-      "basename": "Физическая, логическая константность и mutable",
-      "path": "Base/Физическая, логическая константность и mutable.md"
-    },
-    {
-      "basename": "Константные методы",
-      "path": "Base/Константные методы.md"
-    },
-    {
-      "basename": "Неконстантные методы",
-      "path": "Base/Неконстантные методы.md"
-    },
-    {
-      "basename": "Классы и структуры",
-      "path": "Base/Классы и структуры.md"
-    },
-    {
-      "basename": "Константность в многопоточных программах",
-      "path": "Base/Константность в многопоточных программах.md"
-    },
-    {
-      "basename": "Контейнеро подобные классы",
-      "path": "Base/Контейнеро подобные классы.md"
-    },
-    {
-      "basename": "Разделение кода на файлы и директивы препроцессора",
-      "path": "Base/Разделение кода на файлы и директивы препроцессора.md"
-    },
-    {
-      "basename": "casting",
-      "path": "Base/casting.md"
-    },
-    {
-      "basename": "Initialization",
-      "path": "Base/Initialization.md"
-    },
-    {
-      "basename": "Type inference",
-      "path": "Base/Type inference.md"
-    },
-    {
-      "basename": "initializer lists",
-      "path": "Base/initializer lists.md"
-    },
-    {
-      "basename": "Enumerated types",
-      "path": "Base/Enumerated types.md"
-    },
-    {
-      "basename": "Память в C++",
-      "path": "Base/Память в C++.md"
-    },
-    {
-      "basename": "Модель памяти",
-      "path": "Base/Модель памяти.md"
-    },
-    {
-      "basename": "Категории выражений",
-      "path": "Base/Категории выражений.md"
-    },
-    {
-      "basename": "Зона комфорта",
-      "path": "Base/Зона комфорта.md"
     }
   ],
   "omittedPaths": [],
