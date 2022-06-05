@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Бинарный поиск.md",
+            "file": "Base/00 Уход за собой.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Бинарный поиск.md"
+                "file": "Base/00 Уход за собой.md"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Бинарный поиск.md",
+                "file": "Base/00 Уход за собой.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Бинарный поиск.md",
+                "file": "Base/00 Уход за собой.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Бинарный поиск.md",
+                "file": "Base/00 Уход за собой.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,15 +190,15 @@
   },
   "active": "25e4036d68791b04",
   "lastOpenFiles": [
+    "Base/00 Уход за собой.md",
+    "Base/00 Начало.md",
+    "Base/00 How to learn.md",
+    "Math/00 Математика.md",
+    "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
+    "Base/Dijkstra's algorithm.md",
     "Base/Бинарный поиск.md",
     "Base/Категории итераторов.md",
     "Base/Облака.md",
-    "Base/Модель памяти.md",
-    "Base/Память в C++.md",
-    "Base/Арифметика указателей.md",
-    "Base/Strings in pure C.md",
-    "Base/Arrays in pure C.md",
-    "Base/Выделение и освобождение динамической памяти.md",
-    "Base/Placement new.md"
+    "Base/Модель памяти.md"
   ]
 }

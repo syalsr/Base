@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Уход за собой",
+      "path": "Base/00 Уход за собой.md"
+    },
+    {
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
+    },
+    {
+      "basename": "00 How to learn",
+      "path": "Base/00 How to learn.md"
+    },
+    {
+      "basename": "00 Математика",
+      "path": "Math/00 Математика.md"
+    },
+    {
+      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+    },
+    {
+      "basename": "Dijkstra's algorithm",
+      "path": "Base/Dijkstra's algorithm.md"
+    },
+    {
       "basename": "Бинарный поиск",
       "path": "Base/Бинарный поиск.md"
     },
@@ -97,10 +121,6 @@
       "path": "Base/Множества.md"
     },
     {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
-    },
-    {
       "basename": "10 Programming languages",
       "path": "Base/10 Programming languages.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Потоки ввода вывода",
       "path": "Base/Потоки ввода вывода.md"
-    },
-    {
-      "basename": "File streams",
-      "path": "Base/File streams.md"
-    },
-    {
-      "basename": "stringstreams",
-      "path": "Base/stringstreams.md"
-    },
-    {
-      "basename": "inputstreams",
-      "path": "Base/inputstreams.md"
-    },
-    {
-      "basename": "output streams",
-      "path": "Base/output streams.md"
-    },
-    {
-      "basename": "Устройства ввода вывода",
-      "path": "Base/Устройства ввода вывода.md"
     }
   ],
   "omittedPaths": [],
