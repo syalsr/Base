@@ -8,7 +8,7 @@
   "attachmentFolderPath": "Files",
   "promptDelete": false,
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "defaultViewMode": "preview",
   "strictLineBreaks": false,
   "showFrontmatter": false,
