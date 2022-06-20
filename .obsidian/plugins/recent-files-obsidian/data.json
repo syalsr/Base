@@ -1,8 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "Список книг",
+      "path": "Base/Список книг.md"
+    },
+    {
+      "basename": "Протокол IP",
+      "path": "Base/Протокол IP.md"
+    },
+    {
+      "basename": "ipprot.excalidraw",
+      "path": "Excalidraw/ipprot.excalidraw.md"
+    },
+    {
+      "basename": "Взаимодействие сетевого и канального уровня",
+      "path": "Base/Взаимодействие сетевого и канального уровня.md"
+    },
+    {
+      "basename": "Сетевой уровень",
+      "path": "Base/Сетевой уровень.md"
+    },
+    {
+      "basename": "OSI",
+      "path": "Base/OSI.md"
+    },
+    {
+      "basename": "Протокол ICMP",
+      "path": "Base/Протокол ICMP.md"
+    },
+    {
+      "basename": "icmp.excalidraw",
+      "path": "Excalidraw/icmp.excalidraw.md"
+    },
+    {
+      "basename": "Протокол ARP",
+      "path": "Base/Протокол ARP.md"
+    },
+    {
+      "basename": "Протокол DHCP",
+      "path": "Base/Протокол DHCP.md"
+    },
+    {
+      "basename": "OSI.excalidraw",
+      "path": "Excalidraw/OSI.excalidraw.md"
+    },
+    {
+      "basename": "Маршрутизатор",
+      "path": "Base/Маршрутизатор.md"
+    },
+    {
+      "basename": "Канальный уровень",
+      "path": "Base/Канальный уровень.md"
+    },
+    {
+      "basename": "Коммутаторы(switch)",
+      "path": "Base/Коммутаторы(switch).md"
+    },
+    {
       "basename": "10 Computer network",
       "path": "Base/10 Computer network.md"
+    },
+    {
+      "basename": "Протокол STP",
+      "path": "Base/Протокол STP.md"
+    },
+    {
+      "basename": "WiFi",
+      "path": "Base/WiFi.md"
+    },
+    {
+      "basename": "TCPIPPRocol.excalidraw",
+      "path": "Excalidraw/TCPIPPRocol.excalidraw.md"
+    },
+    {
+      "basename": "TCPIP",
+      "path": "Base/TCPIP.md"
+    },
+    {
+      "basename": "Ethernet",
+      "path": "Base/Ethernet.md"
+    },
+    {
+      "basename": "topology1.excalidraw",
+      "path": "Excalidraw/topology1.excalidraw.md"
+    },
+    {
+      "basename": "Топология сети",
+      "path": "Base/Топология сети.md"
+    },
+    {
+      "basename": "Каналы связи",
+      "path": "Base/Каналы связи.md"
     },
     {
       "basename": "20 C++",
@@ -45,10 +133,6 @@
       "path": "Base/Архитектура сети.md"
     },
     {
-      "basename": "OSI",
-      "path": "Base/OSI.md"
-    },
-    {
       "basename": "Структурная дрочь",
       "path": "Base/Структурная дрочь.md"
     },
@@ -73,18 +157,6 @@
       "path": "Base/VLAN.md"
     },
     {
-      "basename": "Коммутаторы",
-      "path": "Base/Коммутаторы.md"
-    },
-    {
-      "basename": "Топология сети",
-      "path": "Base/Топология сети.md"
-    },
-    {
-      "basename": "TCPIP",
-      "path": "Base/TCPIP.md"
-    },
-    {
       "basename": "Чем хороша виртуальность",
       "path": "Base/Чем хороша виртуальность.md"
     },
@@ -101,20 +173,8 @@
       "path": "Base/Концентратор.md"
     },
     {
-      "basename": "Ethernet",
-      "path": "Base/Ethernet.md"
-    },
-    {
       "basename": "Классический Ethernet",
       "path": "Base/Классический Ethernet.md"
-    },
-    {
-      "basename": "Канальный уровень",
-      "path": "Base/Канальный уровень.md"
-    },
-    {
-      "basename": "topology1.excalidraw",
-      "path": "Excalidraw/topology1.excalidraw.md"
     },
     {
       "basename": "Логическая топология",
@@ -125,20 +185,8 @@
       "path": "Base/Физическая топология.md"
     },
     {
-      "basename": "TCPIPPRocol.excalidraw",
-      "path": "Excalidraw/TCPIPPRocol.excalidraw.md"
-    },
-    {
-      "basename": "Каналы связи",
-      "path": "Base/Каналы связи.md"
-    },
-    {
       "basename": "chanel.excalidraw",
       "path": "Excalidraw/chanel.excalidraw.md"
-    },
-    {
-      "basename": "OSI.excalidraw",
-      "path": "Excalidraw/OSI.excalidraw.md"
     },
     {
       "basename": "topolgy5.excalidraw",
@@ -151,54 +199,6 @@
     {
       "basename": "topology3.excalidraw",
       "path": "Excalidraw/topology3.excalidraw.md"
-    },
-    {
-      "basename": "topology2.excalidraw",
-      "path": "Excalidraw/topology2.excalidraw.md"
-    },
-    {
-      "basename": "quick sort",
-      "path": "Base/quick sort.md"
-    },
-    {
-      "basename": "Алгодроч",
-      "path": "Base/Алгодроч.md"
-    },
-    {
-      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
-    },
-    {
-      "basename": "Список книг",
-      "path": "Base/Список книг.md"
-    },
-    {
-      "basename": "Как достигать целей",
-      "path": "Base/Как достигать целей.md"
-    },
-    {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
-    },
-    {
-      "basename": "Конфликты имен",
-      "path": "Base/Конфликты имен.md"
-    },
-    {
-      "basename": "example tables",
-      "path": "test-vault/example tables.md"
-    },
-    {
-      "basename": "example calendars",
-      "path": "test-vault/example calendars.md"
-    },
-    {
-      "basename": "example lists",
-      "path": "test-vault/example lists.md"
-    },
-    {
-      "basename": "2020-08-08-an-earlier-post",
-      "path": "test-vault/blog/2020-08-08-an-earlier-post.md"
     }
   ],
   "omittedPaths": [],

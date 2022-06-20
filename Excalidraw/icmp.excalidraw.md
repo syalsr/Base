@@ -1,0 +1,346 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+1 байт
+Тип сообщения ^mjOuQ1Zt
+
+1 байт
+Код сообщения ^YpHCgEqD
+
+2 байта
+Контрольная сумма ^R6c70x4n
+
+4 байта
+Зависит от типа и кода сообщения ^mwI03dXS
+
+Поле данных ^bawJcE1K
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"id": "nyrWfxDvGspXX5I8T7qXR",
+			"type": "rectangle",
+			"x": -267,
+			"y": -347,
+			"width": 541,
+			"height": 194,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 804724731,
+			"version": 170,
+			"versionNonce": 1882008731,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1655738384009,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "mjOuQ1Zt",
+			"type": "text",
+			"x": -263,
+			"y": -343,
+			"width": 144,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1803918651,
+			"version": 67,
+			"versionNonce": 1166290965,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655738330575,
+			"link": null,
+			"locked": false,
+			"text": "1 байт\nТип сообщения",
+			"rawText": "1 байт\nТип сообщения",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 41,
+			"containerId": null,
+			"originalText": "1 байт\nТип сообщения"
+		},
+		{
+			"id": "YpHCgEqD",
+			"type": "text",
+			"x": -87.5,
+			"y": -343,
+			"width": 145,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 911995253,
+			"version": 71,
+			"versionNonce": 1455746517,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655738279562,
+			"link": null,
+			"locked": false,
+			"text": "1 байт\nКод сообщения",
+			"rawText": "1 байт\nКод сообщения",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 41,
+			"containerId": null,
+			"originalText": "1 байт\nКод сообщения"
+		},
+		{
+			"id": "R6c70x4n",
+			"type": "text",
+			"x": 83.5,
+			"y": -343,
+			"width": 185,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 196807157,
+			"version": 73,
+			"versionNonce": 88685717,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655738283957,
+			"link": null,
+			"locked": false,
+			"text": "2 байта\nКонтрольная сумма",
+			"rawText": "2 байта\nКонтрольная сумма",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 41,
+			"containerId": null,
+			"originalText": "2 байта\nКонтрольная сумма"
+		},
+		{
+			"id": "q2hfoKcsSXLJF-gkOqhOn",
+			"type": "line",
+			"x": -268,
+			"y": -291,
+			"width": 541,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1451155957,
+			"version": 89,
+			"versionNonce": 1242522997,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655738332676,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					541,
+					0
+				]
+			],
+			"lastCommittedPoint": [
+				541,
+				0
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "mwI03dXS",
+			"type": "text",
+			"x": -162,
+			"y": -287,
+			"width": 324,
+			"height": 46,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 447345179,
+			"version": 119,
+			"versionNonce": 2113080085,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655738338302,
+			"link": null,
+			"locked": false,
+			"text": "4 байта\nЗависит от типа и кода сообщения",
+			"rawText": "4 байта\nЗависит от типа и кода сообщения",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 41,
+			"containerId": null,
+			"originalText": "4 байта\nЗависит от типа и кода сообщения"
+		},
+		{
+			"id": "OrHxlsy_Xv1Fh4T6MZc6N",
+			"type": "line",
+			"x": -268,
+			"y": -235,
+			"width": 541,
+			"height": 1,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1279880373,
+			"version": 95,
+			"versionNonce": 468121429,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655738340764,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					541,
+					1
+				]
+			],
+			"lastCommittedPoint": [
+				541,
+				1
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "bawJcE1K",
+			"type": "text",
+			"x": -75,
+			"y": -216,
+			"width": 150.9565217391304,
+			"height": 28.000000000000007,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 60927541,
+			"version": 130,
+			"versionNonce": 712758869,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655738378310,
+			"link": null,
+			"locked": false,
+			"text": "Поле данных",
+			"rawText": "Поле данных",
+			"fontSize": 24.347826086956523,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 22.000000000000007,
+			"containerId": null,
+			"originalText": "Поле данных"
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 0,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 2,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "center",
+		"currentItemStrokeSharpness": "sharp",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemLinearStrokeSharpness": "round",
+		"gridSize": null,
+		"colorPalette": {}
+	},
+	"files": {}
+}
+```
+%%

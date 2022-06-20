@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/10 Computer network.md",
+            "file": "Base/Список книг.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transform",
+                "query": "коммутат",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/10 Computer network.md"
+                "file": "Base/Список книг.md"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/10 Computer network.md",
+                "file": "Base/Список книг.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/10 Computer network.md",
+                "file": "Base/Список книг.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/10 Computer network.md",
+                "file": "Base/Список книг.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,15 +181,15 @@
   },
   "active": "ffd82ed0ed4a75c8",
   "lastOpenFiles": [
-    "Base/10 Computer network.md",
-    "Base/20 C++.md",
-    "Base/STL.md",
-    "Base/Linux.md",
-    "Base/10 Operating system and computer architecture.md",
-    "Base/00 Computer science.md",
-    "Base/Linux problems and solves.md",
-    "Base/Стандартные алгоритмы.md",
-    "Base/10 Algorithm and data structures.md",
-    "Excalidraw/prot.excalidraw.md"
+    "Base/Список книг.md",
+    "Base/Протокол IP.md",
+    "Excalidraw/ipprot.excalidraw.md",
+    "Base/Взаимодействие сетевого и канального уровня.md",
+    "Base/Сетевой уровень.md",
+    "Base/OSI.md",
+    "Base/Протокол ICMP.md",
+    "Excalidraw/icmp.excalidraw.md",
+    "Base/Протокол ARP.md",
+    "Base/Протокол DHCP.md"
   ]
 }
