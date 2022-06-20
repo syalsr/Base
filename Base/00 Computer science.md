@@ -8,6 +8,7 @@
 - [[10 Design]]
 - [[10 Design Patterns]]
 - [[Linux problems and solves]]
+- [[Linux]]
 - [[Road to 10xprogrammer]]
 
 # How to?

@@ -23,8 +23,9 @@ OS обеспечивает:
 ## BIOS
 Начинает свою работу с POST - power on self test, проверяет, что все необходимые устройства в наличии и все работает, поиск загрузочного диска - это диск с которого можно прочитать первые 512 байт, последние 2 байта этого сектора должны хранить значения 0X55 и 0xAA. Этот сектор загружается в память по физическому адресу 0x7C00. После BIOS передает управления в это место.
 # Нужное
-[Direct Mapping — Map cache and main memory](https://medium.com/breaktheloop/direct-mapping-map-cache-and-main-memory-d5e4c1cbf73e)
-[Direct-Mapped Cache and its architecture](http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/8-cache/dm.html)
+* [[Linux]]
+* [Direct Mapping — Map cache and main memory](https://medium.com/breaktheloop/direct-mapping-map-cache-and-main-memory-d5e4c1cbf73e)
+* [Direct-Mapped Cache and its architecture](http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/8-cache/dm.html)
 
 # Язык Ассемблера
 Для каждой архитектуры существует свой ассемблер, свой набор команд [[ISA]]
@@ -39,8 +40,8 @@ OS обеспечивает:
 	3. /
 	4.  *
 3. Побитовые инструкции
-	1. >>
-	2. <<
+	1. `>>`
+	2. `<<`
 4. Инструкции перехода, для того чтобы перейти к другому участку кода
 5. А также множество специфичных инструкций
 

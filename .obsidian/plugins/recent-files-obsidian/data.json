@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Список книг",
-      "path": "Base/Список книг.md"
-    },
-    {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
-    },
-    {
-      "basename": "00 Уход за собой",
-      "path": "Base/00 Уход за собой.md"
-    },
-    {
-      "basename": "00 Экономика",
-      "path": "Base/00 Экономика.md"
-    },
-    {
-      "basename": "Список видеоматериалов",
-      "path": "Base/Список видеоматериалов.md"
-    },
-    {
-      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
-    },
-    {
-      "basename": "20 Paradigms",
-      "path": "Base/20 Paradigms.md"
-    },
-    {
-      "basename": "Dijkstra's algorithm",
-      "path": "Base/Dijkstra's algorithm.md"
-    },
-    {
-      "basename": "Алгодроч",
-      "path": "Base/Алгодроч.md"
-    },
-    {
-      "basename": "Алгоритм Беллмана - Форда",
-      "path": "Base/Алгоритм Беллмана - Форда.md"
-    },
-    {
-      "basename": "Жадные алгоритмы",
-      "path": "Base/Жадные алгоритмы.md"
-    },
-    {
-      "basename": "quick sort",
-      "path": "Base/quick sort.md"
-    },
-    {
-      "basename": "selection sort",
-      "path": "Base/selection sort.md"
-    },
-    {
-      "basename": "Методы",
-      "path": "Base/Методы.md"
-    },
-    {
-      "basename": "Атрибуты",
-      "path": "Base/Атрибуты.md"
-    },
-    {
-      "basename": "Конкиста",
-      "path": "История/Конкиста.md"
-    },
-    {
-      "basename": "00 Система органов",
-      "path": "Base/00 Система органов.md"
-    },
-    {
-      "basename": "Мозг",
-      "path": "Base/Мозг.md"
-    },
-    {
-      "basename": "00 How to learn",
-      "path": "Base/00 How to learn.md"
-    },
-    {
-      "basename": "00 Математика",
-      "path": "Math/00 Математика.md"
-    },
-    {
-      "basename": "Бинарный поиск",
-      "path": "Base/Бинарный поиск.md"
-    },
-    {
-      "basename": "Категории итераторов",
-      "path": "Base/Категории итераторов.md"
-    },
-    {
-      "basename": "Облака",
-      "path": "Base/Облака.md"
-    },
-    {
-      "basename": "Модель памяти",
-      "path": "Base/Модель памяти.md"
-    },
-    {
-      "basename": "Память в C++",
-      "path": "Base/Память в C++.md"
-    },
-    {
-      "basename": "Арифметика указателей",
-      "path": "Base/Арифметика указателей.md"
-    },
-    {
-      "basename": "Strings in pure C",
-      "path": "Base/Strings in pure C.md"
-    },
-    {
-      "basename": "Arrays in pure C",
-      "path": "Base/Arrays in pure C.md"
-    },
-    {
-      "basename": "Выделение и освобождение динамической памяти",
-      "path": "Base/Выделение и освобождение динамической памяти.md"
-    },
-    {
-      "basename": "Placement new",
-      "path": "Base/Placement new.md"
-    },
-    {
-      "basename": "Переопределение new delete",
-      "path": "Base/Переопределение new delete.md"
-    },
-    {
-      "basename": "Как обнаружить утечки памяти в Visual Studio",
-      "path": "Base/Как обнаружить утечки памяти в Visual Studio.md"
-    },
-    {
-      "basename": "Type punning",
-      "path": "Base/Type punning.md"
-    },
-    {
-      "basename": "Многопоточность и аллокация памяти",
-      "path": "Base/Многопоточность и аллокация памяти.md"
-    },
-    {
-      "basename": "Allocators",
-      "path": "Base/Allocators.md"
-    },
-    {
-      "basename": "STL",
-      "path": "Base/STL.md"
+      "basename": "10 Computer network",
+      "path": "Base/10 Computer network.md"
     },
     {
       "basename": "20 C++",
       "path": "Base/20 C++.md"
     },
     {
-      "basename": "Road to 10xprogrammer",
-      "path": "Base/Road to 10xprogrammer.md"
+      "basename": "STL",
+      "path": "Base/STL.md"
     },
     {
-      "basename": "Graph",
-      "path": "Base/Graph.md"
+      "basename": "Linux",
+      "path": "Base/Linux.md"
     },
     {
-      "basename": "Дискретная математика",
-      "path": "Base/Дискретная математика.md"
-    },
-    {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
-    },
-    {
-      "basename": "Структурная дрочь",
-      "path": "Base/Структурная дрочь.md"
-    },
-    {
-      "basename": "Drawing 2022-05-07 10.13.07.excalidraw",
-      "path": "Excalidraw/Drawing 2022-05-07 10.13.07.excalidraw.md"
-    },
-    {
-      "basename": "Множества",
-      "path": "Base/Множества.md"
-    },
-    {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
+      "basename": "10 Operating system and computer architecture",
+      "path": "Base/10 Operating system and computer architecture.md"
     },
     {
       "basename": "00 Computer science",
       "path": "Base/00 Computer science.md"
     },
     {
-      "basename": "Сумма на отрезке",
-      "path": "Base/Сумма на отрезке.md"
+      "basename": "Linux problems and solves",
+      "path": "Base/Linux problems and solves.md"
     },
     {
-      "basename": "Эффективность алгоритмов",
-      "path": "Base/Эффективность алгоритмов.md"
+      "basename": "Стандартные алгоритмы",
+      "path": "Base/Стандартные алгоритмы.md"
     },
     {
-      "basename": "Ссылки",
-      "path": "Base/Ссылки.md"
+      "basename": "10 Algorithm and data structures",
+      "path": "Base/10 Algorithm and data structures.md"
     },
     {
-      "basename": "constexpr",
-      "path": "Base/constexpr.md"
+      "basename": "prot.excalidraw",
+      "path": "Excalidraw/prot.excalidraw.md"
+    },
+    {
+      "basename": "Архитектура сети",
+      "path": "Base/Архитектура сети.md"
+    },
+    {
+      "basename": "OSI",
+      "path": "Base/OSI.md"
+    },
+    {
+      "basename": "Структурная дрочь",
+      "path": "Base/Структурная дрочь.md"
+    },
+    {
+      "basename": "Tree",
+      "path": "Base/Tree.md"
+    },
+    {
+      "basename": "Drawing 2022-05-06 17.56.00.excalidraw",
+      "path": "Excalidraw/Drawing 2022-05-06 17.56.00.excalidraw.md"
+    },
+    {
+      "basename": "Graph",
+      "path": "Base/Graph.md"
+    },
+    {
+      "basename": "Широковещательный шторм",
+      "path": "Base/Широковещательный шторм.md"
+    },
+    {
+      "basename": "VLAN",
+      "path": "Base/VLAN.md"
+    },
+    {
+      "basename": "Коммутаторы",
+      "path": "Base/Коммутаторы.md"
+    },
+    {
+      "basename": "Топология сети",
+      "path": "Base/Топология сети.md"
+    },
+    {
+      "basename": "TCPIP",
+      "path": "Base/TCPIP.md"
+    },
+    {
+      "basename": "Чем хороша виртуальность",
+      "path": "Base/Чем хороша виртуальность.md"
+    },
+    {
+      "basename": "MAC адрес",
+      "path": "Base/MAC адрес.md"
+    },
+    {
+      "basename": "Коммутируемый Ethernet",
+      "path": "Base/Коммутируемый Ethernet.md"
+    },
+    {
+      "basename": "Концентратор",
+      "path": "Base/Концентратор.md"
+    },
+    {
+      "basename": "Ethernet",
+      "path": "Base/Ethernet.md"
+    },
+    {
+      "basename": "Классический Ethernet",
+      "path": "Base/Классический Ethernet.md"
+    },
+    {
+      "basename": "Канальный уровень",
+      "path": "Base/Канальный уровень.md"
+    },
+    {
+      "basename": "topology1.excalidraw",
+      "path": "Excalidraw/topology1.excalidraw.md"
+    },
+    {
+      "basename": "Логическая топология",
+      "path": "Base/Логическая топология.md"
+    },
+    {
+      "basename": "Физическая топология",
+      "path": "Base/Физическая топология.md"
+    },
+    {
+      "basename": "TCPIPPRocol.excalidraw",
+      "path": "Excalidraw/TCPIPPRocol.excalidraw.md"
+    },
+    {
+      "basename": "Каналы связи",
+      "path": "Base/Каналы связи.md"
+    },
+    {
+      "basename": "chanel.excalidraw",
+      "path": "Excalidraw/chanel.excalidraw.md"
+    },
+    {
+      "basename": "OSI.excalidraw",
+      "path": "Excalidraw/OSI.excalidraw.md"
+    },
+    {
+      "basename": "topolgy5.excalidraw",
+      "path": "Excalidraw/topolgy5.excalidraw.md"
+    },
+    {
+      "basename": "toplogy4.excalidraw",
+      "path": "Excalidraw/toplogy4.excalidraw.md"
+    },
+    {
+      "basename": "topology3.excalidraw",
+      "path": "Excalidraw/topology3.excalidraw.md"
+    },
+    {
+      "basename": "topology2.excalidraw",
+      "path": "Excalidraw/topology2.excalidraw.md"
+    },
+    {
+      "basename": "quick sort",
+      "path": "Base/quick sort.md"
+    },
+    {
+      "basename": "Алгодроч",
+      "path": "Base/Алгодроч.md"
+    },
+    {
+      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+    },
+    {
+      "basename": "Список книг",
+      "path": "Base/Список книг.md"
+    },
+    {
+      "basename": "Как достигать целей",
+      "path": "Base/Как достигать целей.md"
+    },
+    {
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
+    },
+    {
+      "basename": "Конфликты имен",
+      "path": "Base/Конфликты имен.md"
+    },
+    {
+      "basename": "example tables",
+      "path": "test-vault/example tables.md"
+    },
+    {
+      "basename": "example calendars",
+      "path": "test-vault/example calendars.md"
+    },
+    {
+      "basename": "example lists",
+      "path": "test-vault/example lists.md"
+    },
+    {
+      "basename": "2020-08-08-an-earlier-post",
+      "path": "test-vault/blog/2020-08-08-an-earlier-post.md"
     }
   ],
   "omittedPaths": [],

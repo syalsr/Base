@@ -10,12 +10,13 @@
   "obsidian-timeline",
   "obsidian-outliner",
   "obsidian-mind-map",
-  "table-editor-obsidian",
   "obsidian-plantuml",
   "obsidian-advanced-uri",
   "obsidian-charts",
   "quick-latex",
-  "dataview",
   "drawio-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "obsidian-sortable",
+  "table-editor-obsidian"
 ]
