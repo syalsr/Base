@@ -65,6 +65,7 @@
 
 # Интервью
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Coding interview university](https://github.com/jwasham/coding-interview-university)
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 * [How to system design](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26)

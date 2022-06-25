@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ffd82ed0ed4a75c8",
+        "id": "77d17a8773f8abc6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Список книг.md",
+            "file": "Base/Tree.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "коммутат",
+                "query": "stringstream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Список книг.md"
+                "file": "Base/Tree.md"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Список книг.md",
+                "file": "Base/Tree.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Список книг.md",
+                "file": "Base/Tree.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +118,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "13b7266b1351db4f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f66297d892748eb4",
@@ -142,14 +151,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Список книг.md",
+                "file": "Base/Tree.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -165,8 +174,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 255,
-                  "scale": 0.3628873693012156,
-                  "close": false
+                  "scale": 0.5087618855792645,
+                  "close": true
                 }
               }
             }
@@ -176,20 +185,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465,
+    "width": 460,
     "collapsed": true
   },
-  "active": "ffd82ed0ed4a75c8",
+  "active": "77d17a8773f8abc6",
   "lastOpenFiles": [
+    "Base/Tree.md",
+    "Base/Структурная дрочь.md",
+    "Base/10 Algorithm and data structures.md",
+    "Rough diamond/Rough diamond.md",
+    "Base/00 Начало.md",
     "Base/Список книг.md",
-    "Base/Протокол IP.md",
-    "Excalidraw/ipprot.excalidraw.md",
-    "Base/Взаимодействие сетевого и канального уровня.md",
-    "Base/Сетевой уровень.md",
-    "Base/OSI.md",
-    "Base/Протокол ICMP.md",
-    "Excalidraw/icmp.excalidraw.md",
-    "Base/Протокол ARP.md",
-    "Base/Протокол DHCP.md"
+    "Base/stringstreams.md",
+    "Base/00 Computer science.md",
+    "Base/20 C++.md",
+    "Base/Как обнаружить утечки памяти в Visual Studio.md"
   ]
 }

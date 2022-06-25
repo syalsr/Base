@@ -1,8 +1,192 @@
 {
   "recentFiles": [
     {
+      "basename": "Tree",
+      "path": "Base/Tree.md"
+    },
+    {
+      "basename": "Структурная дрочь",
+      "path": "Base/Структурная дрочь.md"
+    },
+    {
+      "basename": "10 Algorithm and data structures",
+      "path": "Base/10 Algorithm and data structures.md"
+    },
+    {
+      "basename": "Rough diamond",
+      "path": "Rough diamond/Rough diamond.md"
+    },
+    {
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
+    },
+    {
       "basename": "Список книг",
       "path": "Base/Список книг.md"
+    },
+    {
+      "basename": "stringstreams",
+      "path": "Base/stringstreams.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
+      "basename": "20 C++",
+      "path": "Base/20 C++.md"
+    },
+    {
+      "basename": "Как обнаружить утечки памяти в Visual Studio",
+      "path": "Base/Как обнаружить утечки памяти в Visual Studio.md"
+    },
+    {
+      "basename": "Умные указатели",
+      "path": "Base/Умные указатели.md"
+    },
+    {
+      "basename": "Память в C++",
+      "path": "Base/Память в C++.md"
+    },
+    {
+      "basename": "Road to 10xprogrammer",
+      "path": "Base/Road to 10xprogrammer.md"
+    },
+    {
+      "basename": "Concurency in C++",
+      "path": "Base/Concurency in C++.md"
+    },
+    {
+      "basename": "Многопоточность и аллокация памяти",
+      "path": "Base/Многопоточность и аллокация памяти.md"
+    },
+    {
+      "basename": "Чем хороша виртуальность",
+      "path": "Base/Чем хороша виртуальность.md"
+    },
+    {
+      "basename": "Чисто виртуальные методы и абстрактный класс",
+      "path": "Base/Чисто виртуальные методы и абстрактный класс.md"
+    },
+    {
+      "basename": "Перегрузка функций",
+      "path": "Base/Перегрузка функций.md"
+    },
+    {
+      "basename": "Сборка проектов на C++",
+      "path": "Base/Сборка проектов на C++.md"
+    },
+    {
+      "basename": "Деструктор",
+      "path": "Base/Деструктор.md"
+    },
+    {
+      "basename": "Конструктор перемещения и перемещающий оператор присваивания",
+      "path": "Base/Конструктор перемещения и перемещающий оператор присваивания.md"
+    },
+    {
+      "basename": "Раннее новое время",
+      "path": "История/Раннее новое время.md"
+    },
+    {
+      "basename": "Мыслетопливо",
+      "path": "Base/Мыслетопливо.md"
+    },
+    {
+      "basename": "Методы",
+      "path": "Base/Методы.md"
+    },
+    {
+      "basename": "rvalue lvalue reference",
+      "path": "Base/rvalue lvalue reference.md"
+    },
+    {
+      "basename": "stackalloc4.excalidraw",
+      "path": "Excalidraw/stackalloc4.excalidraw.md"
+    },
+    {
+      "basename": "dijkstra9.excalidraw",
+      "path": "Excalidraw/dijkstra9.excalidraw.md"
+    },
+    {
+      "basename": "Функции",
+      "path": "Base/Функции.md"
+    },
+    {
+      "basename": "Drawing 2022-05-08 14.23.26.excalidraw",
+      "path": "Excalidraw/Drawing 2022-05-08 14.23.26.excalidraw.md"
+    },
+    {
+      "basename": "Таблица виртуальных функций",
+      "path": "Base/Таблица виртуальных функций.md"
+    },
+    {
+      "basename": "Динамическое связывание",
+      "path": "Base/Динамическое связывание.md"
+    },
+    {
+      "basename": "Переопределение методов",
+      "path": "Base/Переопределение методов.md"
+    },
+    {
+      "basename": "Статическое связывание",
+      "path": "Base/Статическое связывание.md"
+    },
+    {
+      "basename": "Передача в функцию полиморфных объектов по ссылке или указателю",
+      "path": "Base/Передача в функцию полиморфных объектов по ссылке или указателю.md"
+    },
+    {
+      "basename": "Наследование",
+      "path": "Base/Наследование.md"
+    },
+    {
+      "basename": "Конструктор и деструктор",
+      "path": "Base/Конструктор и деструктор.md"
+    },
+    {
+      "basename": "Множественное наследование",
+      "path": "Base/Множественное наследование.md"
+    },
+    {
+      "basename": "20 cmake",
+      "path": "Base/20 cmake.md"
+    },
+    {
+      "basename": "Protobuf",
+      "path": "Base/Protobuf.md"
+    },
+    {
+      "basename": "Linux problems and solves",
+      "path": "Base/Linux problems and solves.md"
+    },
+    {
+      "basename": "10 Programming languages",
+      "path": "Base/10 Programming languages.md"
+    },
+    {
+      "basename": "File streams",
+      "path": "Base/File streams.md"
+    },
+    {
+      "basename": "Протокол DNS",
+      "path": "Base/Протокол DNS.md"
+    },
+    {
+      "basename": "Прикладной уровень",
+      "path": "Base/Прикладной уровень.md"
+    },
+    {
+      "basename": "Протокол HTTP",
+      "path": "Base/Протокол HTTP.md"
+    },
+    {
+      "basename": "Прокси сервер",
+      "path": "Base/Прокси сервер.md"
+    },
+    {
+      "basename": "Сетевой уровень",
+      "path": "Base/Сетевой уровень.md"
     },
     {
       "basename": "Протокол IP",
@@ -13,192 +197,8 @@
       "path": "Excalidraw/ipprot.excalidraw.md"
     },
     {
-      "basename": "Взаимодействие сетевого и канального уровня",
-      "path": "Base/Взаимодействие сетевого и канального уровня.md"
-    },
-    {
-      "basename": "Сетевой уровень",
-      "path": "Base/Сетевой уровень.md"
-    },
-    {
-      "basename": "OSI",
-      "path": "Base/OSI.md"
-    },
-    {
-      "basename": "Протокол ICMP",
-      "path": "Base/Протокол ICMP.md"
-    },
-    {
-      "basename": "icmp.excalidraw",
-      "path": "Excalidraw/icmp.excalidraw.md"
-    },
-    {
-      "basename": "Протокол ARP",
-      "path": "Base/Протокол ARP.md"
-    },
-    {
-      "basename": "Протокол DHCP",
-      "path": "Base/Протокол DHCP.md"
-    },
-    {
-      "basename": "OSI.excalidraw",
-      "path": "Excalidraw/OSI.excalidraw.md"
-    },
-    {
-      "basename": "Маршрутизатор",
-      "path": "Base/Маршрутизатор.md"
-    },
-    {
-      "basename": "Канальный уровень",
-      "path": "Base/Канальный уровень.md"
-    },
-    {
-      "basename": "Коммутаторы(switch)",
-      "path": "Base/Коммутаторы(switch).md"
-    },
-    {
-      "basename": "10 Computer network",
-      "path": "Base/10 Computer network.md"
-    },
-    {
-      "basename": "Протокол STP",
-      "path": "Base/Протокол STP.md"
-    },
-    {
-      "basename": "WiFi",
-      "path": "Base/WiFi.md"
-    },
-    {
-      "basename": "TCPIPPRocol.excalidraw",
-      "path": "Excalidraw/TCPIPPRocol.excalidraw.md"
-    },
-    {
-      "basename": "TCPIP",
-      "path": "Base/TCPIP.md"
-    },
-    {
-      "basename": "Ethernet",
-      "path": "Base/Ethernet.md"
-    },
-    {
-      "basename": "topology1.excalidraw",
-      "path": "Excalidraw/topology1.excalidraw.md"
-    },
-    {
-      "basename": "Топология сети",
-      "path": "Base/Топология сети.md"
-    },
-    {
-      "basename": "Каналы связи",
-      "path": "Base/Каналы связи.md"
-    },
-    {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
-    },
-    {
-      "basename": "STL",
-      "path": "Base/STL.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Base/Linux.md"
-    },
-    {
-      "basename": "10 Operating system and computer architecture",
-      "path": "Base/10 Operating system and computer architecture.md"
-    },
-    {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
-    },
-    {
-      "basename": "Linux problems and solves",
-      "path": "Base/Linux problems and solves.md"
-    },
-    {
-      "basename": "Стандартные алгоритмы",
-      "path": "Base/Стандартные алгоритмы.md"
-    },
-    {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
-    },
-    {
-      "basename": "prot.excalidraw",
-      "path": "Excalidraw/prot.excalidraw.md"
-    },
-    {
-      "basename": "Архитектура сети",
-      "path": "Base/Архитектура сети.md"
-    },
-    {
-      "basename": "Структурная дрочь",
-      "path": "Base/Структурная дрочь.md"
-    },
-    {
-      "basename": "Tree",
-      "path": "Base/Tree.md"
-    },
-    {
-      "basename": "Drawing 2022-05-06 17.56.00.excalidraw",
-      "path": "Excalidraw/Drawing 2022-05-06 17.56.00.excalidraw.md"
-    },
-    {
-      "basename": "Graph",
-      "path": "Base/Graph.md"
-    },
-    {
-      "basename": "Широковещательный шторм",
-      "path": "Base/Широковещательный шторм.md"
-    },
-    {
-      "basename": "VLAN",
-      "path": "Base/VLAN.md"
-    },
-    {
-      "basename": "Чем хороша виртуальность",
-      "path": "Base/Чем хороша виртуальность.md"
-    },
-    {
-      "basename": "MAC адрес",
-      "path": "Base/MAC адрес.md"
-    },
-    {
-      "basename": "Коммутируемый Ethernet",
-      "path": "Base/Коммутируемый Ethernet.md"
-    },
-    {
-      "basename": "Концентратор",
-      "path": "Base/Концентратор.md"
-    },
-    {
-      "basename": "Классический Ethernet",
-      "path": "Base/Классический Ethernet.md"
-    },
-    {
-      "basename": "Логическая топология",
-      "path": "Base/Логическая топология.md"
-    },
-    {
-      "basename": "Физическая топология",
-      "path": "Base/Физическая топология.md"
-    },
-    {
-      "basename": "chanel.excalidraw",
-      "path": "Excalidraw/chanel.excalidraw.md"
-    },
-    {
-      "basename": "topolgy5.excalidraw",
-      "path": "Excalidraw/topolgy5.excalidraw.md"
-    },
-    {
-      "basename": "toplogy4.excalidraw",
-      "path": "Excalidraw/toplogy4.excalidraw.md"
-    },
-    {
-      "basename": "topology3.excalidraw",
-      "path": "Excalidraw/topology3.excalidraw.md"
+      "basename": "dnsframe.excalidraw",
+      "path": "Excalidraw/dnsframe.excalidraw.md"
     }
   ],
   "omittedPaths": [],

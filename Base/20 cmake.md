@@ -1,6 +1,11 @@
 # 20 cmake
 #do/start  https://www.youtube.com/watch?v=LZwEtbc9gEA
-
+# BUILD
+```cmd
+mkdir build && cd build
+cmake .. (если cmakelists находится на каталог выше, либо . если в папке build)
+make
+```
 # Минимальный проект
 Все CMake проект начинаются с файла `CMakeLists.txt` - это что-то на подобие проектного файла, определяющий все что связано со сборкой.
 

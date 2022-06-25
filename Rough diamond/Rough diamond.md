@@ -6,7 +6,6 @@
 -  `Category:` - статья, книга, фильм, видео, подкаст
 -   `Subject:` - возможные предметы - maths, biology, anatomy, writing, howtolearn, softwareengineering...
 
-* https://www.youtube.com/watch?v=nUfUncwZios
 * [A Case against the GO TO Statement](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD02xx/EWD215.html)
 * [The Humble Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
 * https://russianblogs.com/article/84112590082/
