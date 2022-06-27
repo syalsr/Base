@@ -1,24 +1,19 @@
 # 20 cmake
 #do/start  https://www.youtube.com/watch?v=LZwEtbc9gEA
-# BUILD
-```cmd
-mkdir build && cd build
-cmake .. (если cmakelists находится на каталог выше, либо . если в папке build)
-make
-```
+
 # Минимальный проект
 Все CMake проект начинаются с файла `CMakeLists.txt` - это что-то на подобие проектного файла, определяющий все что связано со сборкой.
 
 ```cmake
-cmake_minimum_required(VERSION 3.3)
+cmake_minimum_required(VERSION 3.15)
 
 project(MyApp)
 
-add_executable(myExe
-    main.cpp
-    src1.cpp
-    src2.h
-)
+set(SOURCES main.cpp test.cpp)
+
+set(HEADERS test.h)
+
+add_executable(MyExe ${SOURCES} ${HEADERS})
 
 set_target_properties(
 		MyExe PROPERTIES
@@ -27,11 +22,20 @@ set_target_properties(
 )
 ```
 
-1. cmake_minimum_required() - устанавливаем минимальную версию cmake, при наличии более старой версии выдаст ошибку.
-2. project - создание проекта с именем MyApp - отвечает не только за имя проекта, но и за инициализацию чего-то, в общем обязательная функция, как и версия cmake.
-3. add_executable - из 2 объектных файлов хотим собрать исполняемый файл myExe, файла .h не обязательно добавлять, т.к. компилятор итак при препроцесинге их вставляет в .cpp, но так они хотя бы отображаются в проекте.
+1. `cmake_minimum_required()` - устанавливаем минимальную версию cmake, при наличии более старой версии выдаст ошибку.
+2. project - создание проекта с именем `MyApp` - отвечает не только за имя проекта, но и за инициализацию чего-то, в общем обязательная функция, как и версия `cmake_minimum_required()`.
+3. `add_executable` - из 2 объектных файлов хотим собрать исполняемый файл `myExe`, файла .h не обязательно добавлять, т.к. компилятор итак при [[Сборка проектов на C++#Препроцессинг|препроцесинге]] их вставляет в `.cpp`, но так они хотя бы отображаются в проекте.
 4. set_target_properties - указываем свойства проекта - собираем проект на как минимум 11 стандарте
 
+Для сборки следует выполнить следующее
+
+```cmd
+mkdir build && cd build
+cmake .. (если cmakelists находится на каталог выше, либо . если в папке build)
+cmake --build .
+
+Если написать cmake .. -G "MinGW Makefiles" то проект будет собираться не с дефолтными инструментами а с MinGW, допустим на windows по дефолту проект собирается для Visual Studio
+```
 
 Имена команд не чувствительны к регистру
 

@@ -1,26 +1,21 @@
 # 10 Computer network
+1. [[Топология сети]]
+2. [[Классификация сетей]]
+3. [[Архитектура сети]]
+4. [[OSI]]
+5. [[TCPIP|TCP/IP]]
+6. [[VLAN]]
+
+
 #do/start выбрать что-то из этого, либо все вместе
 https://www.youtube.com/playlist?list=PLHN9m7XN8U8HQ4KdjaLlWtSHQ3PYgQzmV
 https://www.youtube.com/playlist?list=PLd7QXkfmSY7bh7nHfBbeQDIUUWueQja_4
 https://www.asozykin.ru/courses/networks_online
 Сетевое программирование https://beej.us/guide/bgnet/
 
-Сети классифицируются по:
-1. Типу коммутации
-	1. Коммутация каналов - сначала устанавливается соединение между клиентом и сервером, потом отправляются данные - используется в телефонной сети
-	2. Коммутация пакетов - данные разделяются на пакеты, которые отправляются независимо, каждый пакет может пройти разным путем - используется в компьютерной сети
-2. Технологии передачи
-	1. Широковещательные сети - данные которые передаются по сети, доступны всем компьютерам сети
-	2. Точка-точка - данные передаются от одного компьютера к другому
-3. Протяженности
-	1. Персональная - 1 метр - рабочий стол
-	2. LAN - Локальная - 10 м - 1км - комната, здание
-	3. MAN - Муниципальная - 10 км - город
-	4. WAN - Глобальная - 10 - 1000 км - Страна
-	5. Объединение сетей - 10 000 км - Мир
+# Полезное
+1. [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
+2. [Fundamentals of Computer Networks](https://web.archive.org/web/20210516124607/http://www.ini740.rocks/F20/index.html#top)
+3. [How internet works](https://eater.net/inet)
+4. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 
-1. [[Топология сети]]
-2. [[Архитектура сети]]
-3. [[OSI]]
-4. [[TCPIP|TCP/IP]]
-5. [[VLAN]]

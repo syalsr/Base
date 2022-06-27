@@ -6,7 +6,7 @@
 # Курсы
 * [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) + [практика](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)
 * [MIT 6.046J Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) + [практика](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/assignments/)
-* [MIT 6.851 Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) + [практика](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/assignments/)
+* [MIT 6.851 Advanced Data Structures](http://courses.csail.mit.edu/6.851/)
 * [Specialization in algorithms from Stanford University](https://www.coursera.org/specializations/algorithms)
 * [Algorihtms from Prinson University part 1](https://www.coursera.org/learn/algorithms-part1) 
 * [Algorihtms from Prinson University part 2](https://www.coursera.org/learn/algorithms-part2)
@@ -102,6 +102,7 @@
 * [Алгоритмы и структуры данных в ядре Linux, Chromium и не только](https://habr.com/ru/company/wunderfund/blog/277143/)
 * [Алгоритмы на C](https://ru.algorithmica.org/)
 * [Различные алгоритмы](http://algolist.ru/)
+* [visualgo](https://visualgo.net/en)
 
 ## Практика
 * HackerRank

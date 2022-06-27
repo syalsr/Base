@@ -7,6 +7,7 @@
 - [[10 Reverse engineering]]
 - [[10 Design]]
 - [[10 Design Patterns]]
+- [[10 Databases]]
 - [[Linux problems and solves]]
 - [[Linux]]
 - [[Road to 10xprogrammer]]
@@ -65,6 +66,13 @@
 
 # Интервью
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* ALgorithms
+	* Algo visuals:[pythontutor](http://pythontutor.com/)
+	* [leetcode-patterns/](https://seanprashad.com/leetcode-patterns/)
+	* [interviewbit](https://www.interviewbit.com/practice/)
+	* [binarysearch.](https://binarysearch.com/guide)
+	* [lintcode](https://www.lintcode.com/problem/)
+	* [app.codesignal](https://app.codesignal.com/)
 * [Coding interview university](https://github.com/jwasham/coding-interview-university)
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)

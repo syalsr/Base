@@ -121,15 +121,15 @@
 * [x] Идиомы
 	* [x] RAII
 	* [x] pimpl
-	* [ ] non-copyable/non-moveable
-	* [ ] erase-remove
-	* [ ] copy and swap
-	* [ ] copy on write
+	* [x] non-copyable/non-moveable
+	* [x] erase-remove
+	* [x] copy and swap
+	* [x] copy on write
 	* [ ] CRTP
 	* [ ] Covariant Return Types
 	* [x] Empty Base Optimization
 	* [ ] enable if
-	* [ ] Small Object Optimization
+	* [x] Small Object Optimization
 	* [ ] Type erasure
 * [ ] Алгоритмы
 	* [x] Сложность алгоритмов
@@ -137,7 +137,7 @@
 	* [ ] Жадные алгоритмы
 	* [ ] Графы
 		* [x] BFS
-		* [ ] DFS
+		* [x] DFS
 		* [ ] Алгоритм Беллмана-Форда
 	* [x] sort
 		* [x] quick sort
@@ -145,11 +145,11 @@
 	* [x] bin search
 * [ ] Конечные автоматы
 * [ ] Структуры данных
-	* [ ] Деревья
-		* [ ] двоичное дерево
+	* [x] Деревья
+		* [x] двоичное дерево
 		* [ ] черно красное дерево
 		* [ ] Сбалансированные деревья – AVL-дерево
-	* [ ] Графы
+	* [x] Графы
 	* [x] hash table
 	* [x] forward, bidirectional list
 	* [x] Динамический массив
@@ -173,7 +173,7 @@
 	* [ ] Статическая библиотека
 	* [ ] Динамическая библиотека
 	* [ ] Память
-		* [ ] Стек
+		* [x] Стек
 		* [ ] Куча
 		* [ ] Глобальная память
 		* [ ] Память приложения
@@ -194,13 +194,13 @@
 		* [ ] Межпроцессное взаимодействие
 			* [ ] shared memory
 	* [ ] Файловая система
-* [ ] Сети
-	* [ ] TCP/IP
-		* [ ] Сокеты
-			* [ ] TCP
-			* [ ] UDP
-		* [ ] HTTP
-	* [ ] OSI
+* [x] Сети
+	* [x] TCP/IP
+		* [x] Сокеты
+			* [x] TCP
+			* [x] UDP
+		* [x] HTTP
+	* [x] OSI
 * [ ] Английский язык для чтения статей
 
 # Jossutis c++11

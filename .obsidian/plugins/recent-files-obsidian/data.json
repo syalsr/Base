@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "20 cmake",
+      "path": "Base/20 cmake.md"
+    },
+    {
+      "basename": "10 Databases",
+      "path": "Base/10 Databases.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
+      "basename": "10 Design Patterns",
+      "path": "Base/10 Design Patterns.md"
+    },
+    {
+      "basename": "10 Design",
+      "path": "Base/10 Design.md"
+    },
+    {
+      "basename": "10 Algorithm and data structures",
+      "path": "Base/10 Algorithm and data structures.md"
+    },
+    {
+      "basename": "10 Computer network",
+      "path": "Base/10 Computer network.md"
+    },
+    {
+      "basename": "Классификация сетей",
+      "path": "Base/Классификация сетей.md"
+    },
+    {
+      "basename": "topology1.excalidraw",
+      "path": "Excalidraw/topology1.excalidraw.md"
+    },
+    {
+      "basename": "Топология сети",
+      "path": "Base/Топология сети.md"
+    },
+    {
+      "basename": "prot.excalidraw",
+      "path": "Excalidraw/prot.excalidraw.md"
+    },
+    {
+      "basename": "Архитектура сети",
+      "path": "Base/Архитектура сети.md"
+    },
+    {
+      "basename": "10 Operating system and computer architecture",
+      "path": "Base/10 Operating system and computer architecture.md"
+    },
+    {
+      "basename": "00 Математика",
+      "path": "Math/00 Математика.md"
+    },
+    {
+      "basename": "Список книг",
+      "path": "Base/Список книг.md"
+    },
+    {
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
+    },
+    {
+      "basename": "Road to 10xprogrammer",
+      "path": "Base/Road to 10xprogrammer.md"
+    },
+    {
+      "basename": "Concurency in C++",
+      "path": "Base/Concurency in C++.md"
+    },
+    {
+      "basename": "quick sort",
+      "path": "Base/quick sort.md"
+    },
+    {
+      "basename": "output streams",
+      "path": "Base/output streams.md"
+    },
+    {
+      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+    },
+    {
       "basename": "Tree",
       "path": "Base/Tree.md"
     },
@@ -9,28 +93,12 @@
       "path": "Base/Структурная дрочь.md"
     },
     {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
-    },
-    {
       "basename": "Rough diamond",
       "path": "Rough diamond/Rough diamond.md"
     },
     {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
-    },
-    {
-      "basename": "Список книг",
-      "path": "Base/Список книг.md"
-    },
-    {
       "basename": "stringstreams",
       "path": "Base/stringstreams.md"
-    },
-    {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
     },
     {
       "basename": "20 C++",
@@ -47,14 +115,6 @@
     {
       "basename": "Память в C++",
       "path": "Base/Память в C++.md"
-    },
-    {
-      "basename": "Road to 10xprogrammer",
-      "path": "Base/Road to 10xprogrammer.md"
-    },
-    {
-      "basename": "Concurency in C++",
-      "path": "Base/Concurency in C++.md"
     },
     {
       "basename": "Многопоточность и аллокация памяти",
@@ -139,66 +199,6 @@
     {
       "basename": "Наследование",
       "path": "Base/Наследование.md"
-    },
-    {
-      "basename": "Конструктор и деструктор",
-      "path": "Base/Конструктор и деструктор.md"
-    },
-    {
-      "basename": "Множественное наследование",
-      "path": "Base/Множественное наследование.md"
-    },
-    {
-      "basename": "20 cmake",
-      "path": "Base/20 cmake.md"
-    },
-    {
-      "basename": "Protobuf",
-      "path": "Base/Protobuf.md"
-    },
-    {
-      "basename": "Linux problems and solves",
-      "path": "Base/Linux problems and solves.md"
-    },
-    {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
-    },
-    {
-      "basename": "File streams",
-      "path": "Base/File streams.md"
-    },
-    {
-      "basename": "Протокол DNS",
-      "path": "Base/Протокол DNS.md"
-    },
-    {
-      "basename": "Прикладной уровень",
-      "path": "Base/Прикладной уровень.md"
-    },
-    {
-      "basename": "Протокол HTTP",
-      "path": "Base/Протокол HTTP.md"
-    },
-    {
-      "basename": "Прокси сервер",
-      "path": "Base/Прокси сервер.md"
-    },
-    {
-      "basename": "Сетевой уровень",
-      "path": "Base/Сетевой уровень.md"
-    },
-    {
-      "basename": "Протокол IP",
-      "path": "Base/Протокол IP.md"
-    },
-    {
-      "basename": "ipprot.excalidraw",
-      "path": "Excalidraw/ipprot.excalidraw.md"
-    },
-    {
-      "basename": "dnsframe.excalidraw",
-      "path": "Excalidraw/dnsframe.excalidraw.md"
     }
   ],
   "omittedPaths": [],

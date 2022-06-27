@@ -1,3 +1,10 @@
+
+# 10 Design
+1. https://github.com/theanalyst/awesome-distributed-systems
+2. [Distributed Systems lecture series](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+3. https://www.youtube.com/watch?v=Y6Ev8GIlbxc
+4. https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+5. https://github.com/donnemartin/system-design-primer
 # Проектирование приложений
 Проектирование - моделирование отношений между типами. Проектирование проекта следует составлять на основе некоторых правил:
 1. Абстракции - нужно писать такой код, чтобы человек не вдаваясь в детали реализации мог использовать написанный ранее функционал с ожидаемым поведением. Разделяйте интерфейс и определение.
