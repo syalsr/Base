@@ -102,7 +102,7 @@
 		* [x] reinterpret_cast
 	* [ ] UB
 	* [x] Макросы
-* [x] STL
+* [ ] STL
 	* [x] IO streams
 	* [x] File stream
 	* [ ] Дата/время
@@ -110,7 +110,7 @@
 	* [x] Итератоы
 	* [x] Алгоритмы
 	* [ ] Многопоточность
-* [x] Шаблоны
+* [ ] Шаблоны
 	* [x] variadic
 	* [x] специализация
 		* [x] полная
@@ -118,7 +118,7 @@
 	* [x] type deduction
 	* [x] type traits
 	* [ ] sfinae
-* [x] Идиомы
+* [ ] Идиомы
 	* [x] RAII
 	* [x] pimpl
 	* [x] non-copyable/non-moveable
@@ -141,11 +141,11 @@
 		* [ ] Алгоритм Беллмана-Форда
 	* [x] sort
 		* [x] quick sort
-		* [ ] bubble sort
+		* [x] bubble sort
 	* [x] bin search
 * [ ] Конечные автоматы
 * [ ] Структуры данных
-	* [x] Деревья
+	* [ ] Деревья
 		* [x] двоичное дерево
 		* [ ] черно красное дерево
 		* [ ] Сбалансированные деревья – AVL-дерево
@@ -243,7 +243,7 @@
 * [x] 6.4 Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199
 	* [x] 6.4.1 Ranges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
 	* [x] 6.4.2 Handling Multiple Ranges . . . . . . . . . . . . . . . . . . . . . . . . . 207
-* [x] 6.5 Iterator Adapters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+* [ ] 6.5 Iterator Adapters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
 	* [x] 6.5.1 Insert Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
 	* [ ] 6.5.2 Stream Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212
 	* [x] 6.5.3 Reverse Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
@@ -257,7 +257,7 @@
 	* [x] 6.8.1 Using Functions as Algorithm Arguments . . . . . . . . . . . . . . . . . 224
 	* [x] 6.8.2 Predicates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
 * [x] 6.9 Using Lambdas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
-* [x] 6.10 Function Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+* [ ] 6.10 Function Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
 	* [ ] 6.10.1 Definition of Function Objects . . . . . . . . . . . . . . . . . . . . . . . 233
 	* [x] 6.10.2 Predefined Function Objects . . . . . . . . . . . . . . . . . . . . . . . . 239
 	* [ ] 6.10.3 Binders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
@@ -633,5 +633,430 @@
 	* [ ] 19.1 Using Allocators as an Application Programmer . . . . . . . . . . . . . . . . . . 1023
 	* [ ] 19.2 A User-Defined Allocator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1024
 	* [ ] 19.3 Using Allocators as a Library Programmer . . . . . . . . . . . . . . . . . . . . . 1026
+
+# Jossutis c++17
+* [ ] 1 Structured Bindings 3
+	* [ ] 1.1 Structured Bindings in Detail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+	* [ ] 1.2 Where Structured Bindings can be Used . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+		* [ ] 1.2.1 Structures and Classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+		* [ ] 1.2.2 Raw Arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+		* [ ] 1.2.3 std::pair, std::tuple, and std::array . . . . . . . . . . . . . . . . . . . 9
+	* [ ] 1.3 Providing a Tuple-Like API for Structured Bindings . . . . . . . . . . . . . . . . . . . . 11
+	* [ ] 1.4 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+* [ ] 2 if and switch with Initialization 19
+	* [ ] 2.1 if with Initialization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+	* [ ] 2.2 switch with Initialization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+	* [ ] 2.3 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+* [ ] 3 Inline Variables 23
+	* [ ] 3.1 Motivation of Inline Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+	* [ ] 3.2 Using Inline Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+	* [ ] 3.3 constexpr now implies inline . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+	* [ ] 3.4 Inline Variables and thread_local . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+	* [ ] 3.5 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+* [ ] 4 Aggregate Extensions 31
+	* [ ] 4.1 Motivation for Extended Aggregate Initialization . . . . . . . . . . . . . . . . . . . . . . 32
+	* [ ] 4.2 Using Extended Aggregate Initialization . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+	* [ ] 4.3 Definition of Aggregates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+	* [ ] 4.4 Backward Incompatibilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+	* [ ] 4.5 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+* [ ] 5 Mandatory Copy Elision or Passing Unmaterialized Objects 37
+	* [ ] 5.1 Motivation for Mandatory Copy Elision for Temporaries . . . . . . . . . . . . . . . . . 37
+	* [ ] 5.2 Benefit of Mandatory Copy Elision for Temporaries . . . . . . . . . . . . . . . . . . . . 39
+	* [ ] 5.3 Clarified Value Categories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+		* [ ] 5.3.1 Value Categories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+		* [ ] 5.3.2 Value Categories Since C++17 . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+	* [ ] 5.4 Unmaterialized Return Value Passing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+	* [ ] 5.5 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+* [ ] 6 Lambda Extensions 45
+	* [ ] 6.1 constexpr Lambdas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+	* [ ] 6.2 Passing Copies of this to Lambdas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+	* [ ] 6.3 Capturing by Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+	* [ ] 6.4 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+* [ ] 7 New Attributes and Attribute Features 51
+	* [ ] 7.1 Attribute [[nodiscard]] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+	* [ ] 7.2 Attribute [[maybe_unused]] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+	* [ ] 7.3 Attribute [[fallthrough]] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+	* [ ] 7.4 General Attribute Extensions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+	* [ ] 7.5 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+* [ ] 8 Other Language Features 57
+	* [ ] 8.1 Nested Namespaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+	* [ ] 8.2 Defined Expression Evaluation Order . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+	* [ ] 8.3 Relaxed Enum Initialization from Integral Values . . . . . . . . . . . . . . . . . . . . . 61
+	* [ ] 8.4 Fixed Direct List Initialization with auto . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+	* [ ] 8.5 Hexadecimal Floating-Point Literals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+	* [ ] 8.6 UTF-8 Character Literals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+	* [ ] 8.7 Exception Specifications as Part of the Type . . . . . . . . . . . . . . . . . . . . . . . . . 65
+	* [ ] 8.8 Single-Argument static_assert . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+	* [ ] 8.9 Preprocessor Condition __has_include . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+	* [ ] 8.10 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+* [ ] 9 Class Template Argument Deduction 73
+	* [ ] 9.1 Usage of Class Template Argument Deduction . . . . . . . . . . . . . . . . . . . . . . . 74
+		* [ ] 9.1.1 Copying by Default . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+		* [ ] 9.1.2 Deducing the Type of Lambdas . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+		* [ ] 9.1.3 No Partial Class Template Argument Deduction . . . . . . . . . . . . . . . . . 77
+		* [ ] 9.1.4 Class Template Argument Deduction Instead of Convenience Functions . . 78
+	* [ ] 9.2 Deduction Guides . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+		* [ ] 9.2.1 Using Deduction Guides to Force Decay . . . . . . . . . . . . . . . . . . . . . 81
+		* [ ] 9.2.2 Non-Template Deduction Guides . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+		* [ ] 9.2.3 Deduction Guides versus Constructors . . . . . . . . . . . . . . . . . . . . . . . 82
+		* [ ] 9.2.4 Explicit Deduction Guides . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+		* [ ] 9.2.5 Deduction Guides for Aggregates . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+		* [ ] 9.2.6 Standard Deduction Guides . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+	* [ ] 9.3 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+* [ ] 10 Compile-Time if 91
+	* [ ] 10.1 Motivation for Compile-Time if . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+	* [ ] 10.2 Using Compile-Time if . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+		* [ ] 10.2.1 Caveats for Compile-Time if . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+		* [ ] 10.2.2 Other Compile-Time if Examples . . . . . . . . . . . . . . . . . . . . . . . . . 97
+	* [ ] 10.3 Compile-Time if with Initialization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+	* [ ] 10.4 Using Compile-Time if Outside Templates . . . . . . . . . . . . . . . . . . . . . . . . . 100
+	* [ ] 10.5 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+* [ ] 11 Fold Expressions 103
+	* [ ] 11.1 Motivation for Fold Expressions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+	* [ ] 11.2 Using Fold Expressions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+		* [ ] 11.2.1 Dealing with Empty Parameter Packs . . . . . . . . . . . . . . . . . . . . . . . 106
+		* [ ] 11.2.2 Supported Operators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+		* [ ] 11.2.3 Using Fold Expressions for Types . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+	* [ ] 11.3 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+* [ ] 12 Dealing with Strings as Template Parameters 115
+	* [ ] 12.1 Using Strings in Templates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+	* [ ] 12.2 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+* [ ] 13 Placeholder Types like auto as Template Parameters 117
+	* [ ] 13.1 Using auto as Template Parameter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+		* [ ] 13.1.1 Parameterizing Templates for Characters and Strings . . . . . . . . . . . . . . 118
+		* [ ] 13.1.2 Defining Metaprogramming Constants . . . . . . . . . . . . . . . . . . . . . . . 119
+	* [ ] 13.2 Using auto as Variable Template Parameter . . . . . . . . . . . . . . . . . . . . . . . . 120
+	* [ ] 13.3 Using decltype(auto) as Template Parameter . . . . . . . . . . . . . . . . . . . . . . 122
+	* [ ] 13.4 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+* [ ] 14 Extended Using Declarations 125
+	* [ ] 14.1 Using Variadic Using Declarations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+	* [ ] 14.2 Variadic Using Declarations for Inheriting Constructors . . . . . . . . . . . . . . . . . 126
+	* [ ] 14.3 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
+* [ ] 15 std::optional<> 131
+	* [ ] 15.1 Using std::optional<> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+		* [ ] 15.1.1 Optional Return Values . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+		* [ ] 15.1.2 Optional Arguments and Data Members . . . . . . . . . . . . . . . . . . . . . . 133
+	* [ ] 15.2 std::optional<> Types and Operations . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+		* [ ] 15.2.1 std::optional<> Types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+		* [ ] 15.2.2 std::optional<> Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+	* [ ] 15.3 Special Cases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+		* [ ] 15.3.1 Optional of Boolean or Raw Pointer Values . . . . . . . . . . . . . . . . . . . . 140
+		* [ ] 15.3.2 Optional of Optional . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 141
+	* [ ] 15.4 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 141
+* [ ] 16 std::variant<> 143
+	* [ ] 16.1 Motivation of std::variant<> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+	* [ ] 16.2 Using std::variant<> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144
+	* [ ] 16.3 std::variant<> Types and Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+		* [ ] 16.3.1 std::variant<> Types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+		* [ ] 16.3.2 std::variant<> Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+		* [ ] 16.3.3 Visitors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151
+		* [ ] 16.3.4 Valueless by Exception . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+	* [ ] 16.4 Polymorphism and Inhomogeneous Collections with std::variant . . . . . . . . . 156
+		* [ ] 16.4.1 Geometric Objects with std::variant . . . . . . . . . . . . . . . . . . . . . . 156
+		* [ ] 16.4.2 Other Inhomogeneous Collections with std::variant . . . . . . . . . . . . 159
+		* [ ] 16.4.3 Comparing variant Polymorphism . . . . . . . . . . . . . . . . . . . . . . . . 160
+	* [ ] 16.5 Special Cases with std::variant<> . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161
+		* [ ] 16.5.1 Having Both bool and std::string Alternatives . . . . . . . . . . . . . . . 161
+	* [ ] 16.6 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+* [ ] 17 std::any 163
+	* [ ] 17.1 Using std::any . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163
+	* [ ] 17.2 std::any Types and Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+		* [ ] 17.2.1 Any Types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+		* [ ] 17.2.2 Any Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+	* [ ] 17.3 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+* [ ] 18 std::byte 171
+	* [ ] 18.1 Using std::byte . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 171
+	* [ ] 18.2 std::byte Types and Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173
+		* [ ] 18.2.1 std::byte Types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173
+		* [ ] 18.2.2 std::byte Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173
+	* [ ] 18.3 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+* [ ] 19 String Views 177
+	* [ ] 19.1 Differences to std::string . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+	* [ ] 19.2 Using String Views . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+	* [ ] 19.3 Using String Views Similar to Strings . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+		* [ ] 19.3.1 String View Considered Harmful . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+	* [ ] 19.4 String View Types and Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+		* [ ] 19.4.1 Concrete String View Types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+		* [ ] 19.4.2 String View Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+		* [ ] 19.4.3 String View Support by Other Types . . . . . . . . . . . . . . . . . . . . . . . . 187
+	* [ ] 19.5 Using String Views in API’s . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
+		* [ ] 19.5.1 Using String Views to Initialize Strings . . . . . . . . . . . . . . . . . . . . . . 188
+		* [ ] 19.5.2 Using String Views instead of Strings . . . . . . . . . . . . . . . . . . . . . . . 190
+	* [ ] 19.6 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 191
+* [ ] 20 The Filesystem Library 193
+	* [ ] 20.1 Basic Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 193
+		* [ ] 20.1.1 Print Attributes of a Passed Filesystem Path . . . . . . . . . . . . . . . . . . . 193
+		* [ ] 20.1.2 Switch Over Filesystem Types . . . . . . . . . . . . . . . . . . . . . . . . . . . . 196
+		* [ ] 20.1.3 Create Different Types of Files . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+		* [ ] 20.1.4 Dealing with Filesystems Using Parallel Algorithms . . . . . . . . . . . . . . 202
+	* [ ] 20.2 Principles and Terminology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+		* [ ] 20.2.1 General Portability Disclaimer . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+		* [ ] 20.2.2 Namespace . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+		* [ ] 20.2.3 Paths . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+		* [ ] 20.2.4 Normalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 205
+		* [ ] 20.2.5 Member versus Free-Standing Functions . . . . . . . . . . . . . . . . . . . . . 205
+		* [ ] 20.2.6 Error Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 206
+		* [ ] 20.2.7 File Types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208
+	* [ ] 20.3 Path Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 209
+		* [ ] 20.3.1 Path Creation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+		* [ ] 20.3.2 Path Inspection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+		* [ ] 20.3.3 Path I/O and Conversions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+		* [ ] 20.3.4 Conversions Between Native and Generic Format . . . . . . . . . . . . . . . . 216
+		* [ ] 20.3.5 Path Modifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+		* [ ] 20.3.6 Path Comparisons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+		* [ ] 20.3.7 Other Path Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 222
+	* [ ] 20.4 Filesystem Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 222
+		* [ ] 20.4.1 File Attributes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 222
+		* [ ] 20.4.2 File Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+		* [ ] 20.4.3 Permissions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 228
+		* [ ] 20.4.4 Filesystem Modifications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230
+		* [ ] 20.4.5 Symbolic Links and Filesystem-Dependent Path Conversions . . . . . . . . . 233
+		* [ ] 20.4.6 Other Filesystem Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236
+	* [ ] 20.5 Iterating Over Directories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237
+		* [ ] 20.5.1 Directory Entries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+	* [ ] 20.6 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
+* [ ] 21 Type Traits Extensions 245
+	* [ ] 21.1 Type Traits Suffix _v . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+	* [ ] 21.2 New Type Traits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246
+	* [ ] 21.3 std::bool_constant<> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246
+	* [ ] 21.4 std::void_t<> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 248
+	* [ ] 21.5 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250
+* [ ] 22 Parallel STL Algorithms 251
+	* [ ] 22.1 Using Parallel Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+		* [ ] 22.1.1 Using a Parallel for_each() . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+		* [ ] 22.1.2 Using a Parallel sort() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255
+	* [ ] 22.2 Execution Policies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 257
+	* [ ] 22.3 Exception Handling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 258
+	* [ ] 22.4 Benefit of not using Parallel Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . 258
+	* [ ] 22.5 Overview of Parallel Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 258
+	* [ ] 22.6 New Algorithms for Parallel Processing . . . . . . . . . . . . . . . . . . . . . . . . . . . 262
+		* [ ] 22.6.1 reduce() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262
+	* [ ] 22.7 Parallel Algorithms in Detail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 271
+	* [ ] 22.8 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 271
+* [ ] 23 Substring and Subsequence Searchers 273
+	* [ ] 23.1 Using Substring Searchers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 273
+		* [ ] 23.1.1 Using Searchers with search() . . . . . . . . . . . . . . . . . . . . . . . . . . 273
+		* [ ] 23.1.2 Using Searchers Directly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 275
+	* [ ] 23.2 Using General Subsequence Searchers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 276
+	* [ ] 23.3 Using Searcher Predicates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 277
+	* [ ] 23.4 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 278
+* [ ] 24 Other Utility Functions and Algorithms 279
+	* [ ] 24.1 size(), empty(), and data() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 279
+		* [ ] 24.1.1 Generic size() Function . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 279
+		* [ ] 24.1.2 Generic empty() Function . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 281
+		* [ ] 24.1.3 Generic data() Function . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 281
+	* [ ] 24.2 as_const() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 282
+		* [ ] 24.2.1 Capturing by Const Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . . 282
+	* [ ] 24.3 clamp() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 283
+	* [ ] 24.4 sample() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 284
+	* [ ] 24.5 for_each_n() . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 288
+	* [ ] 24.6 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 289
+* [ ] 25 Container Extensions 291
+	* [ ] 25.1 Container-Support of Incomplete Types . . . . . . . . . . . . . . . . . . . . . . . . . . . 291
+	* [ ] 25.2 Node Handles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 293
+	* [ ] 25.3 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 294
+* [ ] 26 Multi-Threading and Concurrency 297
+	* [ ] 26.1 Supplementary Mutexes and Locks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 297
+		* [ ] 26.1.1 std::scoped_lock . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 297
+		* [ ] 26.1.2 std::shared_mutex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 299
+	* [ ] 26.2 is_always_lock_free() for Atomics . . . . . . . . . . . . . . . . . . . . . . . . . . . 299
+	* [ ] 26.3 Cache-Line Sizes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 301
+	* [ ] 26.4 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 302
+* [ ] 27 Polymorphic Memory Resources (PMR) 305
+	* [ ] 27.1 Using Standard Memory Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 306
+		* [ ] 27.1.1 Motivating Example . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 306
+		* [ ] 27.1.2 Standard Memory Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 311
+		* [ ] 27.1.3 Standard Memory Resources in Detail . . . . . . . . . . . . . . . . . . . . . . . 313
+	* [ ] 27.2 Defining Custom Memory Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 319
+		* [ ] 27.2.1 Equality of Memory Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . 323
+	* [ ] 27.3 Providing Memory Resources Support for Custom Types . . . . . . . . . . . . . . . . . 324
+		* [ ] 27.3.1 Definition of a PMR Type . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 324
+		* [ ] 27.3.2 Usage of a PMR Type . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 327
+		* [ ] 27.3.3 Dealing with the Different Types . . . . . . . . . . . . . . . . . . . . . . . . . . 328
+	* [ ] 27.4 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 329
+* [ ] 28 new and delete with Over-Aligned Data 331
+	* [ ] 28.1 Using new with Alignments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 332
+		* [ ] 28.1.1 Distinct Dynamic/Heap Memory Arenas . . . . . . . . . . . . . . . . . . . . . 332
+		* [ ] 28.1.2 Passing the Alignment with the new Expression . . . . . . . . . . . . . . . . . 333
+	* [ ] 28.2 Implementing operator new() for Aligned Memory . . . . . . . . . . . . . . . . . . 334
+		* [ ] 28.2.1 Implementing Aligned Allocation Before C++17 . . . . . . . . . . . . . . . . 334
+		* [ ] 28.2.2 Implementing Type-Specific operator new() . . . . . . . . . . . . . . . . . 337
+	* [ ] 28.3 Implementing Global operator new() . . . . . . . . . . . . . . . . . . . . . . . . . . . 343
+	* [ ] 28.3.1 Backward Incompatibilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 344
+	* [ ] 28.4 Tracking all ::new Calls . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 345
+	* [ ] 28.5 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 348
+* [ ] 29 Other Library Improvements for Experts 349
+	* [ ] 29.1 Low-Level Conversions between Character Sequences and Numeric Values . . . . . 349
+		* [ ] 29.1.1 Example Usage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 350
+		* [ ] 29.1.2 Floating-Point Round-Trip Support . . . . . . . . . . . . . . . . . . . . . . . . . 352
+	* [ ] 29.2 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 354
+
+# William concurency
+* [ ] 1 Hello, world of concurrency in C++! 1
+	* [ ] 1.1 What is concurrency? 2
+		* [ ] Concurrency in computer systems 2
+		* [ ] Approaches to concurrency 4
+	* [ ] 1.2 Why use concurrency? 6
+		* [ ] Using concurrency for separation of concerns 6
+		* [ ] Using concurrency for performance 7 
+		* [ ] When not to use concurrency 8
+	* [ ] 1.3 Concurrency and multithreading in C++ 9
+		* [ ] History of multithreading in C++ 10 
+		* [ ] Concurrency support in the new standard 10 ■ Efficiency in the C++
+		* [ ] Thread Library 11 
+		* [ ] Platform-specific facilities 12
+	* [ ] 1.4 Getting started 13
+		* [ ] Hello, Concurrent World 13
+	* [ ] 1.5 Summary 14
+* [ ] 2 Managing threads 15
+	* [ ] 2.1 Basic thread management 16
+		* [ ] Launching a thread 16 
+		* [ ] Waiting for a thread to complete 18
+		* [ ] Waiting in exceptional circumstances 19 
+		* [ ] Running threads in the background 21
+	* [ ] 2.2 Passing arguments to a thread function 23
+	* [ ] 2.3 Transferring ownership of a thread 25
+	* [ ] 2.4 Choosing the number of threads at runtime 28
+	* [ ] 2.5 Identifying threads 31
+	* [ ] 2.6 Summary 32
+* [ ] 3 Sharing data between threads 33
+	* [ ] 3.1 Problems with sharing data between threads 34
+		* [ ] Race conditions 35 
+		* [ ] Avoiding problematic race conditions 36
+	* [ ] 3.2 Protecting shared data with mutexes 37
+		* [ ] Using mutexes in C++ 38 
+		* [ ] Structuring code for protecting shared data 39 
+		* [ ] Spotting race conditions inherent in interfaces 40 
+		* [ ] Deadlock: the problem and a solution 47
+		* [ ] Further guidelines for avoiding deadlock 49 
+		* [ ] Flexible locking with std::unique_lock 54 
+		* [ ] Transferring mutex ownership between scopes 55 
+		* [ ] Locking at an appropriate granularity 57
+	* [ ] 3.3 Alternative facilities for protecting shared data 59
+		* [ ] Protecting shared data during initialization 59 
+		* [ ] Protecting rarely updated data structures 63 
+		* [ ] Recursive locking 64
+	* [ ] 3.4 Summary 65
+* [ ] 4 Synchronizing concurrent operations 67
+	* [ ] 4.1 Waiting for an event or other condition 68
+		* [ ] Waiting for a condition with condition variables 69
+		* [ ] Building a thread-safe queue with condition variables 71
+	* [ ] 4.2 Waiting for one-off events with futures 76
+		* [ ] Returning values from background tasks 77 
+		* [ ] Associating a task with a future 79 
+		* [ ] Making (std::)promises 81 
+		* [ ] Saving an exception for the future 83 
+		* [ ] Waiting from multiple threads 85
+	* [ ] 4.3 Waiting with a time limit 87
+		* [ ] Clocks 87 
+		* [ ] Durations 88 
+		* [ ] Time points 89
+		* [ ] Functions that accept timeouts 91
+	* [ ] 4.4 Using synchronization of operations to simplify code 93
+		* [ ] Functional programming with futures 93 
+		* [ ] Synchronizing operations with message passing 97
+	* [ ] 4.5 Summary 102
+* [ ] 5 The C++ memory model and operations on atomic types 103
+	* [ ] 5.1 Memory model basics 104
+		* [ ] Objects and memory locations 104 
+		* [ ] Objects, memory locations, and concurrency 105 
+		* [ ] Modification orders 106
+	* [ ] 5.2 Atomic operations and types in C++ 107
+		* [ ] The standard atomic types 107 
+		* [ ] Operations on std::atomic_flag 110
+		* [ ] Operations on std::atomic`<bool>` 112
+		* [ ] Operations on std::atomic<T*>: pointer arithmetic 114
+		* [ ] Operations on standard atomic integral types 116
+		* [ ] The std::atomic<> primary class template 116 
+		* [ ] Free functions for atomic operations 117
+	* [ ] 5.3 Synchronizing operations and enforcing ordering 119
+		* [ ] The synchronizes-with relationship 121 
+		* [ ] The happens-before relationship 122 
+		* [ ] Memory ordering for atomic operations 123
+		* [ ] Release sequences and synchronizes-with 141
+		* [ ] Fences 143
+		* [ ] Ordering nonatomic operations with atomics 145
+	* [ ] 5.4 Summary 147
+* [ ] 6 Designing lock-based concurrent data structures 148
+	* [ ] 6.1 What does it mean to design for concurrency? 149
+		* [ ] Guidelines for designing data structures for concurrency 149
+	* [ ] 6.2 Lock-based concurrent data structures 151
+		* [ ] A thread-safe stack using locks 151 
+		* [ ] A thread-safe queue using locks and condition variables 154
+		* [ ] A thread-safe queue using fine-grained locks and condition variables 158
+	* [ ] 6.3 Designing more complex lock-based data structures 169
+		* [ ] Writing a thread-safe lookup table using locks 169
+		* [ ] Writing a thread-safe list using locks 175
+	* [ ] 6.4 Summary 179
+* [ ] 7 Designing lock-free concurrent data structures 180
+	* [ ] 7.1 Definitions and consequences 181
+		* [ ] Types of nonblocking data structures 181
+		* [ ] Lock-free data structures 182 
+		* [ ] Wait-free data structures 182
+		* [ ] The pros and cons of lock-free data structures 183
+	* [ ] 7.2 Examples of lock-free data structures 184
+		* [ ] Writing a thread-safe stack without locks 184
+		* [ ] Stopping those pesky leaks: managing memory in lock-free data structures 188
+		* [ ] Detecting nodes that can’t be reclaimed using hazard pointers 193
+		* [ ] Detecting nodes in use with reference counting 200 
+		* [ ] Applying the memory model to the lock-free stack 205
+		* [ ] Writing a thread-safe queue without locks 209
+	* [ ] 7.3 Guidelines for writing lock-free data structures 221
+		* [ ] Guideline: use std::memory_order_seq_cst for prototyping 221
+		* [ ] Guideline: use a lock-free memory reclamation scheme 221
+		* [ ] Guideline: watch out for the ABA problem 222
+		* [ ] Guideline: identify busy-wait loops and help the other thread 222
+	* [ ] 7.4 Summary 223
+* [ ] 8 Designing concurrent code 224
+	* [ ] 8.1 Techniques for dividing work between threads 225
+		* [ ] Dividing data between threads before processing begins 226
+		* [ ] Dividing data recursively 227 
+		* [ ] Dividing work by task type 231
+	* [ ] 8.2 Factors affecting the performance of concurrent code 233
+		* [ ] How many processors? 234 
+		* [ ] Data contention and cache ping-pong 235
+		* [ ] False sharing 237 
+		* [ ] How close is your data? 238 
+		* [ ] Oversubscription and excessive task switching 239
+	* [ ] 8.3 Designing data structures for multithreaded performance 239
+		* [ ] Dividing array elements for complex operations 240
+		* [ ] Data access patterns in other data structures 242
+	* [ ] 8.4 Additional considerations when designing for concurrency 243
+		* [ ] Exception safety in parallel algorithms 243 
+		* [ ] Scalability and Amdahl’s law 250
+		* [ ] Hiding latency with multiple threads 252
+		* [ ] Improving responsiveness with concurrency 253
+	* [ ] 8.5 Designing concurrent code in practice 255
+		* [ ] A parallel implementation of std::for_each 255
+		* [ ] A parallel implementation of std::find 257 
+		* [ ] A parallel implementation of std::partial_sum 263
+	* [ ] 8.6 Summary 272
+* [ ] 9 Advanced thread management 273
+	* [ ] 9.1 Thread pools 274
+		* [ ] The simplest possible thread pool 274
+		* [ ] Waiting for tasks submitted to a thread pool 276
+		* [ ] Tasks that wait for other tasks 280
+		* [ ] Avoiding contention on the work queue 283
+		* [ ] Work stealing 284
+	* [ ] 9.2 Interrupting threads 289
+		* [ ] Launching and interrupting another thread 289
+		* [ ] Detecting that a thread has been interrupted 291
+		* [ ] Interrupting a condition variable wait 291
+		* [ ] Interrupting a wait on std::condition_variable_any 294 
+		* [ ] Interrupting other blocking calls 296
+		* [ ] Handling interruptions 297
+		* [ ] Interrupting background tasks on application exit 298
+	* [ ] 9.3 Summary 299
+* [ ] 10 Testing and debugging multithreaded applications 300
+	* [ ] 10.1 Types of concurrency-related bugs 301
+		* [ ] Unwanted blocking 301 
+		* [ ] Race conditions 302
+	* [ ] 10.2 Techniques for locating concurrency-related bugs 303
+		* [ ] Reviewing code to locate potential bugs 303
+		* [ ] Locating concurrency-related bugs by testing 305
+		* [ ] Designing for testability 307 
+		* [ ] Multithreaded testing techniques 308 
+		* [ ] Testing the performance of multithreaded code 314
+	* [ ] 10.3 Summary 314
 
 #roadto

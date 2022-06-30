@@ -102,7 +102,8 @@
 * [Алгоритмы и структуры данных в ядре Linux, Chromium и не только](https://habr.com/ru/company/wunderfund/blog/277143/)
 * [Алгоритмы на C](https://ru.algorithmica.org/)
 * [Различные алгоритмы](http://algolist.ru/)
-* [visualgo](https://visualgo.net/en)
+* [visualgo](https://visualgo.net/en)]
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
 ## Практика
 * HackerRank
