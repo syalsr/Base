@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Tree",
-      "path": "Base/Tree.md"
+      "basename": "10 Algorithm and data structures",
+      "path": "Base/10 Algorithm and data structures.md"
+    },
+    {
+      "basename": "Алгодроч",
+      "path": "Base/Алгодроч.md"
+    },
+    {
+      "basename": "BFS",
+      "path": "Base/BFS.md"
+    },
+    {
+      "basename": "Dijkstra's algorithm",
+      "path": "Base/Dijkstra's algorithm.md"
     },
     {
       "basename": "Структурная дрочь",
       "path": "Base/Структурная дрочь.md"
+    },
+    {
+      "basename": "Tree",
+      "path": "Base/Tree.md"
+    },
+    {
+      "basename": "Graph",
+      "path": "Base/Graph.md"
+    },
+    {
+      "basename": "orgraph.excalidraw",
+      "path": "Excalidraw/orgraph.excalidraw.md"
+    },
+    {
+      "basename": "10 Databases",
+      "path": "Base/10 Databases.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
     },
     {
       "basename": "rotate.excalidraw",
@@ -21,16 +53,8 @@
       "path": "Excalidraw/Drawing 2022-05-07 10.13.07.excalidraw.md"
     },
     {
-      "basename": "Graph",
-      "path": "Base/Graph.md"
-    },
-    {
       "basename": "balance_tree.excalidraw",
       "path": "Excalidraw/balance_tree.excalidraw.png"
-    },
-    {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
     },
     {
       "basename": "Контейнеры",
@@ -53,10 +77,6 @@
       "path": "Base/20 C++.md"
     },
     {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
-    },
-    {
       "basename": "Concurency in C++",
       "path": "Base/Concurency in C++.md"
     },
@@ -67,10 +87,6 @@
     {
       "basename": "KMP",
       "path": "Base/KMP.md"
-    },
-    {
-      "basename": "Алгодроч",
-      "path": "Base/Алгодроч.md"
     },
     {
       "basename": "Road to 10xprogrammer",
@@ -87,14 +103,6 @@
     {
       "basename": "Drawing 2022-05-06 17.51.03.excalidraw",
       "path": "Excalidraw/Drawing 2022-05-06 17.51.03.excalidraw.md"
-    },
-    {
-      "basename": "BFS",
-      "path": "Base/BFS.md"
-    },
-    {
-      "basename": "Dijkstra's algorithm",
-      "path": "Base/Dijkstra's algorithm.md"
     },
     {
       "basename": "mutex и lock_guard",
@@ -187,18 +195,6 @@
     {
       "basename": "20 cmake",
       "path": "Base/20 cmake.md"
-    },
-    {
-      "basename": "10 Databases",
-      "path": "Base/10 Databases.md"
-    },
-    {
-      "basename": "10 Design Patterns",
-      "path": "Base/10 Design Patterns.md"
-    },
-    {
-      "basename": "10 Design",
-      "path": "Base/10 Design.md"
     }
   ],
   "omittedPaths": [],
