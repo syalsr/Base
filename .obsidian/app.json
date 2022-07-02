@@ -21,5 +21,6 @@
   "trashOption": "local",
   "tabSize": 4,
   "readableLineLength": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "communityPluginSortOrder": "download"
 }

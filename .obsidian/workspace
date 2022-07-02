@@ -4,34 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b170e598fd50f58b",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Planner.md"
-          }
-        }
-      },
-      {
-        "id": "4dd672e9250142ee",
+        "id": "785b6d9894202533",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anki.md",
-            "mode": "preview",
+            "file": "Anki/Study Set 1.md",
+            "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "cf6205703b63b8fb",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Planner.md"
           }
         }
       }
@@ -68,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#do/important_start",
+                "query": "iframe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner.md"
+                "file": "Anki/Study Set 1.md"
               }
             }
           }
@@ -99,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -115,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner.md",
+                "file": "Anki/Study Set 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner.md",
+                "file": "Anki/Study Set 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +142,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2f798a092ebf1026",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -186,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Planner.md",
+                "file": "Anki/Study Set 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +198,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 255,
-                  "scale": 0.5087618855792646,
+                  "scale": 0.3628873693012189,
                   "close": true
                 }
               }
@@ -222,17 +211,17 @@
     "direction": "horizontal",
     "width": 460
   },
-  "active": "cf6205703b63b8fb",
+  "active": "785b6d9894202533",
   "lastOpenFiles": [
+    "Anki/Study Set 1.md",
+    "Anki/Anki.md",
+    "Templates/Template inbox.md",
     "Planner.md",
+    "2022-07-02.md",
+    "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
     "dataviewkanban.md",
-    "Anki.md",
-    "Base/00 Начало.md",
-    "Base/Pasted image 20210323185756.png.md",
-    "Base/bidirectional list.md",
-    "Base/Потоки ввода вывода.md",
-    "Base/Модель потоков ввода вывода.md",
-    "Base/10 Design.md",
-    "Base/10 Algorithm and data structures.md"
+    "Base/00 Уход за собой.md",
+    "Base/00 Клетка.md",
+    "Base/Вакуоль.md"
   ]
 }

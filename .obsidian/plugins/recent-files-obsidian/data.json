@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Study Set 1",
+      "path": "Anki/Study Set 1.md"
+    },
+    {
+      "basename": "Anki",
+      "path": "Anki/Anki.md"
+    },
+    {
+      "basename": "Template inbox",
+      "path": "Templates/Template inbox.md"
+    },
+    {
       "basename": "Planner",
       "path": "Planner.md"
     },
     {
-      "basename": "dataviewkanban",
-      "path": "dataviewkanban.md"
+      "basename": "2022-07-02",
+      "path": "2022-07-02.md"
     },
     {
-      "basename": "Anki",
-      "path": "Anki.md"
+      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+    },
+    {
+      "basename": "00 Уход за собой",
+      "path": "Base/00 Уход за собой.md"
+    },
+    {
+      "basename": "00 Клетка",
+      "path": "Base/00 Клетка.md"
+    },
+    {
+      "basename": "Вакуоль",
+      "path": "Base/Вакуоль.md"
+    },
+    {
+      "basename": "Мусульманство",
+      "path": "История/Мусульманство.md"
     },
     {
       "basename": "00 Начало",
@@ -63,10 +91,6 @@
     {
       "basename": "00 Экономика",
       "path": "Base/00 Экономика.md"
-    },
-    {
-      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
     },
     {
       "basename": "Hash tables",
@@ -175,30 +199,6 @@
     {
       "basename": "Ошибки в C++ программах",
       "path": "Base/Ошибки в C++ программах.md"
-    },
-    {
-      "basename": "Ссылки",
-      "path": "Base/Ссылки.md"
-    },
-    {
-      "basename": "Перегрузка операторов",
-      "path": "Base/Перегрузка операторов.md"
-    },
-    {
-      "basename": "Initialization",
-      "path": "Base/Initialization.md"
-    },
-    {
-      "basename": "Type inference",
-      "path": "Base/Type inference.md"
-    },
-    {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
-    },
-    {
-      "basename": "Статические и динамические библиотеки",
-      "path": "Base/Статические и динамические библиотеки.md"
     }
   ],
   "omittedPaths": [],

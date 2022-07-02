@@ -23,7 +23,8 @@
   "obsidian-kanban",
   "obsidian-dictionary-plugin",
   "obsidian-git",
-  "obsidian-tabs",
   "find-unlinked-files",
-  "review-obsidian"
+  "review-obsidian",
+  "nldates-obsidian",
+  "graph-analysis"
 ]

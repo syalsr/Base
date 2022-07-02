@@ -5,9 +5,9 @@ kanban-plugin: basic
 ---
 
 ## ToDo
-```dataview
-task from #films 
-```
+
+- [ ] f
+
 
 ## Progress
 
