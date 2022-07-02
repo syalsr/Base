@@ -7,11 +7,31 @@
         "id": "b170e598fd50f58b",
         "type": "leaf",
         "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Planner.md"
+          }
+        }
+      },
+      {
+        "id": "4dd672e9250142ee",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/10 Algorithm and data structures.md",
-            "mode": "source",
+            "file": "Anki.md",
+            "mode": "preview",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "cf6205703b63b8fb",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Planner.md"
           }
         }
       }
@@ -48,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "klt",
+                "query": "tag:#do/important_start",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/10 Algorithm and data structures.md"
+                "file": "Planner.md"
               }
             }
           }
@@ -79,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -96,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/10 Algorithm and data structures.md",
+                "file": "Planner.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/10 Algorithm and data structures.md",
+                "file": "Planner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,9 +145,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "115d6e9e598ec4cd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e617bdbef3bad8f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "f66297d892748eb4",
@@ -151,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/10 Algorithm and data structures.md",
+                "file": "Planner.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,20 +220,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460,
-    "collapsed": true
+    "width": 460
   },
-  "active": "b170e598fd50f58b",
+  "active": "cf6205703b63b8fb",
   "lastOpenFiles": [
-    "Base/10 Algorithm and data structures.md",
-    "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
-    "Base/20 cmake.md",
-    "Base/Linux.md",
-    "Base/KMP.md",
-    "Base/Алгодроч.md",
-    "Base/Жадные алгоритмы.md",
-    "Base/Сумма на отрезке.md",
-    "Base/STL.md",
-    "Base/Категории выражений.md"
+    "Planner.md",
+    "dataviewkanban.md",
+    "Anki.md",
+    "Base/00 Начало.md",
+    "Base/Pasted image 20210323185756.png.md",
+    "Base/bidirectional list.md",
+    "Base/Потоки ввода вывода.md",
+    "Base/Модель потоков ввода вывода.md",
+    "Base/10 Design.md",
+    "Base/10 Algorithm and data structures.md"
   ]
 }

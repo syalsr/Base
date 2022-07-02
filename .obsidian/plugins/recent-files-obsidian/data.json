@@ -1,12 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Planner",
+      "path": "Planner.md"
+    },
+    {
+      "basename": "dataviewkanban",
+      "path": "dataviewkanban.md"
+    },
+    {
+      "basename": "Anki",
+      "path": "Anki.md"
+    },
+    {
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
+    },
+    {
+      "basename": "bidirectional list",
+      "path": "Base/bidirectional list.md"
+    },
+    {
+      "basename": "Потоки ввода вывода",
+      "path": "Base/Потоки ввода вывода.md"
+    },
+    {
+      "basename": "Модель потоков ввода вывода",
+      "path": "Base/Модель потоков ввода вывода.md"
+    },
+    {
+      "basename": "10 Design",
+      "path": "Base/10 Design.md"
+    },
+    {
       "basename": "10 Algorithm and data structures",
       "path": "Base/10 Algorithm and data structures.md"
     },
     {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
+      "basename": "10 Reverse engineering",
+      "path": "Base/10 Reverse engineering.md"
+    },
+    {
+      "basename": "10 Design Patterns",
+      "path": "Base/10 Design Patterns.md"
+    },
+    {
+      "basename": "Linux problems and solves",
+      "path": "Base/Linux problems and solves.md"
+    },
+    {
+      "basename": "00 Математика",
+      "path": "Math/00 Математика.md"
+    },
+    {
+      "basename": "00 Conversation🗣️",
+      "path": "Base/00 Conversation🗣️.md"
+    },
+    {
+      "basename": "00 Экономика",
+      "path": "Base/00 Экономика.md"
+    },
+    {
       "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+    },
+    {
+      "basename": "Hash tables",
+      "path": "Base/Hash tables.md"
+    },
+    {
+      "basename": "Структурная дрочь",
+      "path": "Base/Структурная дрочь.md"
+    },
+    {
+      "basename": "Tree",
+      "path": "Base/Tree.md"
+    },
+    {
+      "basename": "balance_tree.excalidraw",
+      "path": "Excalidraw/balance_tree.excalidraw.md"
     },
     {
       "basename": "20 cmake",
@@ -123,82 +199,6 @@
     {
       "basename": "Статические и динамические библиотеки",
       "path": "Base/Статические и динамические библиотеки.md"
-    },
-    {
-      "basename": "Protobuf",
-      "path": "Base/Protobuf.md"
-    },
-    {
-      "basename": "Regular expression",
-      "path": "Base/Regular expression.md"
-    },
-    {
-      "basename": "20 Paradigms",
-      "path": "Base/20 Paradigms.md"
-    },
-    {
-      "basename": "Потоки",
-      "path": "Base/Потоки.md"
-    },
-    {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
-    },
-    {
-      "basename": "Road to 10xprogrammer",
-      "path": "Base/Road to 10xprogrammer.md"
-    },
-    {
-      "basename": "Ошибки в многопоточных программах",
-      "path": "Base/Ошибки в многопоточных программах.md"
-    },
-    {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
-    },
-    {
-      "basename": "10 Databases",
-      "path": "Base/10 Databases.md"
-    },
-    {
-      "basename": "Структурная дрочь",
-      "path": "Base/Структурная дрочь.md"
-    },
-    {
-      "basename": "BFS",
-      "path": "Base/BFS.md"
-    },
-    {
-      "basename": "Dijkstra's algorithm",
-      "path": "Base/Dijkstra's algorithm.md"
-    },
-    {
-      "basename": "Tree",
-      "path": "Base/Tree.md"
-    },
-    {
-      "basename": "Graph",
-      "path": "Base/Graph.md"
-    },
-    {
-      "basename": "orgraph.excalidraw",
-      "path": "Excalidraw/orgraph.excalidraw.md"
-    },
-    {
-      "basename": "rotate.excalidraw",
-      "path": "Excalidraw/rotate.excalidraw.md"
-    },
-    {
-      "basename": "balance_tree.excalidraw",
-      "path": "Excalidraw/balance_tree.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-05-07 10.13.07.excalidraw",
-      "path": "Excalidraw/Drawing 2022-05-07 10.13.07.excalidraw.md"
-    },
-    {
-      "basename": "balance_tree.excalidraw",
-      "path": "Excalidraw/balance_tree.excalidraw.png"
     }
   ],
   "omittedPaths": [],

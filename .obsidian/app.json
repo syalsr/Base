@@ -20,5 +20,6 @@
   ],
   "trashOption": "local",
   "tabSize": 4,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "rightToLeft": false
 }
