@@ -1,13 +1,15 @@
-#flashcards
+#ankiset/1
 
 feeling pleased and satisfied about something that you own or have done, or are connected with
 E.g.
 Gotham City is `_____` of an ordinary citizen standing up for what's right.
+![[../Files/Pasted image 20220703022442.png]]
 ?
 proud
 <div class=iframe-container>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WEnrfhygOQY?start=923" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<!--SR:!2022-07-07,4,270-->
 
 to do something by making an effort
 E.g.
@@ -17,6 +19,7 @@ The first part of the plan has been safely `______________`.
 ?
 accomplish
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dbleDqLdhaE?start=614" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 hard work
 E.g.
@@ -26,6 +29,7 @@ But the church made a huge `______` to discredit him.
 ?
 effort
 ![[../Files/but-the-church-made-a-huge-effort-to-discredit-him.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 sometimes but not often  
 E.g.  
@@ -35,6 +39,7 @@ We `____________` meet for a drink after work.
 ?
 occasionally
 ![[../Files/_and-occasionally-the-chance-to-feel-strong.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 very bad or unpleasant 
 E.g.
@@ -43,6 +48,7 @@ Don't buy that coat — it looks cheap and `_____`.
 ![[../Files/Pasted image 20220702173711.png]]
 ?
 nasty
+<!--SR:!2022-07-07,4,270-->
 
 very large or important  
 E.g.  
@@ -50,6 +56,7 @@ The only `_____` component he still needs is a power source of high energy densi
 ?
 major
 ![[../Files/the-only-major-component-he-still-needs-is-a-power-source-of-highenergy-density.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 from one end to or towards the other end of something  
 E.g. 
@@ -60,6 +67,7 @@ Come ______, R2. Let's find Princess Leia.
 ?
 along
 ![[../Files/if-anyone's-got-pens-pass-it-along.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 particularly  
 E.g.  
@@ -70,6 +78,7 @@ The car is quite small, `__________` if you have children.
 ?
 Especially
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h6Dk3RgNOKI?start=99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 very different from each other and of various kinds  
 E.g.  
@@ -79,6 +88,7 @@ My interests are very `_______`.
 ?
 diverse
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0Q-706HG1I?start=65" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 the way that someone or something looks  
 E.g.  
@@ -87,6 +97,7 @@ I've never met anyone of such bizarre `___________`
 ?
 appearance
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RR-Y9qt77Ss?start=533" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 happening; very often  
 E.g.  
@@ -96,6 +107,7 @@ This weekend, visitors will get a `____` chance to visit the private apartments.
 ?
 rare
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zYk0GH5iFYI?start=179" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 often  
 E.g.  
@@ -105,6 +117,7 @@ Buses run `________` between the city and the airport.
 ?
 frequently
 ![[../Files/the-other-question-i-get-most-frequently-is-_when-i-was-up-there-stranded-by-myself-_did-i-think-i-was-going-to-die_-yes-absolutely.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 free from outside control; not depending on another's authority.  
 E.g.  
@@ -114,6 +127,7 @@ In 1961 the country was declared `___________` .
 ?
 independent
 ![[../Files/to-assist-at-the-birth-of-an-independent-lndia-and-to-welcome-her-as-an-equal-member-in-the-british-commonwealth-of-nations.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 to make sure that something happens or is definite  
 E.g.  
@@ -123,6 +137,7 @@ The best way to `_______` everybody's safety... is for you to continue your work
 ?
 ensure
 ![[../Files/the-best-way-to-ensure-everybody's-safety-is-for-you-to-continue-your-work.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 strongly believing something, specific
 E.g.  
@@ -133,6 +148,7 @@ But I think we're ignoring `_____` facts
 ?
 certain
 ![[../Files/like-a-diet-of-the-mind-i-choose-not-to-indulge-certain-appetites.mp4]]
+<!--SR:!2022-07-04,1,230-->
 
 to spend time thinking about a possibility or making a decision
 E.g.  
@@ -144,6 +160,7 @@ But `_______` this my resignation.
 ?
 consider
 <iframe width="560" height="315" src="https://www.youtube.com/embed/quJdL9ggETI?start=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-04,1,230-->
 
 `_______` something to get something, especially by making an effort  
 E.g.  
@@ -154,6 +171,7 @@ These conditions no longer `______`
 ?
 obtain
 ![[../Files/if-we-obtain-our-freedom-by-murder-and-bloodshed-l-want-no-part-of-it.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 to need something or make something necessary 
 E.g.  
@@ -164,6 +182,7 @@ But there are many matters that `______` your attention
 ?
 require
 ![[../Files/anything-else-you-require-madam.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 to see or notice somebody/something  
 E.g.  
@@ -174,6 +193,7 @@ She `________ed` that all the chairs were already occupied
 ?
 observe
 ![[../Files/i-didn't-have-time-to-observe-the-rules-of-the-road-alfred 1.mp4]]
+<!--SR:!2022-07-04,1,230-->
 
 to think or believe that something is true or possible  
 E.g.  
@@ -184,6 +204,7 @@ I `________` you think it's funny, do you?
 ?
 suppose
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PROwoXrumn4?start=49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-04,1,230-->
 
 to travel to or around an area or a country in order to learn about it  
 E.g.  
@@ -195,6 +216,7 @@ We will `________` these ideas in more detail in chapter 7
 ?
 explore
 ![[../Files/see-some-of-the-world-explore.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 `_______` something to make something continue at the same level, standard, etc.  
 E.g.  
@@ -204,6 +226,7 @@ The two countries have always `_________ed` close relations
 ?
 maintain
 <iframe width="560" height="315" src="https://www.youtube.com/embed/td7Dcsco-WY?start=1860" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 used when giving information that you expect other people to know already or agree with  
 E.g.  
@@ -213,6 +236,7 @@ Diet and exercise are `__________` important
 ?
 obviously
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PL3qXS502LY?start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 to talk about preferring one thing to another  
 E.g.  
@@ -222,6 +246,7 @@ She `_______ ________` have spent the money on a holiday.
 ?
 would rather
 ![[../Files/if-you-don't-want-to-work-for-me-and-would-rather-be-out-there-then-leave-now.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 to make somebody take part in something  
 E.g.  
@@ -231,6 +256,7 @@ It would be difficult not to `__________` the child's father in the arrangements
 ?
 involve
 ![[../Files/um-did-it-involve-the-_f_-word.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 knowing that something exists, or having knowledge or experience of a particular thing  
 E.g.  
@@ -240,6 +266,7 @@ Everybody should be made `________` of the risks involved
 ?
 aware
 ![[../Files/as-you're-all-aware-one-of-our-deposits-was-stolen.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 the act of showing a skill, a feeling, or a kind of behaviour  
 E.g.  
@@ -249,6 +276,7 @@ I saw a beautiful `__________ __` his work last year in Aixen Provence
 ?
 an exhibition of something
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ee5gGkW7nk?start=500" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 to speak about something quickly, giving little detail or using few words  
 E.g.  
@@ -258,6 +286,7 @@ Did she `_________` where she was going?
 ?
 mention
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EtV1z10L9wc?start=321" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 the ability to do something dangerous, or to face pain or opposition, without showing fear  
 E.g.  
@@ -267,6 +296,7 @@ They showed great `_______` when they found out about their baby's disability
 ?
 courage
 ![[../Files/courage-is-the-best-defense-that-you-have-now.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 to give somebody support, courage or hope  
 E.g.  
@@ -276,6 +306,7 @@ And I `_________________` my men to bring their families, as well
 ?
 encourage
 ![[../Files/some-organ-donation-forms -please-encourage-your-friends-and-family-to-pledge-their-organs.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 equivalent  
 E.g.  
@@ -285,6 +316,7 @@ Whenever you overload operator new, overload the `______________` form of operat
 ?
 corresponding
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_AY8mmbR1o4?start=132" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 having the ability, power, or qualities to be able to do something  
 E.g.  
@@ -294,6 +326,7 @@ Do you think he's `_________ __` doing it?
 ?
 capable of
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pA9XWXQ6vMQ?start=556" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 why you do something or why something exists  
 E.g.  
@@ -302,6 +335,7 @@ The `__________ __` the research is to try to find out more about the causes of 
 ?
 purpose of
 <iframe width="560" height="315" src="https://www.youtube.com/embed/873QIUSzNPM?start=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 to accept or start to use something new  
 E.g.  
@@ -312,6 +346,7 @@ I wan to `_____` baby.
 ?
 adopt
 ![[../Files/i-want-to-adopt-i-want-my-own-kids-i-want-to-have-foster-kids.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 to cause worry to someone  
 E.g.  
@@ -321,6 +356,7 @@ We're now going to turn to an issue that `_________s` us all - racism
 ?
 concern
 ![[../Files/none-of-which-concern-us.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 to act as if something is true when it is not true  
 E.g.  
@@ -331,6 +367,7 @@ I don't `__________` to be an expert on the subject.
 ?
 pretend
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RcGyVTAoXEU?start=202" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 Feeling annoyed and upset because you cannot do something you are trying to do  
 E.g.  
@@ -339,6 +376,7 @@ Are you feeling `____________` in your present job?
 ?
 frustrated
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F8Rwz3KWFHA?start=456" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 verb - to buy something; noun - something that you buy  
 E.g.  
@@ -348,6 +386,7 @@ How do you wish to pay for your `_____________s`?
 ?
 purchase
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6s_61iRNSO0?start=69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 to want to do something  
 E.g.:  
@@ -356,6 +395,7 @@ If you `_____` go to London, you should save up.
 ?
 wish
 ![[../Files/if-you-wish-to-discuss-a-complaint-i-suggest-you-make-a-proper-appointment.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 medical attention given to a sick or injured person or animal  
 E.g.  
@@ -365,6 +405,7 @@ an effective` ___________` for eczema
 ?
 treatment
 ![[../Files/if-i-don't-continue-my-treatment-then-they'll.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 to get something from something else  
 E.g.  
@@ -374,12 +415,14 @@ The institute `________s` all its money from foreign investments
 ?
 derive
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VzYVUgBpQ68?start=1250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--SR:!2022-07-07,4,270-->
 
 barrier
 ![[../Files/Pasted image 20220702181647.png]]
 ?
 obstacle
 ![[../Files/our-biggest-obstacle-is-my-mother.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 If something happens `_______________`, it happens without any delay  
 E.g.  
@@ -388,6 +431,7 @@ Ingrid answered Peter's letter `_______________`
 ?
 immediately
 ![[../Files/prisoner-drop-the-device-immediately-and-retreat-to-your-cell-or-we-will-open-fire.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 a reaction to a stimulus  
 E.g.  
@@ -397,6 +441,7 @@ Her proposals met with an enthusiastic `_______________`
 ?
 response
 ![[../Files/i-found-the-appropriate-response-to-these-situations-a-long-time-ago (1).mp4]]
+<!--SR:!2022-07-06,3,250-->
 
 If you `_________` something, you put forward a plan or idea for someone to think about.  
 E.g.  
@@ -406,6 +451,7 @@ I `_____________` you ask him some specific questions about his past
 ?
 suggest
 ![[../Files/i-suggest-you-try-it-out-and-maybe-go-talk-about-your-feelings-your-concerns.mp4]]
+<!--SR:!2022-07-07,4,270-->
 
 `_______________` is the process of getting something ready for use or for a particular purpose or making arrangements for something  
 E.g.  
@@ -415,4 +461,23 @@ Yasmin assisted in the `_______________` of this article
 ?
 ![[../Files/relinquishing-junk-stage-one-preparation.mp4]]
 preparation
+<!--SR:!2022-07-07,4,270-->
 
+feeling happy about something
+E.g.
+I'm glad you're so _______, Rachel.
+![[../Files/Pasted image 20220702170544.png]]
+?
+pleased
+![[../Files/i'm-glad-you're-so-pleased-rachel.mp4]]
+<!--SR:!2022-07-07,4,270-->
+
+a feeling you have about something
+E.g.
+One of the most important things in a partner is a `_____` of humour
+It doesn't make any `_____` for us to have to die too.
+![[../Files/Pasted image 20220702170203.png]]
+?
+sense
+![[../Files/it-doesn't-make-any-sense-for-us-to-have-to-die-too.mp4]]
+<!--SR:!2022-07-07,4,270-->

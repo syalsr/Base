@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iframe",
+                "query": "перемещение временных объектов",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -215,9 +214,9 @@
   "lastOpenFiles": [
     "Anki/Study Set 1.md",
     "Anki/Anki.md",
-    "Templates/Template inbox.md",
     "Planner.md",
     "2022-07-02.md",
+    "Templates/Template inbox.md",
     "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
     "dataviewkanban.md",
     "Base/00 Уход за собой.md",

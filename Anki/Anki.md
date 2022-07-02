@@ -1,18 +1,5 @@
 #flashcards
 
-Front of multiline
-?
-Backside of multiline card
-<!--SR:!2022-07-03,1,230-->
-
-As per the definition
-of "multiline" the prompt
-can be on multiple lines
-??
-same goes for
-the answer
-<!--SR:!2022-07-04,2,248!2022-07-05,3,250-->
-
 able        
 
 across      
@@ -556,15 +543,6 @@ pink        
 
 piss 
 
-feeling happy about something
-E.g.
-I'm glad you're so _______, Rachel.
-I'm glad you're so _______,Rachel.
-![[../Files/Pasted image 20220702170544.png]]
-?
-pleased
-<!--SR:!2022-07-05,3,250-->
-
 pocket      
 
 point        
@@ -641,16 +619,7 @@ seem        
 
 seen        
 
-self        
-
-a feeling you have about something
-E.g.
-One of the most important things in a partner is a `_____` of humour
-It doesn't make any `_____` for us to have to die too.
-![[../Files/Pasted image 20220702170203.png]]
-?
-sense        
-<!--SR:!2022-07-05,3,268-->
+self           
 
 sent        
 
