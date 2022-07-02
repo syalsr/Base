@@ -5,8 +5,164 @@
       "path": "Base/10 Algorithm and data structures.md"
     },
     {
+      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+    },
+    {
+      "basename": "20 cmake",
+      "path": "Base/20 cmake.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "Base/Linux.md"
+    },
+    {
+      "basename": "KMP",
+      "path": "Base/KMP.md"
+    },
+    {
       "basename": "Алгодроч",
       "path": "Base/Алгодроч.md"
+    },
+    {
+      "basename": "Жадные алгоритмы",
+      "path": "Base/Жадные алгоритмы.md"
+    },
+    {
+      "basename": "Сумма на отрезке",
+      "path": "Base/Сумма на отрезке.md"
+    },
+    {
+      "basename": "STL",
+      "path": "Base/STL.md"
+    },
+    {
+      "basename": "Категории выражений",
+      "path": "Base/Категории выражений.md"
+    },
+    {
+      "basename": "20 C++",
+      "path": "Base/20 C++.md"
+    },
+    {
+      "basename": "Concurency in C++",
+      "path": "Base/Concurency in C++.md"
+    },
+    {
+      "basename": "Разделение кода на файлы и директивы препроцессора",
+      "path": "Base/Разделение кода на файлы и директивы препроцессора.md"
+    },
+    {
+      "basename": "Сборка проектов на C++",
+      "path": "Base/Сборка проектов на C++.md"
+    },
+    {
+      "basename": "Память в C++",
+      "path": "Base/Память в C++.md"
+    },
+    {
+      "basename": "Placement new",
+      "path": "Base/Placement new.md"
+    },
+    {
+      "basename": "Drawing 2022-05-08 14.31.44.excalidraw",
+      "path": "Excalidraw/Drawing 2022-05-08 14.31.44.excalidraw.md"
+    },
+    {
+      "basename": "Умные указатели",
+      "path": "Base/Умные указатели.md"
+    },
+    {
+      "basename": "Type punning",
+      "path": "Base/Type punning.md"
+    },
+    {
+      "basename": "Многопоточность и аллокация памяти",
+      "path": "Base/Многопоточность и аллокация памяти.md"
+    },
+    {
+      "basename": "Allocators",
+      "path": "Base/Allocators.md"
+    },
+    {
+      "basename": "Модель памяти",
+      "path": "Base/Модель памяти.md"
+    },
+    {
+      "basename": "Вершина айсберга C++",
+      "path": "Base/Вершина айсберга C++.md"
+    },
+    {
+      "basename": "Функции",
+      "path": "Base/Функции.md"
+    },
+    {
+      "basename": "Ошибки в C++ программах",
+      "path": "Base/Ошибки в C++ программах.md"
+    },
+    {
+      "basename": "Ссылки",
+      "path": "Base/Ссылки.md"
+    },
+    {
+      "basename": "Перегрузка операторов",
+      "path": "Base/Перегрузка операторов.md"
+    },
+    {
+      "basename": "Initialization",
+      "path": "Base/Initialization.md"
+    },
+    {
+      "basename": "Type inference",
+      "path": "Base/Type inference.md"
+    },
+    {
+      "basename": "10 Programming languages",
+      "path": "Base/10 Programming languages.md"
+    },
+    {
+      "basename": "Статические и динамические библиотеки",
+      "path": "Base/Статические и динамические библиотеки.md"
+    },
+    {
+      "basename": "Protobuf",
+      "path": "Base/Protobuf.md"
+    },
+    {
+      "basename": "Regular expression",
+      "path": "Base/Regular expression.md"
+    },
+    {
+      "basename": "20 Paradigms",
+      "path": "Base/20 Paradigms.md"
+    },
+    {
+      "basename": "Потоки",
+      "path": "Base/Потоки.md"
+    },
+    {
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
+    },
+    {
+      "basename": "Road to 10xprogrammer",
+      "path": "Base/Road to 10xprogrammer.md"
+    },
+    {
+      "basename": "Ошибки в многопоточных программах",
+      "path": "Base/Ошибки в многопоточных программах.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
+      "basename": "10 Databases",
+      "path": "Base/10 Databases.md"
+    },
+    {
+      "basename": "Структурная дрочь",
+      "path": "Base/Структурная дрочь.md"
     },
     {
       "basename": "BFS",
@@ -15,10 +171,6 @@
     {
       "basename": "Dijkstra's algorithm",
       "path": "Base/Dijkstra's algorithm.md"
-    },
-    {
-      "basename": "Структурная дрочь",
-      "path": "Base/Структурная дрочь.md"
     },
     {
       "basename": "Tree",
@@ -31,14 +183,6 @@
     {
       "basename": "orgraph.excalidraw",
       "path": "Excalidraw/orgraph.excalidraw.md"
-    },
-    {
-      "basename": "10 Databases",
-      "path": "Base/10 Databases.md"
-    },
-    {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
     },
     {
       "basename": "rotate.excalidraw",
@@ -55,146 +199,6 @@
     {
       "basename": "balance_tree.excalidraw",
       "path": "Excalidraw/balance_tree.excalidraw.png"
-    },
-    {
-      "basename": "Контейнеры",
-      "path": "Base/Контейнеры.md"
-    },
-    {
-      "basename": "std unordered_map",
-      "path": "Base/std unordered_map.md"
-    },
-    {
-      "basename": "Умные указатели",
-      "path": "Base/Умные указатели.md"
-    },
-    {
-      "basename": "Hash tables",
-      "path": "Base/Hash tables.md"
-    },
-    {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
-    },
-    {
-      "basename": "Concurency in C++",
-      "path": "Base/Concurency in C++.md"
-    },
-    {
-      "basename": "Список книг",
-      "path": "Base/Список книг.md"
-    },
-    {
-      "basename": "KMP",
-      "path": "Base/KMP.md"
-    },
-    {
-      "basename": "Road to 10xprogrammer",
-      "path": "Base/Road to 10xprogrammer.md"
-    },
-    {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
-    },
-    {
-      "basename": "Потоки",
-      "path": "Base/Потоки.md"
-    },
-    {
-      "basename": "Drawing 2022-05-06 17.51.03.excalidraw",
-      "path": "Excalidraw/Drawing 2022-05-06 17.51.03.excalidraw.md"
-    },
-    {
-      "basename": "mutex и lock_guard",
-      "path": "Base/mutex и lock_guard.md"
-    },
-    {
-      "basename": "async и future",
-      "path": "Base/async и future.md"
-    },
-    {
-      "basename": "mutable в многопоточных программах",
-      "path": "Base/mutable в многопоточных программах.md"
-    },
-    {
-      "basename": "Константность в многопоточных программах",
-      "path": "Base/Константность в многопоточных программах.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Base/Linux.md"
-    },
-    {
-      "basename": "10 Operating system and computer architecture",
-      "path": "Base/10 Operating system and computer architecture.md"
-    },
-    {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
-    },
-    {
-      "basename": "Regular expression",
-      "path": "Base/Regular expression.md"
-    },
-    {
-      "basename": "00 Математика",
-      "path": "Math/00 Математика.md"
-    },
-    {
-      "basename": "Статические и динамические библиотеки",
-      "path": "Base/Статические и динамические библиотеки.md"
-    },
-    {
-      "basename": "Сокеты",
-      "path": "Base/Сокеты.md"
-    },
-    {
-      "basename": "Протокол TCP",
-      "path": "Base/Протокол TCP.md"
-    },
-    {
-      "basename": "Транспортный уровень",
-      "path": "Base/Транспортный уровень.md"
-    },
-    {
-      "basename": "TCPIP",
-      "path": "Base/TCPIP.md"
-    },
-    {
-      "basename": "Прикладной уровень",
-      "path": "Base/Прикладной уровень.md"
-    },
-    {
-      "basename": "Канальный уровень",
-      "path": "Base/Канальный уровень.md"
-    },
-    {
-      "basename": "10 Computer network",
-      "path": "Base/10 Computer network.md"
-    },
-    {
-      "basename": "OSI",
-      "path": "Base/OSI.md"
-    },
-    {
-      "basename": "Linux problems and solves",
-      "path": "Base/Linux problems and solves.md"
-    },
-    {
-      "basename": "Категории итераторов",
-      "path": "Base/Категории итераторов.md"
-    },
-    {
-      "basename": "Итераторы",
-      "path": "Base/Итераторы.md"
-    },
-    {
-      "basename": "Iterator adapters",
-      "path": "Base/Iterator adapters.md"
-    },
-    {
-      "basename": "20 cmake",
-      "path": "Base/20 cmake.md"
     }
   ],
   "omittedPaths": [],

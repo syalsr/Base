@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "make_shared",
+                "query": "klt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,12 +75,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -191,14 +191,14 @@
   "active": "b170e598fd50f58b",
   "lastOpenFiles": [
     "Base/10 Algorithm and data structures.md",
-    "Base/Формальная дрочь.md",
+    "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
+    "Base/20 cmake.md",
+    "Base/Linux.md",
+    "Base/KMP.md",
     "Base/Алгодроч.md",
-    "Base/BFS.md",
-    "Base/Dijkstra's algorithm.md",
-    "Base/Структурная дрочь.md",
-    "Base/Tree.md",
-    "Base/Graph.md",
-    "Excalidraw/orgraph.excalidraw.md",
-    "Base/10 Databases.md"
+    "Base/Жадные алгоритмы.md",
+    "Base/Сумма на отрезке.md",
+    "Base/STL.md",
+    "Base/Категории выражений.md"
   ]
 }

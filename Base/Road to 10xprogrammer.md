@@ -892,22 +892,22 @@
 	* [ ] 29.2 Afternotes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 354
 
 # William concurency
-* [ ] 1 Hello, world of concurrency in C++! 1
-	* [ ] 1.1 What is concurrency? 2
-		* [ ] Concurrency in computer systems 2
-		* [ ] Approaches to concurrency 4
-	* [ ] 1.2 Why use concurrency? 6
-		* [ ] Using concurrency for separation of concerns 6
-		* [ ] Using concurrency for performance 7 
-		* [ ] When not to use concurrency 8
-	* [ ] 1.3 Concurrency and multithreading in C++ 9
-		* [ ] History of multithreading in C++ 10 
-		* [ ] Concurrency support in the new standard 10 ■ Efficiency in the C++
-		* [ ] Thread Library 11 
-		* [ ] Platform-specific facilities 12
-	* [ ] 1.4 Getting started 13
-		* [ ] Hello, Concurrent World 13
-	* [ ] 1.5 Summary 14
+* [x] 1 Hello, world of concurrency in C++! 1
+	* [x] 1.1 What is concurrency? 2
+		* [x] Concurrency in computer systems 2
+		* [x] Approaches to concurrency 4
+	* [x] 1.2 Why use concurrency? 6
+		* [x] Using concurrency for separation of concerns 6
+		* [x] Using concurrency for performance 7
+		* [x] When not to use concurrency 8
+	* [x] 1.3 Concurrency and multithreading in C++ 9
+		* [x] History of multithreading in C++ 10
+		* [x] Concurrency support in the new standard 10 ■ Efficiency in the C++
+		* [x] Thread Library 11
+		* [x] Platform-specific facilities 12
+	* [x] 1.4 Getting started 13
+		* [x] Hello, Concurrent World 13
+	* [x] 1.5 Summary 14
 * [ ] 2 Managing threads 15
 	* [ ] 2.1 Basic thread management 16
 		* [ ] Launching a thread 16 

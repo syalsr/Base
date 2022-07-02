@@ -4,7 +4,7 @@
 
 ```
 abacabadabacabaaabbabacabababadabacaba
-001012301234567112012345672
+0010123012345671120123456723
 ```
 
 ```cpp

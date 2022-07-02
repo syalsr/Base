@@ -3,20 +3,18 @@
 * [[mutex и lock_guard]]
 * [[Константность в многопоточных программах]]
 * [[mutable в многопоточных программах]]
+* [[Ошибки в многопоточных программах]]
 
 ```cpp
-void process()
+#include <iostream>
+#include <thread>
+void hello()
 {
-	for(int...)
-		std::cout << "+";
-		
+	std::cout<<"Hello Concurrent World\n";
 }
-
 int main()
 {
-	std::thread thr(process);
-	for(int i...)
-		std::cout << "-";
-	thr.join();//чтобы программа не упала
+	std::thread t(hello);
+	t.join();
 }
 ```
