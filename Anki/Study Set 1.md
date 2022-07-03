@@ -18,7 +18,8 @@ The first part of the plan has been safely `______________`.
 ![[../Files/Pasted image 20220702173256.png]]
 ?
 accomplish
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dbleDqLdhaE?start=614" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dbleDqLdhaE?start=614" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 hard work
@@ -77,7 +78,8 @@ The car is quite small, `__________` if you have children.
 ![[../Files/Pasted image 20220702174318.png]]
 ?
 Especially
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h6Dk3RgNOKI?start=99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6Dk3RgNOKI?start=99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 very different from each other and of various kinds  
@@ -87,7 +89,8 @@ My interests are very `_______`.
 ![[../Files/Pasted image 20220702174409.png]]
 ?
 diverse
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C0Q-706HG1I?start=65" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0Q-706HG1I?start=65" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 the way that someone or something looks  
@@ -96,7 +99,7 @@ I've never met anyone of such bizarre `___________`
 ![[../Files/Pasted image 20220702174427.png]]
 ?
 appearance
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RR-Y9qt77Ss?start=533" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/RR-Y9qt77Ss?start=533" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 happening; very often  
@@ -106,7 +109,7 @@ This weekend, visitors will get a `____` chance to visit the private apartments.
 ![[../Files/Pasted image 20220702174524.png]]
 ?
 rare
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zYk0GH5iFYI?start=179" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/zYk0GH5iFYI?start=179" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 often  
@@ -159,7 +162,7 @@ But `_______` this my resignation.
 ![[../Files/Pasted image 20220702175330.png]]
 ?
 consider
-<iframe width="560" height="315" src="https://www.youtube.com/embed/quJdL9ggETI?start=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/quJdL9ggETI?start=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-04,1,230-->
 
 `_______` something to get something, especially by making an effort  
@@ -203,7 +206,7 @@ I `________` you think it's funny, do you?
 ![[../Files/Pasted image 20220702175846.png]]
 ?
 suppose
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PROwoXrumn4?start=49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/PROwoXrumn4?start=49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-04,1,230-->
 
 to travel to or around an area or a country in order to learn about it  
@@ -225,7 +228,7 @@ The two countries have always `_________ed` close relations
 ![[../Files/Pasted image 20220702180024.png]]
 ?
 maintain
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td7Dcsco-WY?start=1860" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/td7Dcsco-WY?start=1860" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 used when giving information that you expect other people to know already or agree with  
@@ -235,7 +238,7 @@ Diet and exercise are `__________` important
 ![[../Files/Pasted image 20220702180235.png]]
 ?
 obviously
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PL3qXS502LY?start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/PL3qXS502LY?start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 to talk about preferring one thing to another  
@@ -275,7 +278,7 @@ I saw a beautiful `__________ __` his work last year in Aixen Provence
 ![[../Files/Pasted image 20220702180503.png]]
 ?
 an exhibition of something
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ee5gGkW7nk?start=500" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/6ee5gGkW7nk?start=500" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 to speak about something quickly, giving little detail or using few words  
@@ -285,7 +288,7 @@ Did she `_________` where she was going?
 ![[../Files/Pasted image 20220702180555.png]]
 ?
 mention
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EtV1z10L9wc?start=321" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/EtV1z10L9wc?start=321" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 the ability to do something dangerous, or to face pain or opposition, without showing fear  
@@ -315,7 +318,7 @@ Whenever you overload operator new, overload the `______________` form of operat
 ![[../Files/Pasted image 20220702180745.png]]
 ?
 corresponding
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_AY8mmbR1o4?start=132" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/_AY8mmbR1o4?start=132" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 having the ability, power, or qualities to be able to do something  
@@ -325,7 +328,7 @@ Do you think he's `_________ __` doing it?
 ![[../Files/Pasted image 20220702180902.png]]
 ?
 capable of
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pA9XWXQ6vMQ?start=556" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/pA9XWXQ6vMQ?start=556" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 why you do something or why something exists  
@@ -334,7 +337,7 @@ The `__________ __` the research is to try to find out more about the causes of 
 ![[../Files/Pasted image 20220702181010.png]]
 ?
 purpose of
-<iframe width="560" height="315" src="https://www.youtube.com/embed/873QIUSzNPM?start=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/873QIUSzNPM?start=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 to accept or start to use something new  
@@ -366,7 +369,7 @@ I don't `__________` to be an expert on the subject.
 ![[../Files/Pasted image 20220702181300.png]]
 ?
 pretend
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RcGyVTAoXEU?start=202" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/RcGyVTAoXEU?start=202" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 Feeling annoyed and upset because you cannot do something you are trying to do  
@@ -375,7 +378,7 @@ Are you feeling `____________` in your present job?
 ![[../Files/Pasted image 20220702181337.png]]
 ?
 frustrated
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F8Rwz3KWFHA?start=456" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/F8Rwz3KWFHA?start=456" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 verb - to buy something; noun - something that you buy  
@@ -385,7 +388,7 @@ How do you wish to pay for your `_____________s`?
 ![[../Files/Pasted image 20220702181421.png]]
 ?
 purchase
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6s_61iRNSO0?start=69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/6s_61iRNSO0?start=69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 to want to do something  
@@ -414,7 +417,7 @@ The institute `________s` all its money from foreign investments
 ![[../Files/Pasted image 20220702181621.png]]
 ?
 derive
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VzYVUgBpQ68?start=1250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=iframe-container><iframe width="560" height="315" src="https://www.youtube.com/embed/VzYVUgBpQ68?start=1250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <!--SR:!2022-07-07,4,270-->
 
 barrier

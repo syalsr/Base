@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Study Set 1",
-      "path": "Anki/Study Set 1.md"
+      "basename": "ACOS interview",
+      "path": "Anki/ACOS interview.md"
     },
     {
-      "basename": "Anki",
-      "path": "Anki/Anki.md"
+      "basename": "10 Operating system and computer architecture",
+      "path": "Base/10 Operating system and computer architecture.md"
     },
     {
-      "basename": "Planner",
-      "path": "Planner.md"
+      "basename": "Операционная система",
+      "path": "Base/Операционная система.md"
     },
     {
-      "basename": "2022-07-02",
-      "path": "2022-07-02.md"
+      "basename": "Аппаратное обеспечение",
+      "path": "Base/Аппаратное обеспечение.md"
     },
     {
-      "basename": "Template inbox",
-      "path": "Templates/Template inbox.md"
+      "basename": "Логические вентили",
+      "path": "Base/Логические вентили.md"
     },
     {
-      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+      "basename": "Secondary memory",
+      "path": "Base/Secondary memory.md"
     },
     {
-      "basename": "00 Уход за собой",
-      "path": "Base/00 Уход за собой.md"
+      "basename": "Primary memory",
+      "path": "Base/Primary memory.md"
     },
     {
-      "basename": "00 Клетка",
-      "path": "Base/00 Клетка.md"
+      "basename": "Cache",
+      "path": "Base/Cache.md"
     },
     {
-      "basename": "Вакуоль",
-      "path": "Base/Вакуоль.md"
+      "basename": "Processor",
+      "path": "Base/Processor.md"
     },
     {
-      "basename": "Мусульманство",
-      "path": "История/Мусульманство.md"
+      "basename": "Язык ассемблера",
+      "path": "Base/Язык ассемблера.md"
     },
     {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
+      "basename": "ISA",
+      "path": "Base/ISA.md"
     },
     {
-      "basename": "bidirectional list",
-      "path": "Base/bidirectional list.md"
+      "basename": "Interrupts",
+      "path": "Base/Interrupts.md"
     },
     {
-      "basename": "Потоки ввода вывода",
-      "path": "Base/Потоки ввода вывода.md"
-    },
-    {
-      "basename": "Модель потоков ввода вывода",
-      "path": "Base/Модель потоков ввода вывода.md"
-    },
-    {
-      "basename": "10 Design",
-      "path": "Base/10 Design.md"
-    },
-    {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
+      "basename": "Процессы",
+      "path": "Base/Процессы.md"
     },
     {
       "basename": "00 Computer science",
       "path": "Base/00 Computer science.md"
     },
     {
-      "basename": "10 Reverse engineering",
-      "path": "Base/10 Reverse engineering.md"
+      "basename": "Templates interview",
+      "path": "Anki/Templates interview.md"
     },
     {
-      "basename": "10 Design Patterns",
-      "path": "Base/10 Design Patterns.md"
+      "basename": "Concurrency interview",
+      "path": "Anki/Concurrency interview.md"
     },
     {
-      "basename": "Linux problems and solves",
-      "path": "Base/Linux problems and solves.md"
-    },
-    {
-      "basename": "00 Математика",
-      "path": "Math/00 Математика.md"
-    },
-    {
-      "basename": "00 Conversation🗣️",
-      "path": "Base/00 Conversation🗣️.md"
-    },
-    {
-      "basename": "00 Экономика",
-      "path": "Base/00 Экономика.md"
-    },
-    {
-      "basename": "Hash tables",
-      "path": "Base/Hash tables.md"
-    },
-    {
-      "basename": "Структурная дрочь",
-      "path": "Base/Структурная дрочь.md"
-    },
-    {
-      "basename": "Tree",
-      "path": "Base/Tree.md"
-    },
-    {
-      "basename": "balance_tree.excalidraw",
-      "path": "Excalidraw/balance_tree.excalidraw.md"
-    },
-    {
-      "basename": "20 cmake",
-      "path": "Base/20 cmake.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Base/Linux.md"
-    },
-    {
-      "basename": "KMP",
-      "path": "Base/KMP.md"
-    },
-    {
-      "basename": "Алгодроч",
-      "path": "Base/Алгодроч.md"
-    },
-    {
-      "basename": "Жадные алгоритмы",
-      "path": "Base/Жадные алгоритмы.md"
-    },
-    {
-      "basename": "Сумма на отрезке",
-      "path": "Base/Сумма на отрезке.md"
-    },
-    {
-      "basename": "STL",
-      "path": "Base/STL.md"
-    },
-    {
-      "basename": "Категории выражений",
-      "path": "Base/Категории выражений.md"
-    },
-    {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
-    },
-    {
-      "basename": "Concurency in C++",
-      "path": "Base/Concurency in C++.md"
-    },
-    {
-      "basename": "Разделение кода на файлы и директивы препроцессора",
-      "path": "Base/Разделение кода на файлы и директивы препроцессора.md"
-    },
-    {
-      "basename": "Сборка проектов на C++",
-      "path": "Base/Сборка проектов на C++.md"
-    },
-    {
-      "basename": "Память в C++",
-      "path": "Base/Память в C++.md"
-    },
-    {
-      "basename": "Placement new",
-      "path": "Base/Placement new.md"
-    },
-    {
-      "basename": "Drawing 2022-05-08 14.31.44.excalidraw",
-      "path": "Excalidraw/Drawing 2022-05-08 14.31.44.excalidraw.md"
+      "basename": "STL interview",
+      "path": "Anki/STL interview.md"
     },
     {
       "basename": "Умные указатели",
       "path": "Base/Умные указатели.md"
     },
     {
-      "basename": "Type punning",
-      "path": "Base/Type punning.md"
+      "basename": "CC++ Interview",
+      "path": "Anki/CC++ Interview.md"
     },
     {
-      "basename": "Многопоточность и аллокация памяти",
-      "path": "Base/Многопоточность и аллокация памяти.md"
+      "basename": "Design interview",
+      "path": "Anki/Design interview.md"
     },
     {
-      "basename": "Allocators",
-      "path": "Base/Allocators.md"
+      "basename": "Конструктор и деструктор",
+      "path": "Base/Конструктор и деструктор.md"
     },
     {
-      "basename": "Модель памяти",
-      "path": "Base/Модель памяти.md"
+      "basename": "Конструктор копирования и оператор присваивания в производном классе",
+      "path": "Base/Конструктор копирования и оператор присваивания в производном классе.md"
+    },
+    {
+      "basename": "Конвертирующий конструктор",
+      "path": "Base/Конвертирующий конструктор.md"
+    },
+    {
+      "basename": "testanki",
+      "path": "Anki/testanki.md"
+    },
+    {
+      "basename": "Проблемы возникающие во время наследования",
+      "path": "Base/Проблемы возникающие во время наследования.md"
+    },
+    {
+      "basename": "20 Paradigms",
+      "path": "Base/20 Paradigms.md"
+    },
+    {
+      "basename": "Ссылки",
+      "path": "Base/Ссылки.md"
+    },
+    {
+      "basename": "Статическое связывание",
+      "path": "Base/Статическое связывание.md"
+    },
+    {
+      "basename": "Наследование",
+      "path": "Base/Наследование.md"
+    },
+    {
+      "basename": "Неконстантные методы",
+      "path": "Base/Неконстантные методы.md"
+    },
+    {
+      "basename": "Передача в функцию полиморфных объектов по ссылке или указателю",
+      "path": "Base/Передача в функцию полиморфных объектов по ссылке или указателю.md"
+    },
+    {
+      "basename": "Таблица виртуальных функций",
+      "path": "Base/Таблица виртуальных функций.md"
+    },
+    {
+      "basename": "Linux interview",
+      "path": "Anki/Linux interview.md"
+    },
+    {
+      "basename": "Networking interview",
+      "path": "Anki/Networking interview.md"
+    },
+    {
+      "basename": "Транспортный уровень",
+      "path": "Base/Транспортный уровень.md"
+    },
+    {
+      "basename": "Межсетевой экран",
+      "path": "Base/Межсетевой экран.md"
+    },
+    {
+      "basename": "Протокол ICMP",
+      "path": "Base/Протокол ICMP.md"
+    },
+    {
+      "basename": "Сокеты",
+      "path": "Base/Сокеты.md"
+    },
+    {
+      "basename": "Ошибки в многопоточных программах",
+      "path": "Base/Ошибки в многопоточных программах.md"
+    },
+    {
+      "basename": "atomic",
+      "path": "Base/atomic.md"
     },
     {
       "basename": "Вершина айсберга C++",
       "path": "Base/Вершина айсберга C++.md"
     },
     {
+      "basename": "20 C++",
+      "path": "Base/20 C++.md"
+    },
+    {
+      "basename": "Категории выражений",
+      "path": "Base/Категории выражений.md"
+    },
+    {
+      "basename": "Template anki words",
+      "path": "Templates/Template anki words.md"
+    },
+    {
+      "basename": "Study Set 1",
+      "path": "Anki/Study Set 1.md"
+    },
+    {
+      "basename": "Обработка исключений",
+      "path": "Base/Обработка исключений.md"
+    },
+    {
+      "basename": "Раскрутка стека при выбросе исключения",
+      "path": "Base/Раскрутка стека при выбросе исключения.md"
+    },
+    {
       "basename": "Функции",
       "path": "Base/Функции.md"
     },
     {
-      "basename": "Ошибки в C++ программах",
-      "path": "Base/Ошибки в C++ программах.md"
+      "basename": "structured bindings",
+      "path": "Base/structured bindings.md"
+    },
+    {
+      "basename": "Объекты",
+      "path": "Base/Объекты.md"
     }
   ],
   "omittedPaths": [],

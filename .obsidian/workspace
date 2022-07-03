@@ -7,12 +7,8 @@
         "id": "785b6d9894202533",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Anki/Study Set 1.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "перемещение временных объектов",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,16 +66,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Anki/Study Set 1.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 207
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki/Study Set 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki/Study Set 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +167,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anki/Study Set 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,15 +204,15 @@
   },
   "active": "785b6d9894202533",
   "lastOpenFiles": [
-    "Anki/Study Set 1.md",
-    "Anki/Anki.md",
-    "Planner.md",
-    "2022-07-02.md",
-    "Templates/Template inbox.md",
-    "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
-    "dataviewkanban.md",
-    "Base/00 Уход за собой.md",
-    "Base/00 Клетка.md",
-    "Base/Вакуоль.md"
+    "Anki/ACOS interview.md",
+    "Base/10 Operating system and computer architecture.md",
+    "Base/Операционная система.md",
+    "Base/Аппаратное обеспечение.md",
+    "Base/Логические вентили.md",
+    "Base/Secondary memory.md",
+    "Base/Primary memory.md",
+    "Base/Cache.md",
+    "Base/Processor.md",
+    "Base/Язык ассемблера.md"
   ]
 }
