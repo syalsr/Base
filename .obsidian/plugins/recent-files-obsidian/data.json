@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Study Set 1",
+      "path": "Anki/English words/Study Set 1.md"
+    },
+    {
+      "basename": "stash",
+      "path": "Anki/English words/stash.md"
+    },
+    {
+      "basename": "testanki",
+      "path": "Anki/testanki.md"
+    },
+    {
+      "basename": "Short Term Planner",
+      "path": "Short Term Planner.md"
+    },
+    {
+      "basename": "Long Term Planner",
+      "path": "Long Term Planner.md"
+    },
+    {
+      "basename": "CC++ Interview",
+      "path": "Anki/Computer science/CC++ Interview.md"
+    },
+    {
       "basename": "ACOS interview",
-      "path": "Anki/ACOS interview.md"
+      "path": "Anki/Computer science/ACOS interview.md"
     },
     {
       "basename": "10 Operating system and computer architecture",
@@ -58,27 +82,23 @@
     },
     {
       "basename": "Templates interview",
-      "path": "Anki/Templates interview.md"
+      "path": "Anki/Computer science/Templates interview.md"
     },
     {
       "basename": "Concurrency interview",
-      "path": "Anki/Concurrency interview.md"
+      "path": "Anki/Computer science/Concurrency interview.md"
     },
     {
       "basename": "STL interview",
-      "path": "Anki/STL interview.md"
+      "path": "Anki/Computer science/STL interview.md"
     },
     {
       "basename": "Умные указатели",
       "path": "Base/Умные указатели.md"
     },
     {
-      "basename": "CC++ Interview",
-      "path": "Anki/CC++ Interview.md"
-    },
-    {
       "basename": "Design interview",
-      "path": "Anki/Design interview.md"
+      "path": "Anki/Computer science/Design interview.md"
     },
     {
       "basename": "Конструктор и деструктор",
@@ -93,10 +113,6 @@
       "path": "Base/Конвертирующий конструктор.md"
     },
     {
-      "basename": "testanki",
-      "path": "Anki/testanki.md"
-    },
-    {
       "basename": "Проблемы возникающие во время наследования",
       "path": "Base/Проблемы возникающие во время наследования.md"
     },
@@ -107,98 +123,6 @@
     {
       "basename": "Ссылки",
       "path": "Base/Ссылки.md"
-    },
-    {
-      "basename": "Статическое связывание",
-      "path": "Base/Статическое связывание.md"
-    },
-    {
-      "basename": "Наследование",
-      "path": "Base/Наследование.md"
-    },
-    {
-      "basename": "Неконстантные методы",
-      "path": "Base/Неконстантные методы.md"
-    },
-    {
-      "basename": "Передача в функцию полиморфных объектов по ссылке или указателю",
-      "path": "Base/Передача в функцию полиморфных объектов по ссылке или указателю.md"
-    },
-    {
-      "basename": "Таблица виртуальных функций",
-      "path": "Base/Таблица виртуальных функций.md"
-    },
-    {
-      "basename": "Linux interview",
-      "path": "Anki/Linux interview.md"
-    },
-    {
-      "basename": "Networking interview",
-      "path": "Anki/Networking interview.md"
-    },
-    {
-      "basename": "Транспортный уровень",
-      "path": "Base/Транспортный уровень.md"
-    },
-    {
-      "basename": "Межсетевой экран",
-      "path": "Base/Межсетевой экран.md"
-    },
-    {
-      "basename": "Протокол ICMP",
-      "path": "Base/Протокол ICMP.md"
-    },
-    {
-      "basename": "Сокеты",
-      "path": "Base/Сокеты.md"
-    },
-    {
-      "basename": "Ошибки в многопоточных программах",
-      "path": "Base/Ошибки в многопоточных программах.md"
-    },
-    {
-      "basename": "atomic",
-      "path": "Base/atomic.md"
-    },
-    {
-      "basename": "Вершина айсберга C++",
-      "path": "Base/Вершина айсберга C++.md"
-    },
-    {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
-    },
-    {
-      "basename": "Категории выражений",
-      "path": "Base/Категории выражений.md"
-    },
-    {
-      "basename": "Template anki words",
-      "path": "Templates/Template anki words.md"
-    },
-    {
-      "basename": "Study Set 1",
-      "path": "Anki/Study Set 1.md"
-    },
-    {
-      "basename": "Обработка исключений",
-      "path": "Base/Обработка исключений.md"
-    },
-    {
-      "basename": "Раскрутка стека при выбросе исключения",
-      "path": "Base/Раскрутка стека при выбросе исключения.md"
-    },
-    {
-      "basename": "Функции",
-      "path": "Base/Функции.md"
-    },
-    {
-      "basename": "structured bindings",
-      "path": "Base/structured bindings.md"
-    },
-    {
-      "basename": "Объекты",
-      "path": "Base/Объекты.md"
     }
   ],
   "omittedPaths": [],

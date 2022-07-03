@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "785b6d9894202533",
+        "id": "149da11c3f98bf46",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Anki/English words/Study Set 1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -21,7 +25,7 @@
       {
         "id": "914b25995a5ff5d9",
         "type": "tabs",
-        "dimension": 43.213572854291414,
+        "dimension": 50.69721115537848,
         "children": [
           {
             "id": "e1a58d3235277b80",
@@ -36,7 +40,7 @@
       {
         "id": "59a065fb86ce85a4",
         "type": "tabs",
-        "dimension": 56.786427145708586,
+        "dimension": 49.30278884462152,
         "children": [
           {
             "id": "595325253c14b819",
@@ -66,11 +70,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Anki/English words/Study Set 1.md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anki/English words/Study Set 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -101,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anki/English words/Study Set 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Anki/English words/Study Set 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,17 +210,17 @@
     "direction": "horizontal",
     "width": 460
   },
-  "active": "785b6d9894202533",
+  "active": "149da11c3f98bf46",
   "lastOpenFiles": [
-    "Anki/ACOS interview.md",
-    "Base/10 Operating system and computer architecture.md",
-    "Base/Операционная система.md",
-    "Base/Аппаратное обеспечение.md",
-    "Base/Логические вентили.md",
-    "Base/Secondary memory.md",
-    "Base/Primary memory.md",
-    "Base/Cache.md",
-    "Base/Processor.md",
-    "Base/Язык ассемблера.md"
+    "Anki/English words/Study Set 1.md",
+    "Anki/English words/stash.md",
+    "Anki/testanki.md",
+    "Short Term Planner.md",
+    "Long Term Planner.md",
+    "2022-07-02.md",
+    "Anki/English words/Study set 10.md",
+    "Anki/English words/Study set 9.md",
+    "Anki/English words/Study set 8.md",
+    "Anki/English words/Study set 7.md"
   ]
 }
