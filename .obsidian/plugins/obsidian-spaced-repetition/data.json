@@ -1,8 +1,7 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards",
-      "#ankiset",
+      "#english",
       "#cppanki",
       "#testanki",
       "#algorithmsanki",
@@ -41,6 +40,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2022-07-03",
+  "buryDate": "2022-07-04",
   "buryList": []
 }

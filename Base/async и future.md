@@ -49,3 +49,5 @@ vector<vector<int>> GenerateMultiThread (size_t size, size_t page_size)
 
 # Особенности шаблона future
 Если результат вызова функции async не сохранить в переменную, то программа будет выполняться последовательно.
+
+# f 

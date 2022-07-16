@@ -2,21 +2,6 @@
 * [[Алгодроч]]
 * [[Структурная дрочь]]
 
-
-Максим Бабенко:
-1. Сложность и модели вычислений. Анализ Учетных стоимостей.
-2. Анализ Учетных стоимостей.
-3. Функции быстрой сортировки и сортировки слиянием
-4. Порядковые статистики. Кучи
-5. Кучи. Хэширование
-6. Хэширование
-7. Деревья поиска
-8. Деревья поиска. Декартовы деревья
-9. B-деревья. Система непересекающихся множеств
-10. Задачи RMQ и LCA
-11. Задачи геометрического поиска
-12. Динамическая связанность в графах
-
 # Курсы
 * [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) + [практика](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)
 * [MIT 6.046J Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) + [практика](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/assignments/)

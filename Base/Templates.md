@@ -30,69 +30,8 @@
 19. [[void_t]]
 20. [[enable_if]]
 21. [[is_reference remove_reference]]
+22. [[declval]]
 
-
-
-# Инициализация объектов по умолчанию
-```cpp
-//befor C++11
-template<typename T>
-class X
-{
-	T x();
-	X() : x()
-	{}
-	void test(T x = T());
-}
-
-//since C++11
-template<typename T>
-class X
-{
-	T x{};
-	X() : x{}
-	{}
-	void test(T x = T{});
-}
-```
-
-# Обобщенные лямбда выражения и шаблоны членов
-Такие сокращенные лямбда выражения
-
-```cpp
-[] (auto x, auto y) {
-	return x + y;
-}
-```
-
-Трансформируются в это
-
-```cpp
-class SomeCompilerSpecificName {
-public:
-	SomeCompilerSpecificName(); // constructor only callable by compiler
-	
-	template<typename T1, typename T2>
-	auto operator() (T1 x, T2 y) const {
-		return x + y;
-	}
-};
-```
-
-# declval
-Это функция стандартной библиотеки которая имеет только объявления делает из нас rvalue ref
-
-```cpp
-template <typename T> struct Tricky {  
-    Tricky() = delete;  
-    const volatile T foo ();  
-};  
-int main() {  
-    decltype(declval<Tricky<int>>().foo()) t; // int  
-}
-```
-
-delctype только оценивает тип, поскольку у declval нет тела, все хорошо.
 
 ## Конструирование вектора из итераторов
 Проблема в том, что передав 2 числа, вызовется конструктор для итераторов, хотя не хотелось бы. 
