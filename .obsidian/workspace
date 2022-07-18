@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/20 Golang.md",
+            "file": "Base/20 Python.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "аргумент",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,16 +71,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/20 Golang.md"
+                "file": "Base/20 Python.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 207,
-    "collapsed": true
+    "width": 207
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/20 Golang.md",
+                "file": "Base/20 Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/20 Golang.md",
+                "file": "Base/20 Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/20 Golang.md",
+                "file": "Base/20 Python.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,17 +212,17 @@
     "width": 460,
     "collapsed": true
   },
-  "active": "5b6892002091bac9",
+  "active": "088484dbc7db72e6",
   "lastOpenFiles": [
-    "Base/20 Python.md",
+    "Base/00 Computer science.md",
     "Base/20 Golang.md",
+    "Base/Escape sequence.md",
+    "Base/20 Python.md",
     "Base/10 Programming languages.md",
     "Base/Qt.md",
     "Base/20 C++.md",
     "Base/std vector.md",
     "Base/Iterator adapters.md",
-    "Base/quick sort.md",
-    "Base/Детерменизм.md",
-    "Base/Linux.md"
+    "Base/quick sort.md"
   ]
 }

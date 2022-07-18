@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "20 Python",
+      "path": "Base/20 Python.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
       "basename": "20 Golang",
       "path": "Base/20 Golang.md"
     },
     {
-      "basename": "20 Python",
-      "path": "Base/20 Python.md"
+      "basename": "Escape sequence",
+      "path": "Base/Escape sequence.md"
     },
     {
       "basename": "10 Programming languages",
@@ -191,14 +199,6 @@
     {
       "basename": "Функциональные объекты",
       "path": "Base/Функциональные объекты.md"
-    },
-    {
-      "basename": "semaphore",
-      "path": "Base/semaphore.md"
-    },
-    {
-      "basename": "race_cond.excalidraw",
-      "path": "Excalidraw/race_cond.excalidraw.md"
     }
   ],
   "omittedPaths": [],
