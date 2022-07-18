@@ -1,16 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "20 Python",
-      "path": "Base/20 Python.md"
-    },
-    {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
+      "basename": "Функции Golang",
+      "path": "Base/Функции Golang.md"
     },
     {
       "basename": "20 Golang",
       "path": "Base/20 Golang.md"
+    },
+    {
+      "basename": "Переменные Golang",
+      "path": "Base/Переменные Golang.md"
+    },
+    {
+      "basename": "map Golang",
+      "path": "Base/map Golang.md"
+    },
+    {
+      "basename": "Словари Python",
+      "path": "Base/Словари Python.md"
+    },
+    {
+      "basename": "Множества Python",
+      "path": "Base/Множества Python.md"
+    },
+    {
+      "basename": "Циклы Golang",
+      "path": "Base/Циклы Golang.md"
+    },
+    {
+      "basename": "Условные операторы Golang",
+      "path": "Base/Условные операторы Golang.md"
+    },
+    {
+      "basename": "Строки Golang",
+      "path": "Base/Строки Golang.md"
+    },
+    {
+      "basename": "Ввод вывод Golang",
+      "path": "Base/Ввод вывод Golang.md"
+    },
+    {
+      "basename": "Структуры Golang",
+      "path": "Base/Структуры Golang.md"
+    },
+    {
+      "basename": "Ошибки Golang",
+      "path": "Base/Ошибки Golang.md"
+    },
+    {
+      "basename": "Указатели Golang",
+      "path": "Base/Указатели Golang.md"
+    },
+    {
+      "basename": "Массивы Golang",
+      "path": "Base/Массивы Golang.md"
+    },
+    {
+      "basename": "Модули Golang",
+      "path": "Base/Модули Golang.md"
+    },
+    {
+      "basename": "Пакеты Golang",
+      "path": "Base/Пакеты Golang.md"
+    },
+    {
+      "basename": "20 Python",
+      "path": "Base/20 Python.md"
+    },
+    {
+      "basename": "Функции Python",
+      "path": "Base/Функции Python.md"
+    },
+    {
+      "basename": "Кортеж Python",
+      "path": "Base/Кортеж Python.md"
+    },
+    {
+      "basename": "Логические выражения Python",
+      "path": "Base/Логические выражения Python.md"
+    },
+    {
+      "basename": "Списки Python",
+      "path": "Base/Списки Python.md"
+    },
+    {
+      "basename": "Строки Python",
+      "path": "Base/Строки Python.md"
+    },
+    {
+      "basename": "Переменные Python",
+      "path": "Base/Переменные Python.md"
+    },
+    {
+      "basename": "Условные операторы Python",
+      "path": "Base/Условные операторы Python.md"
+    },
+    {
+      "basename": "Циклы Python",
+      "path": "Base/Циклы Python.md"
+    },
+    {
+      "basename": "Модули Python",
+      "path": "Base/Модули Python.md"
+    },
+    {
+      "basename": "Ввод вывод Python",
+      "path": "Base/Ввод вывод Python.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
     },
     {
       "basename": "Escape sequence",
@@ -99,106 +199,6 @@
     {
       "basename": "Отличия итераторов векторов и множеств",
       "path": "Base/Отличия итераторов векторов и множеств.md"
-    },
-    {
-      "basename": "STL interview",
-      "path": "Anki/Computer science/STL interview.md"
-    },
-    {
-      "basename": "Hash tables",
-      "path": "Base/Hash tables.md"
-    },
-    {
-      "basename": "ACOS interview",
-      "path": "Anki/Computer science/ACOS interview.md"
-    },
-    {
-      "basename": "Concurrency interview",
-      "path": "Anki/Computer science/Concurrency interview.md"
-    },
-    {
-      "basename": "Потоки",
-      "path": "Base/Потоки.md"
-    },
-    {
-      "basename": "Процессы",
-      "path": "Base/Процессы.md"
-    },
-    {
-      "basename": "Операционная система",
-      "path": "Base/Операционная система.md"
-    },
-    {
-      "basename": "Interrupts",
-      "path": "Base/Interrupts.md"
-    },
-    {
-      "basename": "Inter process communication",
-      "path": "Base/Inter process communication.md"
-    },
-    {
-      "basename": "10 Operating system and computer architecture",
-      "path": "Base/10 Operating system and computer architecture.md"
-    },
-    {
-      "basename": "Road to 10xprogrammer",
-      "path": "Base/Road to 10xprogrammer.md"
-    },
-    {
-      "basename": "Cache",
-      "path": "Base/Cache.md"
-    },
-    {
-      "basename": "condition variable",
-      "path": "Base/condition variable.md"
-    },
-    {
-      "basename": "Мыслетопливо",
-      "path": "Base/Мыслетопливо.md"
-    },
-    {
-      "basename": "Принятие решения человеком",
-      "path": "Base/Принятие решения человеком.md"
-    },
-    {
-      "basename": "Инбоксы",
-      "path": "Base/Инбоксы.md"
-    },
-    {
-      "basename": "10 Databases",
-      "path": "Base/10 Databases.md"
-    },
-    {
-      "basename": "async и future",
-      "path": "Base/async и future.md"
-    },
-    {
-      "basename": "mutex и lock_guard",
-      "path": "Base/mutex и lock_guard.md"
-    },
-    {
-      "basename": "atomic",
-      "path": "Base/atomic.md"
-    },
-    {
-      "basename": "Ошибки в C++ программах",
-      "path": "Base/Ошибки в C++ программах.md"
-    },
-    {
-      "basename": "Алгодроч",
-      "path": "Base/Алгодроч.md"
-    },
-    {
-      "basename": "НОД",
-      "path": "Base/НОД.md"
-    },
-    {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
-    },
-    {
-      "basename": "Функциональные объекты",
-      "path": "Base/Функциональные объекты.md"
     }
   ],
   "omittedPaths": [],

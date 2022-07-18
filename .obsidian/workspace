@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/20 Python.md",
+            "file": "Base/Функции Golang.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/20 Python.md"
+                "file": "Base/Функции Golang.md"
               }
             }
           }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 207,
+    "collapsed": true
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/20 Python.md",
+                "file": "Base/Функции Golang.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/20 Python.md",
+                "file": "Base/Функции Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/20 Python.md",
+                "file": "Base/Функции Golang.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,17 +213,17 @@
     "width": 460,
     "collapsed": true
   },
-  "active": "088484dbc7db72e6",
+  "active": "5b6892002091bac9",
   "lastOpenFiles": [
-    "Base/00 Computer science.md",
     "Base/20 Golang.md",
-    "Base/Escape sequence.md",
-    "Base/20 Python.md",
-    "Base/10 Programming languages.md",
-    "Base/Qt.md",
-    "Base/20 C++.md",
-    "Base/std vector.md",
-    "Base/Iterator adapters.md",
-    "Base/quick sort.md"
+    "Base/Переменные Golang.md",
+    "Base/Функции Golang.md",
+    "Base/map Golang.md",
+    "Base/Словари Python.md",
+    "Base/Множества Python.md",
+    "Base/Циклы Golang.md",
+    "Base/Условные операторы Golang.md",
+    "Base/Строки Golang.md",
+    "Base/Ввод вывод Golang.md"
   ]
 }
