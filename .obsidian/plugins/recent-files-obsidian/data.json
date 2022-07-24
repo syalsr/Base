@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Функции Golang",
-      "path": "Base/Функции Golang.md"
+      "basename": "00 How to learn",
+      "path": "Base/00 How to learn.md"
     },
     {
       "basename": "20 Golang",
       "path": "Base/20 Golang.md"
     },
     {
-      "basename": "Переменные Golang",
-      "path": "Base/Переменные Golang.md"
+      "basename": "Многопоточность Golang",
+      "path": "Base/Многопоточность Golang.md"
     },
     {
-      "basename": "map Golang",
-      "path": "Base/map Golang.md"
+      "basename": "queue",
+      "path": "Base/queue.md"
     },
     {
-      "basename": "Словари Python",
-      "path": "Base/Словари Python.md"
+      "basename": "std stack",
+      "path": "Base/std stack.md"
     },
     {
-      "basename": "Множества Python",
-      "path": "Base/Множества Python.md"
-    },
-    {
-      "basename": "Циклы Golang",
-      "path": "Base/Циклы Golang.md"
-    },
-    {
-      "basename": "Условные операторы Golang",
-      "path": "Base/Условные операторы Golang.md"
-    },
-    {
-      "basename": "Строки Golang",
-      "path": "Base/Строки Golang.md"
-    },
-    {
-      "basename": "Ввод вывод Golang",
-      "path": "Base/Ввод вывод Golang.md"
-    },
-    {
-      "basename": "Структуры Golang",
-      "path": "Base/Структуры Golang.md"
-    },
-    {
-      "basename": "Ошибки Golang",
-      "path": "Base/Ошибки Golang.md"
-    },
-    {
-      "basename": "Указатели Golang",
-      "path": "Base/Указатели Golang.md"
+      "basename": "Потоки",
+      "path": "Base/Потоки.md"
     },
     {
       "basename": "Массивы Golang",
       "path": "Base/Массивы Golang.md"
     },
     {
-      "basename": "Модули Golang",
-      "path": "Base/Модули Golang.md"
+      "basename": "Function pointers",
+      "path": "Base/Function pointers.md"
     },
     {
-      "basename": "Пакеты Golang",
-      "path": "Base/Пакеты Golang.md"
-    },
-    {
-      "basename": "20 Python",
-      "path": "Base/20 Python.md"
-    },
-    {
-      "basename": "Функции Python",
-      "path": "Base/Функции Python.md"
-    },
-    {
-      "basename": "Кортеж Python",
-      "path": "Base/Кортеж Python.md"
-    },
-    {
-      "basename": "Логические выражения Python",
-      "path": "Base/Логические выражения Python.md"
-    },
-    {
-      "basename": "Списки Python",
-      "path": "Base/Списки Python.md"
-    },
-    {
-      "basename": "Строки Python",
-      "path": "Base/Строки Python.md"
-    },
-    {
-      "basename": "Переменные Python",
-      "path": "Base/Переменные Python.md"
-    },
-    {
-      "basename": "Условные операторы Python",
-      "path": "Base/Условные операторы Python.md"
-    },
-    {
-      "basename": "Циклы Python",
-      "path": "Base/Циклы Python.md"
-    },
-    {
-      "basename": "Модули Python",
-      "path": "Base/Модули Python.md"
-    },
-    {
-      "basename": "Ввод вывод Python",
-      "path": "Base/Ввод вывод Python.md"
-    },
-    {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
-    },
-    {
-      "basename": "Escape sequence",
-      "path": "Base/Escape sequence.md"
-    },
-    {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
-    },
-    {
-      "basename": "Qt",
-      "path": "Base/Qt.md"
-    },
-    {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
-    },
-    {
-      "basename": "std vector",
-      "path": "Base/std vector.md"
-    },
-    {
-      "basename": "Iterator adapters",
-      "path": "Base/Iterator adapters.md"
-    },
-    {
-      "basename": "quick sort",
-      "path": "Base/quick sort.md"
-    },
-    {
-      "basename": "Детерменизм",
-      "path": "Base/Детерменизм.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Base/Linux.md"
+      "basename": "Потоки ввода вывода",
+      "path": "Base/Потоки ввода вывода.md"
     },
     {
       "basename": "File streams",
       "path": "Base/File streams.md"
     },
     {
-      "basename": "Concurency in C++",
-      "path": "Base/Concurency in C++.md"
+      "basename": "stringstreams",
+      "path": "Base/stringstreams.md"
     },
     {
-      "basename": "Ошибки в многопоточных программах",
-      "path": "Base/Ошибки в многопоточных программах.md"
+      "basename": "inputstreams",
+      "path": "Base/inputstreams.md"
     },
     {
-      "basename": "Сокеты",
-      "path": "Base/Сокеты.md"
+      "basename": "output streams",
+      "path": "Base/output streams.md"
     },
     {
-      "basename": "ipprot.excalidraw",
-      "path": "Excalidraw/ipprot.excalidraw.md"
+      "basename": "Устройства ввода вывода",
+      "path": "Base/Устройства ввода вывода.md"
     },
     {
-      "basename": "Протокол IP",
-      "path": "Base/Протокол IP.md"
+      "basename": "Модель потоков ввода вывода",
+      "path": "Base/Модель потоков ввода вывода.md"
     },
     {
-      "basename": "Протокол UDP",
-      "path": "Base/Протокол UDP.md"
+      "basename": "Для чего нужны потоки",
+      "path": "Base/Для чего нужны потоки.md"
     },
     {
-      "basename": "Транспортный уровень",
-      "path": "Base/Транспортный уровень.md"
+      "basename": "Пакеты Golang",
+      "path": "Base/Пакеты Golang.md"
     },
     {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
+      "basename": "Работа Golang с базой данных",
+      "path": "Base/Работа Golang с базой данных.md"
+    },
+    {
+      "basename": "10 Computer network",
+      "path": "Base/10 Computer network.md"
     },
     {
       "basename": "TCPIP",
       "path": "Base/TCPIP.md"
     },
     {
-      "basename": "SOLID",
-      "path": "Base/SOLID.md"
+      "basename": "Прикладной уровень",
+      "path": "Base/Прикладной уровень.md"
     },
     {
-      "basename": "Протокол DNS",
-      "path": "Base/Протокол DNS.md"
+      "basename": "Протокол HTTP",
+      "path": "Base/Протокол HTTP.md"
     },
     {
-      "basename": "Отличия итераторов векторов и множеств",
-      "path": "Base/Отличия итераторов векторов и множеств.md"
+      "basename": "Транспортный уровень",
+      "path": "Base/Транспортный уровень.md"
+    },
+    {
+      "basename": "Сетевой уровень",
+      "path": "Base/Сетевой уровень.md"
+    },
+    {
+      "basename": "Канальный уровень",
+      "path": "Base/Канальный уровень.md"
+    },
+    {
+      "basename": "10 Programming languages",
+      "path": "Base/10 Programming languages.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Base/Docker.md"
+    },
+    {
+      "basename": "Модули Golang",
+      "path": "Base/Модули Golang.md"
+    },
+    {
+      "basename": "Функции Golang",
+      "path": "Base/Функции Golang.md"
+    },
+    {
+      "basename": "json Golang",
+      "path": "Base/json Golang.md"
+    },
+    {
+      "basename": "Строки Golang",
+      "path": "Base/Строки Golang.md"
+    },
+    {
+      "basename": "Переменные Golang",
+      "path": "Base/Переменные Golang.md"
+    },
+    {
+      "basename": "Протокол TCP",
+      "path": "Base/Протокол TCP.md"
+    },
+    {
+      "basename": "Протокол IP",
+      "path": "Base/Протокол IP.md"
+    },
+    {
+      "basename": "20 Git",
+      "path": "Base/20 Git.md"
+    },
+    {
+      "basename": "git8.excalidraw",
+      "path": "Excalidraw/git8.excalidraw.md"
+    },
+    {
+      "basename": "git7.excalidraw",
+      "path": "Excalidraw/git7.excalidraw.md"
+    },
+    {
+      "basename": "git6.excalidraw",
+      "path": "Excalidraw/git6.excalidraw.md"
+    },
+    {
+      "basename": "git4.excalidraw",
+      "path": "Excalidraw/git4.excalidraw.md"
+    },
+    {
+      "basename": "git5.excalidraw",
+      "path": "Excalidraw/git5.excalidraw.md"
+    },
+    {
+      "basename": "git3.excalidraw",
+      "path": "Excalidraw/git3.excalidraw.md"
+    },
+    {
+      "basename": "git1.excalidraw",
+      "path": "Excalidraw/git1.excalidraw.md"
+    },
+    {
+      "basename": "git2.excalidraw",
+      "path": "Excalidraw/git2.excalidraw.md"
+    },
+    {
+      "basename": "Файлы Golang",
+      "path": "Base/Файлы Golang.md"
+    },
+    {
+      "basename": "Интерфейсы Golang",
+      "path": "Base/Интерфейсы Golang.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Base/SQL.md"
+    },
+    {
+      "basename": "ipprot.excalidraw",
+      "path": "Excalidraw/ipprot.excalidraw.md"
+    },
+    {
+      "basename": "fulljoin.excalidraw",
+      "path": "Excalidraw/fulljoin.excalidraw.md"
+    },
+    {
+      "basename": "rightjoin.excalidraw",
+      "path": "Excalidraw/rightjoin.excalidraw.md"
     }
   ],
   "omittedPaths": [],

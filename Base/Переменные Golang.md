@@ -239,3 +239,4 @@ fmt.Println(res)      // true
 fmt.Printf("%T", res)  // bool
 ```
 Так же по аналогии с примерами выше есть методы ParseUint, ParseInt, ParseBool.
+

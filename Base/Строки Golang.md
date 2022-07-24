@@ -31,7 +31,12 @@ func ExampleString() {
    for idx, b := range s {  
       fmt.Print(s[idx], b, " ")  
    }//208 1069 209 1090 208 1086 32 32 209 1089 209 1090 209 1088 208 1086 208 1082 208 1072 32 32 208 1053 208 1086 208 1074 208 1072 209 1103 32 32 209 1089 209 1090 209 1088 208 1086 208 1082 208 1072   
-fmt.Print("\n")  
+fmt.Print("\n")
+
+help := "string"  
+for i, item := range help {  
+   fmt.Printf("%d=%c", i, item) //0=s1=t2=r3=i4=n5=g
+}
 }
 ```
 

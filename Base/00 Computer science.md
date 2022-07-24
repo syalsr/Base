@@ -8,6 +8,7 @@
 - [[10 Design]]
 - [[10 Design Patterns]]
 - [[10 Databases]]
+- [[Docker]]
 - [[Linux problems and solves]]
 - [[Linux]]
 - [[Road to 10xprogrammer]]

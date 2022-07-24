@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Функции Golang.md",
+            "file": "Base/00 How to learn.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "аргумент",
+                "query": "навык",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,12 +71,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Функции Golang.md"
+                "file": "Base/00 How to learn.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Функции Golang.md",
+                "file": "Base/00 How to learn.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Функции Golang.md",
+                "file": "Base/00 How to learn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Функции Golang.md",
+                "file": "Base/00 How to learn.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,14 +215,14 @@
   "active": "5b6892002091bac9",
   "lastOpenFiles": [
     "Base/20 Golang.md",
-    "Base/Переменные Golang.md",
-    "Base/Функции Golang.md",
-    "Base/map Golang.md",
-    "Base/Словари Python.md",
-    "Base/Множества Python.md",
-    "Base/Циклы Golang.md",
-    "Base/Условные операторы Golang.md",
-    "Base/Строки Golang.md",
-    "Base/Ввод вывод Golang.md"
+    "Base/Многопоточность Golang.md",
+    "Base/queue.md",
+    "Base/std stack.md",
+    "Base/Потоки.md",
+    "Base/Массивы Golang.md",
+    "Base/Function pointers.md",
+    "Base/Потоки ввода вывода.md",
+    "Base/File streams.md",
+    "Base/stringstreams.md"
   ]
 }
