@@ -1,32 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "00 How to learn",
-      "path": "Base/00 How to learn.md"
+      "basename": "Протокол HTTP",
+      "path": "Base/Протокол HTTP.md"
+    },
+    {
+      "basename": "REST API",
+      "path": "Base/REST API.md"
+    },
+    {
+      "basename": "10 Computer network",
+      "path": "Base/10 Computer network.md"
+    },
+    {
+      "basename": "Протокол DNS",
+      "path": "Base/Протокол DNS.md"
     },
     {
       "basename": "20 Golang",
       "path": "Base/20 Golang.md"
     },
     {
+      "basename": "Тестирование Golang",
+      "path": "Base/Тестирование Golang.md"
+    },
+    {
       "basename": "Многопоточность Golang",
       "path": "Base/Многопоточность Golang.md"
     },
     {
-      "basename": "queue",
-      "path": "Base/queue.md"
+      "basename": "mutex и lock_guard",
+      "path": "Base/mutex и lock_guard.md"
+    },
+    {
+      "basename": "Структуры Golang",
+      "path": "Base/Структуры Golang.md"
+    },
+    {
+      "basename": "Интерфейсы Golang",
+      "path": "Base/Интерфейсы Golang.md"
+    },
+    {
+      "basename": "10 Operating system and computer architecture",
+      "path": "Base/10 Operating system and computer architecture.md"
+    },
+    {
+      "basename": "00 How to learn",
+      "path": "Base/00 How to learn.md"
+    },
+    {
+      "basename": "Функции Golang",
+      "path": "Base/Функции Golang.md"
+    },
+    {
+      "basename": "Ошибки Golang",
+      "path": "Base/Ошибки Golang.md"
     },
     {
       "basename": "std stack",
       "path": "Base/std stack.md"
     },
     {
-      "basename": "Потоки",
-      "path": "Base/Потоки.md"
+      "basename": "Условные операторы Golang",
+      "path": "Base/Условные операторы Golang.md"
+    },
+    {
+      "basename": "Циклы Golang",
+      "path": "Base/Циклы Golang.md"
     },
     {
       "basename": "Массивы Golang",
       "path": "Base/Массивы Golang.md"
+    },
+    {
+      "basename": "queue",
+      "path": "Base/queue.md"
+    },
+    {
+      "basename": "Потоки",
+      "path": "Base/Потоки.md"
     },
     {
       "basename": "Function pointers",
@@ -73,20 +125,12 @@
       "path": "Base/Работа Golang с базой данных.md"
     },
     {
-      "basename": "10 Computer network",
-      "path": "Base/10 Computer network.md"
-    },
-    {
       "basename": "TCPIP",
       "path": "Base/TCPIP.md"
     },
     {
       "basename": "Прикладной уровень",
       "path": "Base/Прикладной уровень.md"
-    },
-    {
-      "basename": "Протокол HTTP",
-      "path": "Base/Протокол HTTP.md"
     },
     {
       "basename": "Транспортный уровень",
@@ -115,10 +159,6 @@
     {
       "basename": "Модули Golang",
       "path": "Base/Модули Golang.md"
-    },
-    {
-      "basename": "Функции Golang",
-      "path": "Base/Функции Golang.md"
     },
     {
       "basename": "json Golang",
@@ -159,46 +199,6 @@
     {
       "basename": "git4.excalidraw",
       "path": "Excalidraw/git4.excalidraw.md"
-    },
-    {
-      "basename": "git5.excalidraw",
-      "path": "Excalidraw/git5.excalidraw.md"
-    },
-    {
-      "basename": "git3.excalidraw",
-      "path": "Excalidraw/git3.excalidraw.md"
-    },
-    {
-      "basename": "git1.excalidraw",
-      "path": "Excalidraw/git1.excalidraw.md"
-    },
-    {
-      "basename": "git2.excalidraw",
-      "path": "Excalidraw/git2.excalidraw.md"
-    },
-    {
-      "basename": "Файлы Golang",
-      "path": "Base/Файлы Golang.md"
-    },
-    {
-      "basename": "Интерфейсы Golang",
-      "path": "Base/Интерфейсы Golang.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Base/SQL.md"
-    },
-    {
-      "basename": "ipprot.excalidraw",
-      "path": "Excalidraw/ipprot.excalidraw.md"
-    },
-    {
-      "basename": "fulljoin.excalidraw",
-      "path": "Excalidraw/fulljoin.excalidraw.md"
-    },
-    {
-      "basename": "rightjoin.excalidraw",
-      "path": "Excalidraw/rightjoin.excalidraw.md"
     }
   ],
   "omittedPaths": [],

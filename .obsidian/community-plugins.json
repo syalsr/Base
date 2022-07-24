@@ -26,5 +26,6 @@
   "find-unlinked-files",
   "review-obsidian",
   "nldates-obsidian",
-  "graph-analysis"
+  "graph-analysis",
+  "obsidian-excel-to-markdown-table"
 ]

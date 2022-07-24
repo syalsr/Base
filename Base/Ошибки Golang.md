@@ -22,14 +22,20 @@ func main() {
 ```
 
 Существуют две встроенные функции для создания ошибок: `errors.New` и `fmt.Errorf`.
-```
+```go
+func checknum(x int) (valid bool, err error){
+	if x > 0 && x > 10{
+		return false, fmt.Errorf("positive: %v", x)
+	}
+}
 func main() {
     err := errors.New("my error")
     fmt.Println("", err)
 }
 ```
 
-## panic
+
+# panic
 Оператор **panic** позволяет сгенерировать ошибку и выйти из программы:
 
 ```go
@@ -48,11 +54,31 @@ func divide(x, y float64) float64{
     return x / y
 }
 ```
+ При панике вызываются деферы, потом программа завершается, поэтому панику можно обработать
 
-## Оператор defer
+```go
+func somefunc(){
+	defer fmt.Println("somefunc")
+	panic("critical error")
+}
+func main(){
+	defer func(){
+		if err := recover(); err != nil{
+			switch err{
+			case "critical error":
+				fmt.Println("so good")
+			default:
+				panic("fatal error")
+			}
+		}
+	}()
+	somefunc()
+}
+```
 
+
+# Оператор defer
 Оператор defer позволяет выполнить определенную операцию после каких-то действий (даже если сработает panic), при этом не важно, где в реальности вызывается эта функция. Например:
-
 ```go
 package main
 import "fmt"
@@ -69,4 +95,38 @@ func finish(){
 }
 ```
 
-Здесь функция finish вызывается с оператором defer, поэтому данная функция в реальности будет вызываться в самом конце выполнения программы, несмотря на то, что ее вызов определен в начале функции main, а вывод с defer будет идти предпоследним
+Вызывается defer функции по принципу [[std stack|LIFO]]
+
+Также оператор defer сохраняет состояние в момент его определения, но не после
+
+```go
+func print(i int){
+	fmt.Println(i)
+}
+func main(){
+	i := 1
+	defer print(i)
+	i++
+	fmt.Println(i)
+}
+2
+1
+```
+
+Обойти это можно при помощи замыкания
+
+```go
+func print(i int){
+	fmt.Println(i)
+}
+func main(){
+	i := 1
+	defer func(){
+		print(i)//теперь ей доступна эта область видимости
+	}
+	i++
+	fmt.Println(i)
+}
+2
+2
+```

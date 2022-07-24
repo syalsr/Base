@@ -5,6 +5,7 @@
 4. [[OSI]]
 5. [[TCPIP|TCP/IP]]
 6. [[VLAN]]
+7. [[REST API]]
 
 # Полезное
 1. [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
