@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Протокол HTTP.md",
+            "file": "Base/Массивы Golang.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "read write",
+                "query": "false shari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,16 +71,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Протокол HTTP.md"
+                "file": "Base/Массивы Golang.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 207,
-    "collapsed": true
+    "width": 207
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Протокол HTTP.md",
+                "file": "Base/Массивы Golang.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Протокол HTTP.md",
+                "file": "Base/Массивы Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Протокол HTTP.md",
+                "file": "Base/Массивы Golang.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,15 +214,15 @@
   },
   "active": "5b6892002091bac9",
   "lastOpenFiles": [
+    "Base/Многопоточность Golang.md",
+    "Base/Интерфейсы Golang.md",
+    "Base/SQL.md",
+    "Base/Протокол HTTP.md",
     "Base/REST API.md",
     "Base/10 Computer network.md",
-    "Base/Протокол HTTP.md",
     "Base/Протокол DNS.md",
     "Base/20 Golang.md",
     "Base/Тестирование Golang.md",
-    "Base/Многопоточность Golang.md",
-    "Base/mutex и lock_guard.md",
-    "Base/Структуры Golang.md",
-    "Base/Интерфейсы Golang.md"
+    "Base/mutex и lock_guard.md"
   ]
 }

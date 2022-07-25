@@ -1,31 +1,51 @@
 # Интерфейсы Golang
 Интерфейсы представляют собой новый - абстрактный тип данных, интерфейс определяет методы которым обязан обладать объект.
 ```go
-type calculator interface {
-	add(float64, float64) float64
-	subtract(float64, float64) float64
-	multi(float64, float64) float64
-	div(float64, float64) float64
-}
-type myCalc struct{}
-
-func (m myCalc) add(a, b float64) float64 {
-	return a + b
-}
-
-func (m myCalc) subtract(a, b float32) float64 {
-	return float64(a - b)
-}
-
-func (m myCalc) multi(a, b float64) float64 {
-	return float64(a * b)
-}
-
-func (m myCalc) div(a, b float64) float64 {
-	return a / b
+type Article struct {  
+   Title  string  
+   Author string  
+}  
+type Another struct {  
+   Title  string  
+   Author string  
+}  
+  
+type Stringer interface {  
+   String() string  
+}  
+  
+func (a Article) String() string {  
+   return fmt.Sprintf("The %q article was written by %s.", a.Title, a.Author)  
+}  
+  
+func test(s Stringer) {  
+   s.String()  
+}  
+  
+func main() {  
+   a := Article{  
+      Title:  "Understanding Interfaces in Go",  
+      Author: "Sammy Shark",  
+   }  
+   aa := Another{}  
+   test(a)  
+   test(aa)//структура Another не определяет метод String(), поэтому ошибка  
 }
 ```
 
+```go
+type stardater interface {
+    YearDay() int
+    Hour() int
+}
+
+// stardate возвращает выдуманное измерение времени.
+func stardate(t stardater) float64 {
+    doy := float64(t.YearDay())
+    h := float64(t.Hour()) / 24.0
+    return 1000 + doy + h
+}
+```
 # Пустой интерфейс
 Интерфейс, который не содержит ни одного метода называется пустым интерфейсом: interface{}. Аналог [[std any]].  Пустой интерфейс может содержать значение любого типа. Пустые интерфейсы используются в коде, где необходимо работать со значениями неизвестного типа.
 

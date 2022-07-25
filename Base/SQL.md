@@ -416,6 +416,10 @@ LIMIT 10
 "Sasquatch Ale"	"Bigfoot Breweries"	111
 "Gustaf's Knäckebröd"	"PB Knäckebröd AB"	104
 "Röd Kaviar"	"Svensk Sjöföda AB"	101
+
+select employees."EmployeeID", employeeterritories."TerritoryID" from employees
+inner join employeeterritories ON employees."EmployeeID" = employeeterritories."EmployeeID"
+where employees."EmployeeID" = 1
 ```
 
 ## LEFT OUTER JOIN
