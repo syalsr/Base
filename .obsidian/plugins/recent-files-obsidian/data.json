@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Массивы Golang",
-      "path": "Base/Массивы Golang.md"
+      "basename": "super Java",
+      "path": "Base/super Java.md"
     },
     {
-      "basename": "Многопоточность Golang",
-      "path": "Base/Многопоточность Golang.md"
+      "basename": "ООП Java",
+      "path": "Base/ООП Java.md"
     },
     {
-      "basename": "Интерфейсы Golang",
-      "path": "Base/Интерфейсы Golang.md"
+      "basename": "Порядок вызова конструкторов и инициализации классов Java",
+      "path": "Base/Порядок вызова конструкторов и инициализации классов Java.md"
     },
     {
-      "basename": "SQL",
-      "path": "Base/SQL.md"
+      "basename": "Блоки инициализации Java",
+      "path": "Base/Блоки инициализации Java.md"
     },
     {
-      "basename": "Протокол HTTP",
-      "path": "Base/Протокол HTTP.md"
+      "basename": "Абстрактные классы Java",
+      "path": "Base/Абстрактные классы Java.md"
     },
     {
-      "basename": "REST API",
-      "path": "Base/REST API.md"
+      "basename": "Отличие интерфейса от абстрактного класса",
+      "path": "Base/Отличие интерфейса от абстрактного класса.md"
     },
     {
-      "basename": "10 Computer network",
-      "path": "Base/10 Computer network.md"
+      "basename": "Интерфейсы Java",
+      "path": "Base/Интерфейсы Java.md"
     },
     {
-      "basename": "Протокол DNS",
-      "path": "Base/Протокол DNS.md"
+      "basename": "Модификаторы Java",
+      "path": "Base/Модификаторы Java.md"
     },
     {
-      "basename": "20 Golang",
-      "path": "Base/20 Golang.md"
+      "basename": "Java core",
+      "path": "Base/Java core.md"
     },
     {
-      "basename": "Тестирование Golang",
-      "path": "Base/Тестирование Golang.md"
+      "basename": "Function Java",
+      "path": "Base/Function Java.md"
     },
     {
-      "basename": "mutex и lock_guard",
-      "path": "Base/mutex и lock_guard.md"
+      "basename": "Операторы Java",
+      "path": "Base/Операторы Java.md"
     },
     {
-      "basename": "Структуры Golang",
-      "path": "Base/Структуры Golang.md"
+      "basename": "Примитивные типы данных Java",
+      "path": "Base/Примитивные типы данных Java.md"
     },
     {
-      "basename": "10 Operating system and computer architecture",
-      "path": "Base/10 Operating system and computer architecture.md"
+      "basename": "Collections Java",
+      "path": "Base/Collections Java.md"
     },
     {
-      "basename": "00 How to learn",
-      "path": "Base/00 How to learn.md"
+      "basename": "Array Java",
+      "path": "Base/Array Java.md"
     },
     {
-      "basename": "Функции Golang",
-      "path": "Base/Функции Golang.md"
+      "basename": "Object Java",
+      "path": "Base/Object Java.md"
     },
     {
-      "basename": "Ошибки Golang",
-      "path": "Base/Ошибки Golang.md"
+      "basename": "Вложенные классы Java",
+      "path": "Base/Вложенные классы Java.md"
     },
     {
-      "basename": "std stack",
-      "path": "Base/std stack.md"
+      "basename": "Сравнение объектов Java",
+      "path": "Base/Сравнение объектов Java.md"
     },
     {
-      "basename": "Условные операторы Golang",
-      "path": "Base/Условные операторы Golang.md"
+      "basename": "Анонимные классы Java",
+      "path": "Base/Анонимные классы Java.md"
     },
     {
-      "basename": "Циклы Golang",
-      "path": "Base/Циклы Golang.md"
+      "basename": "Upcast Downcast Java",
+      "path": "Base/Upcast Downcast Java.md"
     },
     {
-      "basename": "queue",
-      "path": "Base/queue.md"
+      "basename": "Модификаторы доступа C++",
+      "path": "Base/Модификаторы доступа C++.md"
     },
     {
-      "basename": "Потоки",
-      "path": "Base/Потоки.md"
+      "basename": "Полиморфизм Java",
+      "path": "Base/Полиморфизм Java.md"
     },
     {
-      "basename": "Function pointers",
-      "path": "Base/Function pointers.md"
+      "basename": "Наследование Java",
+      "path": "Base/Наследование Java.md"
     },
     {
-      "basename": "Потоки ввода вывода",
-      "path": "Base/Потоки ввода вывода.md"
+      "basename": "Инкапсуляция Java",
+      "path": "Base/Инкапсуляция Java.md"
     },
     {
-      "basename": "File streams",
-      "path": "Base/File streams.md"
+      "basename": "20 Java",
+      "path": "Base/20 Java.md"
     },
     {
-      "basename": "stringstreams",
-      "path": "Base/stringstreams.md"
+      "basename": "10 Databases",
+      "path": "Base/10 Databases.md"
     },
     {
-      "basename": "inputstreams",
-      "path": "Base/inputstreams.md"
+      "basename": "Enum Java",
+      "path": "Base/Enum Java.md"
     },
     {
-      "basename": "output streams",
-      "path": "Base/output streams.md"
+      "basename": "enum.excalidraw",
+      "path": "Excalidraw/enum.excalidraw.md"
     },
     {
-      "basename": "Устройства ввода вывода",
-      "path": "Base/Устройства ввода вывода.md"
+      "basename": "Enumerated types C++",
+      "path": "Base/Enumerated types C++.md"
     },
     {
-      "basename": "Модель потоков ввода вывода",
-      "path": "Base/Модель потоков ввода вывода.md"
+      "basename": "Streams Java",
+      "path": "Base/Streams Java.md"
     },
     {
-      "basename": "Для чего нужны потоки",
-      "path": "Base/Для чего нужны потоки.md"
+      "basename": "Files Java",
+      "path": "Base/Files Java.md"
     },
     {
-      "basename": "Пакеты Golang",
-      "path": "Base/Пакеты Golang.md"
+      "basename": "20 Paradigms",
+      "path": "Base/20 Paradigms.md"
     },
     {
-      "basename": "Работа Golang с базой данных",
-      "path": "Base/Работа Golang с базой данных.md"
+      "basename": "Strings Java",
+      "path": "Base/Strings Java.md"
     },
     {
-      "basename": "TCPIP",
-      "path": "Base/TCPIP.md"
+      "basename": "Strings C++",
+      "path": "Base/Strings C++.md"
     },
     {
-      "basename": "Прикладной уровень",
-      "path": "Base/Прикладной уровень.md"
+      "basename": "Литералы",
+      "path": "Base/Литералы.md"
     },
     {
-      "basename": "Транспортный уровень",
-      "path": "Base/Транспортный уровень.md"
+      "basename": "Exception handling Java",
+      "path": "Base/Exception handling Java.md"
     },
     {
-      "basename": "Сетевой уровень",
-      "path": "Base/Сетевой уровень.md"
+      "basename": "Generics Java",
+      "path": "Base/Generics Java.md"
     },
     {
-      "basename": "Канальный уровень",
-      "path": "Base/Канальный уровень.md"
+      "basename": "Пакеты Java",
+      "path": "Base/Пакеты Java.md"
     },
     {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
+      "basename": "Физическая, логическая константность и mutable",
+      "path": "Base/Физическая, логическая константность и mutable.md"
     },
     {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
+      "basename": "Scanner",
+      "path": "Base/Scanner.md"
     },
     {
-      "basename": "Docker",
-      "path": "Base/Docker.md"
+      "basename": "Операторы C++",
+      "path": "Base/Операторы C++.md"
     },
     {
-      "basename": "Модули Golang",
-      "path": "Base/Модули Golang.md"
+      "basename": "Spring",
+      "path": "Base/Spring.md"
     },
     {
-      "basename": "json Golang",
-      "path": "Base/json Golang.md"
+      "basename": "Spring Boot",
+      "path": "Base/Spring Boot.md"
     },
     {
-      "basename": "Строки Golang",
-      "path": "Base/Строки Golang.md"
+      "basename": "Spring Security",
+      "path": "Base/Spring Security.md"
     },
     {
-      "basename": "Переменные Golang",
-      "path": "Base/Переменные Golang.md"
+      "basename": "Spring MVC",
+      "path": "Base/Spring MVC.md"
     },
     {
-      "basename": "Протокол TCP",
-      "path": "Base/Протокол TCP.md"
+      "basename": "ООП C++",
+      "path": "Base/ООП C++.md"
     },
     {
-      "basename": "Протокол IP",
-      "path": "Base/Протокол IP.md"
+      "basename": "RTTI C++",
+      "path": "Base/RTTI C++.md"
     },
     {
-      "basename": "20 Git",
-      "path": "Base/20 Git.md"
+      "basename": "casting C++",
+      "path": "Base/casting C++.md"
     },
     {
-      "basename": "git8.excalidraw",
-      "path": "Excalidraw/git8.excalidraw.md"
+      "basename": "Функциональные объекты C++",
+      "path": "Base/Функциональные объекты C++.md"
     },
     {
-      "basename": "git7.excalidraw",
-      "path": "Excalidraw/git7.excalidraw.md"
+      "basename": "Указатель this C++",
+      "path": "Base/Указатель this C++.md"
     },
     {
-      "basename": "git6.excalidraw",
-      "path": "Excalidraw/git6.excalidraw.md"
+      "basename": "Наследование C++",
+      "path": "Base/Наследование C++.md"
     }
   ],
   "omittedPaths": [],

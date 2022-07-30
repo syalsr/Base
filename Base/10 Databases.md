@@ -6,6 +6,8 @@
 
 * [[SQL]]
 
+
+
 # Полезное
 1. https://15445.courses.cs.cmu.edu/fall2019/schedule.html
 2. https://15445.courses.cs.cmu.edu/fall2020/project0/

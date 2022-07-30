@@ -324,7 +324,6 @@ auto files_in_subdirs() {
 ```
 
 Вывести все файлы и их каталоги
-
 ```cpp
 void printDirectoryStructure(const path& p)
 {

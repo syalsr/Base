@@ -19,12 +19,14 @@
 * https://desirecourse.net
 * https://freecoursesite.com
 * https://shareappscrack.com/learning/?token=23010136
+* https://coursehunter.net/
 
 Здесь можно прямо на сайте смотреть
 * https://hidevs.net/
 
 # Неопределенно
 * [learn anything](https://learn-anything.xyz)
+* [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#anger-table-of-contents)
 * [choose an open source licence](https://choosealicense.com)
 * [How open source licenses work and how to add them to your projects](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/)
 * [Icons and Photos For Everything](https://thenounproject.com)
@@ -37,6 +39,7 @@
 * [Подборка проектов по категориям (230+ проектов)](https://github.com/danistefanovic/build-your-own-x)
 * [Awesome awesome](https://github.com/sindresorhus/awesome)
 * [Опять проекты](https://github.com/tuvtran/project-based-learning)
+* [Тестовые задания](https://github.com/Hexlet/ru-test-assignments)
 
 # Библиотеки
 * [libgen](https://libgen.is)
@@ -67,6 +70,7 @@
 
 # Интервью
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [FAANG](https://docs.google.com/document/u/0/d/1RKzJA7UHj3UKMFxK4Bluy-gB7Sf2fk0mUlCPs76Z07k/mobilebasic#heading=h.793zqiwslebx)
 * ALgorithms
 	* Algo visuals:[pythontutor](http://pythontutor.com/)
 	* [leetcode-patterns/](https://seanprashad.com/leetcode-patterns/)
@@ -83,3 +87,7 @@
 * [System-design-primer](https://github.com/donnemartin/system-design-primer)
 * [System-design-interview](https://github.com/checkcheckzz/system-design-interview)
 * [System design interview](https://gmsservices.ru/blog/2016/06/16/system-design-interview)
+* [How I negotiated a $300,000 offer in Silicon Valley](https://bayareabelletrist.medium.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
+* [Overemployed](https://overemployed.com/)
+* [Resume template](https://github.com/jglovier/resume-template)
+* [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)

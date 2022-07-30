@@ -90,3 +90,7 @@ go get github.com/fatih/color
 * [awesome backend](https://github.com/zhashkevych/awesome-backend)
 * [awesome go frameworks](https://github.com/avelino/awesome-go)
 * [oh-my-backend](https://github.com/bzick/oh-my-backend#oh-my-backend)
+* [Visualizing Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)
+* [Под капотом Golang — как работают каналы. Часть 1.](https://medium.com/@victor_nerd/%D0%BF%D0%BE%D0%B4-%D0%BA%D0%B0%D0%BF%D0%BE%D1%82%D0%BE%D0%BC-golang-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-e1da9e3e104d)
+* [Внутренеее устройство каналов в Golang. Часть 2.](https://medium.com/@victor_nerd/golang-channel-internal-part2-b4e37ad9a118)
+* 
