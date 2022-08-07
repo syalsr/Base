@@ -17,7 +17,7 @@
 
 Структура данных queue и priority queue
 ?
-![[../../Base/queue]]
+![[../../Base/std queue]]
 ![[../../Base/priority queue]]
 <!--SR:!2022-07-14,4,270-->
 

@@ -18,6 +18,7 @@
 * [[json Golang]]
 * [[Работа Golang с базой данных]]
 * [[Тестирование Golang]]
+* [[Garbage collector]]
 
 # Проект
 Отсюда берем архив - https://go.dev/dl/

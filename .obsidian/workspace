@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/super Java.md",
+            "file": "Base/Сериализация Десиариализация.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "super",
+                "query": "String Buffer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/super Java.md"
+                "file": "Base/Сериализация Десиариализация.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/super Java.md",
+                "file": "Base/Сериализация Десиариализация.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/super Java.md",
+                "file": "Base/Сериализация Десиариализация.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/super Java.md",
+                "file": "Base/Сериализация Десиариализация.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +197,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 255,
-                  "scale": 0.3628873693012191,
+                  "scale": 0.3628873693012193,
                   "close": true
                 }
               }
@@ -213,15 +213,15 @@
   },
   "active": "1bde805b747e3cec",
   "lastOpenFiles": [
-    "Base/ООП Java.md",
-    "Base/Порядок вызова конструкторов и инициализации классов Java.md",
-    "Base/Блоки инициализации Java.md",
-    "Base/Абстрактные классы Java.md",
-    "Base/Отличие интерфейса от абстрактного класса.md",
-    "Base/Интерфейсы Java.md",
-    "Base/Модификаторы Java.md",
+    "Base/Streams Java.md",
+    "Base/Files Java.md",
+    "Base/Stream API.md",
+    "Base/LinkedHashMap Java.md",
+    "Base/HashMap Java.md",
     "Base/Java core.md",
-    "Base/Function Java.md",
-    "Base/Операторы Java.md"
+    "Base/Collections Java.md",
+    "Base/Comparator Java.md",
+    "Base/Equals HashCode Java.md",
+    "Base/Iterator Java.md"
   ]
 }

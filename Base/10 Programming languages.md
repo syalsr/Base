@@ -2,6 +2,7 @@
 * [[20 Paradigms]]
 * [[20 C++]]
 * [[20 Java]]
+* [[20 Javascript]]
 * [[20 Python]]
 * [[20 Golang]]
 * [[20 Git]]

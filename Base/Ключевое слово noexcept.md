@@ -40,5 +40,4 @@ T copy(T const& orig) noexcept(is_fundamental<T>::value) {
 }
 ```
 
-#do/important_start https://arne-mertz.de/2016/01/modern-c-features-keyword-noexcept/
-#do/review 
+https://arne-mertz.de/2016/01/modern-c-features-keyword-noexcept/

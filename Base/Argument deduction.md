@@ -90,4 +90,3 @@ template void bar(const T x);
 bar(x); // → template<> void bar(int x)
 ```
 
-#do/review 

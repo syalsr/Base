@@ -14,7 +14,6 @@ public class main {
   
 }  
   
-  
 enum Animal{  
     CAT, DOG, FROG  
 }
@@ -61,3 +60,5 @@ Animal animal = Animal.valueOf(str);
 System.out.println(animal.name() + " " + animal.toString());//CAT кот
 System.out.println(animal.ordinal());//0 - выводим индекс
 ```
+
+По умолчанию `ordinal` первого элемента $=0$, а для остальных инкрементируется. Enum может имплементировать [[Интерфейсы Java]]

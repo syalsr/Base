@@ -103,6 +103,7 @@
 * [Различные алгоритмы](http://algolist.ru/)
 * [visualgo](https://visualgo.net/en)]
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+* [Algorithm's book](https://github.com/labuladong/fucking-algorithm/tree/english)
 
 ## Практика
 * HackerRank

@@ -1,116 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "super Java",
-      "path": "Base/super Java.md"
-    },
-    {
-      "basename": "ООП Java",
-      "path": "Base/ООП Java.md"
-    },
-    {
-      "basename": "Порядок вызова конструкторов и инициализации классов Java",
-      "path": "Base/Порядок вызова конструкторов и инициализации классов Java.md"
-    },
-    {
-      "basename": "Блоки инициализации Java",
-      "path": "Base/Блоки инициализации Java.md"
-    },
-    {
-      "basename": "Абстрактные классы Java",
-      "path": "Base/Абстрактные классы Java.md"
-    },
-    {
-      "basename": "Отличие интерфейса от абстрактного класса",
-      "path": "Base/Отличие интерфейса от абстрактного класса.md"
-    },
-    {
-      "basename": "Интерфейсы Java",
-      "path": "Base/Интерфейсы Java.md"
-    },
-    {
-      "basename": "Модификаторы Java",
-      "path": "Base/Модификаторы Java.md"
-    },
-    {
-      "basename": "Java core",
-      "path": "Base/Java core.md"
-    },
-    {
-      "basename": "Function Java",
-      "path": "Base/Function Java.md"
-    },
-    {
-      "basename": "Операторы Java",
-      "path": "Base/Операторы Java.md"
-    },
-    {
-      "basename": "Примитивные типы данных Java",
-      "path": "Base/Примитивные типы данных Java.md"
-    },
-    {
-      "basename": "Collections Java",
-      "path": "Base/Collections Java.md"
-    },
-    {
-      "basename": "Array Java",
-      "path": "Base/Array Java.md"
-    },
-    {
-      "basename": "Object Java",
-      "path": "Base/Object Java.md"
-    },
-    {
-      "basename": "Вложенные классы Java",
-      "path": "Base/Вложенные классы Java.md"
-    },
-    {
-      "basename": "Сравнение объектов Java",
-      "path": "Base/Сравнение объектов Java.md"
-    },
-    {
-      "basename": "Анонимные классы Java",
-      "path": "Base/Анонимные классы Java.md"
-    },
-    {
-      "basename": "Upcast Downcast Java",
-      "path": "Base/Upcast Downcast Java.md"
-    },
-    {
-      "basename": "Модификаторы доступа C++",
-      "path": "Base/Модификаторы доступа C++.md"
-    },
-    {
-      "basename": "Полиморфизм Java",
-      "path": "Base/Полиморфизм Java.md"
-    },
-    {
-      "basename": "Наследование Java",
-      "path": "Base/Наследование Java.md"
-    },
-    {
-      "basename": "Инкапсуляция Java",
-      "path": "Base/Инкапсуляция Java.md"
-    },
-    {
-      "basename": "20 Java",
-      "path": "Base/20 Java.md"
-    },
-    {
-      "basename": "10 Databases",
-      "path": "Base/10 Databases.md"
-    },
-    {
-      "basename": "Enum Java",
-      "path": "Base/Enum Java.md"
-    },
-    {
-      "basename": "enum.excalidraw",
-      "path": "Excalidraw/enum.excalidraw.md"
-    },
-    {
-      "basename": "Enumerated types C++",
-      "path": "Base/Enumerated types C++.md"
+      "basename": "Сериализация Десиариализация",
+      "path": "Base/Сериализация Десиариализация.md"
     },
     {
       "basename": "Streams Java",
@@ -121,84 +13,192 @@
       "path": "Base/Files Java.md"
     },
     {
-      "basename": "20 Paradigms",
-      "path": "Base/20 Paradigms.md"
+      "basename": "Stream API",
+      "path": "Base/Stream API.md"
     },
     {
-      "basename": "Strings Java",
-      "path": "Base/Strings Java.md"
+      "basename": "LinkedHashMap Java",
+      "path": "Base/LinkedHashMap Java.md"
     },
     {
-      "basename": "Strings C++",
-      "path": "Base/Strings C++.md"
+      "basename": "HashMap Java",
+      "path": "Base/HashMap Java.md"
     },
     {
-      "basename": "Литералы",
-      "path": "Base/Литералы.md"
+      "basename": "Java core",
+      "path": "Base/Java core.md"
     },
     {
-      "basename": "Exception handling Java",
-      "path": "Base/Exception handling Java.md"
+      "basename": "Collections Java",
+      "path": "Base/Collections Java.md"
+    },
+    {
+      "basename": "Comparator Java",
+      "path": "Base/Comparator Java.md"
+    },
+    {
+      "basename": "Equals HashCode Java",
+      "path": "Base/Equals HashCode Java.md"
+    },
+    {
+      "basename": "Iterator Java",
+      "path": "Base/Iterator Java.md"
     },
     {
       "basename": "Generics Java",
       "path": "Base/Generics Java.md"
     },
     {
-      "basename": "Пакеты Java",
-      "path": "Base/Пакеты Java.md"
-    },
-    {
-      "basename": "Физическая, логическая константность и mutable",
-      "path": "Base/Физическая, логическая константность и mutable.md"
+      "basename": "Strings Java",
+      "path": "Base/Strings Java.md"
     },
     {
       "basename": "Scanner",
       "path": "Base/Scanner.md"
     },
     {
-      "basename": "Операторы C++",
-      "path": "Base/Операторы C++.md"
+      "basename": "20 Java",
+      "path": "Base/20 Java.md"
+    },
+    {
+      "basename": "SOLID",
+      "path": "Base/SOLID.md"
+    },
+    {
+      "basename": "UPDATE table",
+      "path": "Base/UPDATE table.md"
     },
     {
       "basename": "Spring",
       "path": "Base/Spring.md"
     },
     {
-      "basename": "Spring Boot",
-      "path": "Base/Spring Boot.md"
+      "basename": "JDBC",
+      "path": "Base/JDBC.md"
     },
     {
-      "basename": "Spring Security",
-      "path": "Base/Spring Security.md"
+      "basename": "SQL",
+      "path": "Base/SQL.md"
     },
     {
-      "basename": "Spring MVC",
-      "path": "Base/Spring MVC.md"
+      "basename": "CREATE table",
+      "path": "Base/CREATE table.md"
     },
     {
-      "basename": "ООП C++",
-      "path": "Base/ООП C++.md"
+      "basename": "Транзакции",
+      "path": "Base/Транзакции.md"
     },
     {
-      "basename": "RTTI C++",
-      "path": "Base/RTTI C++.md"
+      "basename": "JPA & Hibernate",
+      "path": "Base/JPA & Hibernate.md"
     },
     {
-      "basename": "casting C++",
-      "path": "Base/casting C++.md"
+      "basename": "10 Programming languages",
+      "path": "Base/10 Programming languages.md"
+    },
+    {
+      "basename": "20 Javascript",
+      "path": "Base/20 Javascript.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
+      "basename": "00 Начало",
+      "path": "Base/00 Начало.md"
+    },
+    {
+      "basename": "Питание",
+      "path": "Base/Питание.md"
+    },
+    {
+      "basename": "Медитация",
+      "path": "Base/Медитация.md"
+    },
+    {
+      "basename": "Линейная алгебра",
+      "path": "Math/Линейная алгебра.md"
+    },
+    {
+      "basename": "Комбинаторика",
+      "path": "Math/Комбинаторика.md"
+    },
+    {
+      "basename": "Type punning",
+      "path": "Base/Type punning.md"
+    },
+    {
+      "basename": "quick sort",
+      "path": "Base/quick sort.md"
+    },
+    {
+      "basename": "Серотонин",
+      "path": "Base/Серотонин.md"
+    },
+    {
+      "basename": "Сокеты",
+      "path": "Base/Сокеты.md"
+    },
+    {
+      "basename": "Garbage collector",
+      "path": "Base/Garbage collector.md"
+    },
+    {
+      "basename": "10 Design Patterns",
+      "path": "Base/10 Design Patterns.md"
+    },
+    {
+      "basename": "Стандартные алгоритмы",
+      "path": "Base/Стандартные алгоритмы.md"
+    },
+    {
+      "basename": "Строки Golang",
+      "path": "Base/Строки Golang.md"
+    },
+    {
+      "basename": "Протокол HTTP",
+      "path": "Base/Протокол HTTP.md"
+    },
+    {
+      "basename": "Интерфейсы Golang",
+      "path": "Base/Интерфейсы Golang.md"
+    },
+    {
+      "basename": "00 How to learn",
+      "path": "Base/00 How to learn.md"
+    },
+    {
+      "basename": "00 Conversation🗣️",
+      "path": "Base/00 Conversation🗣️.md"
+    },
+    {
+      "basename": "Частичная специализация шаблонов классов",
+      "path": "Base/Частичная специализация шаблонов классов.md"
     },
     {
       "basename": "Функциональные объекты C++",
       "path": "Base/Функциональные объекты C++.md"
     },
     {
-      "basename": "Указатель this C++",
-      "path": "Base/Указатель this C++.md"
+      "basename": "Обработка исключительных ситуаций в списке инициализаций",
+      "path": "Base/Обработка исключительных ситуаций в списке инициализаций.md"
     },
     {
-      "basename": "Наследование C++",
-      "path": "Base/Наследование C++.md"
+      "basename": "Обработка исключений",
+      "path": "Base/Обработка исключений.md"
+    },
+    {
+      "basename": "Исключения и множественное наследование",
+      "path": "Base/Исключения и множественное наследование.md"
+    },
+    {
+      "basename": "Механизм обработки исключений",
+      "path": "Base/Механизм обработки исключений.md"
+    },
+    {
+      "basename": "Многопоточность и аллокация памяти",
+      "path": "Base/Многопоточность и аллокация памяти.md"
     }
   ],
   "omittedPaths": [],

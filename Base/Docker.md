@@ -13,5 +13,11 @@ docker exec -it postgres-server psql -U postgres // postgres-server - имя н�
 ```
 
 
+#do/start 
+1. docker cli
+2. image
+3. container
+4. dockerfile
+5. docker compose
 
 

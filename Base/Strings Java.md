@@ -28,6 +28,9 @@ str.append(" world").append("!!!");
 
 StringBuilder нужно использовать, если нам нужно изменять строки, поскольку при использовании String создается новая строка. 
 
+# String Buffer
+Аналог StringBuilder, но buffer является потокобезопасным.
+
 # Форматирование
 ```java
 double x = 1000.0 / 3.0;  

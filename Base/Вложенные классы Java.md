@@ -17,7 +17,7 @@ class Electrocat{
 Имеет доступ к приватным полям Electrocar.
 
 ## public static class
-Используется когда класс монолитом.
+Вложенный класс может быть [[static]]. Используется когда класс является монолитом.
 ```java
 class Electrocar{  
     private int id;  

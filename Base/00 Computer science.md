@@ -4,14 +4,13 @@
 - [[10 Graphics]]
 - [[10 Programming languages]]
 - [[10 Computer network]]
-- [[10 Reverse engineering]]
 - [[10 Design]]
 - [[10 Design Patterns]]
 - [[10 Databases]]
 - [[Docker]]
+- [[Kubernetes]]
 - [[Linux problems and solves]]
 - [[Linux]]
-- [[Road to 10xprogrammer]]
 
 # How to?
 ~~Осуждаю пиратство~~ Сливы зарубежных курсов 
@@ -60,6 +59,8 @@
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 * [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
 * [The mythical 10x programmer](http://antirez.com/news/112)
+* [The art of command line](https://github.com/jlevy/the-art-of-command-line)
+* [OSSU](https://github.com/ossu/computer-science)
  
 
 # Программирование
@@ -67,6 +68,7 @@
 * [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [Design patterns and anti-pattertns](https://sourcemaking.com)
 * [Backend](https://github.com/bzick/oh-my-backend)
+* [Developers roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 # Интервью
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
@@ -91,3 +93,14 @@
 * [Overemployed](https://overemployed.com/)
 * [Resume template](https://github.com/jglovier/resume-template)
 * [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
+
+# Reverse engineering
+-   [Всякое. Разное. Полезное.](https://github.com/wtsxDev/reverse-engineering)
+-   [Роадмап](https://medium.com/secjuice/the-road-to-reverse-engineering-malware-7c0bc1bda9d2)
+-   [Malware Development](https://niiconsulting.com/checkmate/2018/02/malware-development-welcome-dark-side-part-1/)
+-   [ссылки](https://habr.com/ru/company/dsec/blog/334832/)
+-   [Всякое. Разное. Полезное.](https://github.com/secfigo/Awesome-Fuzzing)
+-   [Всякое. Разное. Полезное.](https://github.com/rshipp/awesome-malware-analysis)
+-   [Исследуем Portable Executable (EXE-файл)Формат PE-файла](https://codeby.net/tags/pe-file/)
+-   [https://www.exploit-db.com](https://www.exploit-db.com/)

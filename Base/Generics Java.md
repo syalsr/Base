@@ -10,8 +10,49 @@ animals.add("cat");
 String animal = animals.get(0);
 ```
 
-# Wildcards
-Wildcards - это такой синтаксис с помощью которого мы можем передать любые типы в функцию
+# Параметризация на уровне класса
+```java
+public abstract class Hero<T>{
+	private String name;
+	private int damage;
+	private T weapon;
+
+	public T getWeapon(){
+		return weapon
+	}
+}
+
+public class Archer<T> extends Hero<T>{
+
+}
+```
+
+# Ограничение для шаблонов extends
+```java
+public abstract class Hero<T extends Weapon>{
+	private String name;
+	private int damage;
+	private T weapon;
+
+	public T getWeapon(){
+		return weapon
+	}
+}
+
+public class Archer<T extends RangeWeapon> extends Hero<T>{
+
+}
+```
+
+# Параметризация на уровне метода
+```java
+public static <T extends Weapon> void printWeaponDamage(Hero<T> hero){
+...
+}
+```
+
+#  Wildcards
+Wildcards - это упрощенный синтаксис параметризации методов.
 ```java
 private static void test(List<?> list){
 	for(Animal animal : list){

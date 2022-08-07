@@ -103,7 +103,7 @@ subj.setVal(18); // оповещает всех наблюдателей
 Операция, которая выполняется над объектами других классов
 
 # Антипаттерны 
-#do/start http://nishitalab.org/user/paulo/files/resign-patterns.txt
+ http://nishitalab.org/user/paulo/files/resign-patterns.txt
 
 ## Детонатор 
 Паттерн, который ждёт в вашем коде и готов в любой момент разнести все к чертям 

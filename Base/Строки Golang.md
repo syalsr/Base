@@ -124,4 +124,3 @@ func main() {
 }
 ```
 
-#do/continue разобраться с []rune и []byte

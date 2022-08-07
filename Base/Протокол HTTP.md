@@ -1,7 +1,8 @@
 # Протокол HTTP
-Hypertext Transfer Protocol (HTTP) – протокол передачи язык гипертекстовой разметки страниц HTML, работает на [[Протокол TCP]]
+Протокол для общения веб-браузера с веб-сервером, работает на [[Протокол TCP]]
 
-Uniform Resource Locator (URL) – уникальное положение ресурса. Формат URL: 
+# URL
+Uniform Resource Locator – уникальное положение ресурса. Формат URL: 
 1. http://www.asozykin.ru/courses/networks
 2. https://www.youtube.com/
 3. ftp://example.com
