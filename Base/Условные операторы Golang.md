@@ -16,6 +16,7 @@ if v := math.Pow(x, n); v < lim {
 ```
 
 # switch
+Всегда выполняется один case(если нет fallthrough), поэтому break не нужно писать.
 ```go
 switch i {  // i - может быть любым типом данных, значения case-ов не должны повторяться
    case 0: fmt.Println("Zero")  

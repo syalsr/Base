@@ -5,22 +5,58 @@
 Подключение к БД
 ```java
 public class Main {  
-    private static final String URL = "jdbc:postgresql://localhost:5432/test_jdbc";  
-    private static final String USERNAME = "postgres";  
-    private static final String PASSWORD = "3525";  
   
     public static void main(String[] args) {  
-        Connection connection;  
-  
-        try {  
-            connection = DriverManager.getConnection(URL, USERNAME, PASSWORD);  
-            if(!connection.isClosed())  
-                System.out.println("Connection successful");
-            Statement statement = connection.createStatement();  
-			  //здесь пишем наши запросы execute
-  
+        String sql = """  
+                    insert into info (data)  
+                    values ('Test1'), ('Test2');  
+                    """;  
+        try (var connection = ConnectionManager.open();  
+             var statement = connection.createStatement()) {  
+            var res = statement.execute(sql);  
         } catch (SQLException e) {  
-            System.out.println("Error connection");  
+            throw new RuntimeException(e);  
+        }  
+    }  
+}
+
+public final class PropertiesUtil {  
+    private static final Properties PROPERTIES = new Properties();  
+  
+    static{  
+        loadProperties();  
+    }  
+  
+    public static String get(String key){  
+        return PROPERTIES.getProperty(key);  
+    }  
+    private static void loadProperties() {  
+        try(var inputStream = PropertiesUtil.class.getClassLoader().getResourceAsStream("application.properties")){  
+            PROPERTIES.load(inputStream);  
+        } catch (IOException e) {  
+            throw new RuntimeException(e);  
+        }  
+    }  
+  
+    private PropertiesUtil(){}  
+}
+public class ConnectionManager {  
+    private static final String URL_KEY = "db.url";  
+    private static final String USERNAME_KEY = "db.username";  
+    private static final String PASSWORD_KEY = "db.password";  
+  
+    private ConnectionManager(){  
+  
+    }  
+    public static Connection open(){  
+        try{  
+            return DriverManager.getConnection(  
+                    PropertiesUtil.get(URL_KEY),  
+                    PropertiesUtil.get(USERNAME_KEY),  
+                    PropertiesUtil.get(PASSWORD_KEY)  
+            );  
+        }catch (SQLException e) {  
+            throw new RuntimeException(e);  
         }  
     }  
 }
@@ -79,7 +115,7 @@ public class Main {
 statement.execute("INSERT INTO book(book_id, title, isbn) VALUES(10, 'Don', '43231')");
 ```
 # executeUpdate
-С помощью него можно писать запросы [[UPDATE table#insert into]] [[UPDATE table#update table]] [[DELETE table]]
+С помощью него можно писать запросы [[UPDATE table#insert into]] [[UPDATE table#update table]] [[DELETE]]
 ```java
 var a = statement.executeUpdate("UPDATE book SET title = 'XXXX' WHERE book_id = 10");  
 System.out.println(a);//1
@@ -101,62 +137,78 @@ while(result.next()){
 ```
 
 # Пакетная обработка addBatch
+Может случится ситуация, когда мы хотим выполнить несколько запросов, обычно это происходит так, мы вызываем функцию выполнения, запрос поступает в БД и нам возвращается какой-то ответ, то есть если у нас 10 запросов, то мы 10 раз будем вынуждены отправить и дождаться ответа. При помощи batch мы можем сразу отправить все запросы, тем самым повышая производительность приложения.
 Если хотим выполнить несколько запросов, поскольку подряд их писать нельзя
 
 ```java
-statement.addBatch("INSERT INTO book(book_id, title, isbn) VALUES(11, 'Don', '43231')");  
-statement.addBatch("INSERT INTO book(book_id, title, isbn) VALUES(12, 'Dn', '4331')");  
-statement.addBatch("INSERT INTO book(book_id, title, isbn) VALUES(15, 'on', '432')");  
+public static void main(String[] args) throws SQLException{  
+    long flightId = 9;  
+    var deleteFlighSql = "DELETE FROM flight WHERE id = " + flightId;  
+    var deleteTicketSql = "DELETE FROM ticker WHERE flight_id = " + flightId;  
   
-statement.executeBatch();
-statement.clearBatch();
+    Connection connection = null;  
+    Statement statement = null;  
+    try  {  
+        connection = ConnectionManager.open();  
+        statement = connection.createStatement();  
+          
+        statement.addBatch(deleteTicketSql);  
+        statement.addBatch(deleteFlighSql);  
+  
+        statement.executeBatch();  
+  
+    } catch (SQLException e) {  
+        if(connection != null){  
+            connection.rollback();  
+        }  
+        throw e;  
+    } finally {  
+        if(connection != null){  
+            connection.close();  
+        }  
+        if(statement != null)  
+            statement.close();  
+    }  
+}
 ```
 
 # blob
-Позволяет работать с бинарными объектами:
-Тут у меня возникает исключение при создании блоба - `Method org.postgresql.jdbc.PgConnection.createBlob()` is not yet implemented. В интернете решение связанное с хибернетом, но я еще используя только jdbc, странно, в общем.
+В postgres есть аналог binary large object - bytea
+clob - character large object - TEXT
+
 ```java
-public class Main {  
-    private static final String URL = "jdbc:postgresql://localhost:5432/test_jdbc";  
-    private static final String USERNAME = "postgres";  
-    private static final String PASSWORD = "3525";  
-    private static final String INSERT = "INSERT INTO table_name (name, age) VALUES(?, ?)";  
-    private static final String GET_ALL = "SELECT * FROM table_name";  
+public static void main(String[] args) throws IOException, SQLException {  
+    saveImage();  
+    getImage();  
+}  
   
-    public static void main(String[] args) {  
-        Connection connection;  
-        PreparedStatement statement = null;  
-  
-        try {  
-            connection = DriverManager.getConnection(URL, USERNAME, PASSWORD);  
-            if(!connection.isClosed())  
-                System.out.println("Connection successful");  
-  
-            BufferedImage image = ImageIO.read(new File("img.png"));  
-            Blob blob = connection.createBlob();  
-            try(OutputStream outputStream = blob.setBinaryStream(1)) {  
-                ImageIO.write(image, "png", outputStream);  
-            }  
-  
-            statement = connection.prepareStatement("insert into table_name (name, age, image) values (?, ?, ?)");  
-            statement.setString(1, "Ricardo");  
-            statement.setInt(2, 54);  
-            statement.setBlob(3, blob);  
-            statement.execute();  
-  
-            ResultSet resultSet = statement.executeQuery("select * from table_name");  
-  
-            while(resultSet.next()){  
-                Blob blob1 = resultSet.getBlob("image");  
-                BufferedImage image1 = ImageIO.read(blob1.getBinaryStream());  
-                File outputFile = new File("save.png");  
-                ImageIO.write(image1, "png", outputFile);  
-            }  
-  
-        } catch (SQLException | IOException e) {  
-            System.out.println("Error");  
-            e.printStackTrace();  
+private static void getImage() throws SQLException, IOException {  
+    var sql = """  
+            SELECT image  
+            FROM info  
+            WHERE id = ?  
+            """;  
+    try (var connection = ConnectionManager.open();  
+         var preparedStatement = connection.prepareStatement(sql)) {  
+        preparedStatement.setInt(1, 1);  
+        var resultSet = preparedStatement.executeQuery();  
+        if (resultSet.next()) {  
+            var image = resultSet.getBytes("image");  
+            Files.write(Path.of("src/main/resources", "boing777_new.png"), image, StandardOpenOption.CREATE);  
         }  
+    }  
+}  
+  
+private static void saveImage() throws SQLException, IOException {  
+    var sql = """  
+            UPDATE info  
+            SET image = ?  
+            WHERE id = 1  
+            """;  
+    try (var connection = ConnectionManager.open();  
+         var preparedStatement = connection.prepareStatement(sql)) {  
+        preparedStatement.setBytes(1, Files.readAllBytes(Path.of("src/main/resources", "boing777.png")));  
+        preparedStatement.executeUpdate();  
     }  
 }
 ```
@@ -166,9 +218,42 @@ public class Main {
 
 # [[Транзакции]]
 ```
-connection.setAutoCommit(false);
-//здесь пишем свои запросы
-connection.commit(); или connection.rollback();
+public static void main(String[] args) throws SQLException{  
+    long flightId = 9;  
+    var deleteFlighSql = "DELETE FROM flight WHERE id = ?";  
+    var deleteTicketSql = "DELETE FROM ticker WHERE flight_id = ?";  
+  
+    Connection connection = null;  
+    PreparedStatement deleteFlightStatement = null;  
+    PreparedStatement deleteTickerStatement = null;  
+    try  {  
+        connection = ConnectionManager.open();  
+        deleteFlightStatement = connection.prepareStatement(deleteFlighSql);  
+        deleteTickerStatement = connection.prepareStatement(deleteTicketSql);  
+  
+        connection.setAutoCommit(false);  
+  
+        deleteFlightStatement.setLong(1, flightId);  
+        deleteTickerStatement.setLong(1, flightId);  
+  
+        deleteTickerStatement.executeUpdate();  
+        deleteFlightStatement.executeUpdate();  
+        connection.commit();  
+    } catch (SQLException e) {  
+        if(connection != null){  
+            connection.rollback();  
+        }  
+        throw e;  
+    } finally {  
+        if(connection != null){  
+            connection.close();  
+        }  
+        if(deleteTickerStatement != null)  
+            deleteTickerStatement.close();  
+        if(deleteFlightStatement != null)  
+            deleteFlightStatement.close();  
+    }  
+}
 ```
 
 Также можно установить точки сохранения, все что до `commit`, все что после `rollback`
@@ -182,64 +267,49 @@ connection.commit();
 connection.reeaseSavepoint(savepoint);
 ```
 
-# properties files
-В таком файле хранится служебная информация, к примеру, url, username, password.
+
+# fetchsize
+Параметр с помощью которые мы контролируем количество элементов которые мы загружаем из бд в свою программу посредством запросов. Допустим, мы делаем `select *` таблицы в которой несколько миллионов записей, в результате без использования этого параметра в нашей программе возникнет исключение `OutOfMemory`. Этот параметр контролирует количество записей перемещаемых из бд в наше приложение, обычно он равен 50-100
+
+![[fetchsize.excalidraw]]
+
+Как только мы дошли до 3 элемента, если есть еще записи, то они загружаются в нашу память.
 
 ```java
-Файл application.properties
-db.URL = "jdbc:postgresql://localhost:5432/test_jdbc";  
-db.USERNAME = "postgres";  
-db.PASSWORD = "3525";
-```
-
-Реализуем класс для работы с файлом который хранится в папке `util`
-```java
-public final class PropertiesUtil {  
-    private static final Properties PROPERTIES = new Properties();  
-  
-    static{  
-        loadProperties();  
-    }  
-  
-    public static String get(String key){  
-        return PROPERTIES.getProperty(key);  
-    }  
-    private static void loadProperties() {  
-        try(var inputStream = PropertiesUtil.class.getClassLoader().getResourceAsStream("application.properties")){  
-            PROPERTIES.load(inputStream);  
-        } catch (IOException e) {  
-            throw new RuntimeException(e);  
-        }  
-    }  
-  
-    private PropertiesUtil(){}  
+try (var connection = ConnectionManager.open();  
+     var statement = connection.prepareStatement(sql)) {  
+    statement.setFetchSize(50);  
+	statement.setQueryTimeout(10);//ограничение выполнение запроса в 10 секунд  
+	statement.setMaxRows(100);//ограничение на кол-во строк  
+} catch (SQLException e) {  
+    throw new RuntimeException(e);  
 }
 ```
 
+# metadata
+С помощью специального метода можем получить информацию о структуре БД
 ```java
-public class Main {  
-    private static final String URL_KEY = "db.URL";  
-    private static final String USERNAME_KEY = "db.USERNAME";  
-    private static final String PASSWORD_KEY = "db.PASSWORD";  
-    private static final String INSERT = "INSERT INTO table_name (name, age) VALUES(?, ?)";  
-    private static final String GET_ALL = "SELECT * FROM table_name";  
-  
-    public static void main(String[] args) {  
-        Connection connection;  
-        PreparedStatement statement = null;  
-  
-        try {  
-            connection = DriverManager.getConnection(  
-                    PropertiesUtil.get(URL_KEY),  
-                    PropertiesUtil.get(USERNAME_KEY),  
-                    PropertiesUtil.get(PASSWORD_KEY));  
-            if(!connection.isClosed())  
-                System.out.println("Connection successful");  
-  
-        } catch (SQLException e) {  
-            System.out.println("Error");  
-            e.printStackTrace();  
+try (var connection = ConnectionManager.open()) {  
+    var metaData = connection.getMetaData();  
+    var catalogs = metaData.getCatalogs();  
+    while(catalogs.next()){  
+        var catalog = catalogs.getString(1);  
+        var schemas = metaData.getSchemas();  
+        while (schemas.next()){  
+            var schema = schemas.getString("TABLE_SCHEM");  
+            var tables = metaData.getTables(catalog, schema, "%", null);  
+            if(schema.equals("public")){  
+                while (tables.next()) {  
+                    System.out.println(tables.getString("TABLE_NAME"));  
+                }  
+            }  
         }  
     }  
+} catch (SQLException e) {  
+    throw new RuntimeException(e);  
 }
 ```
+
+# Connection pool
+Представляет из себя очередь состоящую из нескольких инициализированных соединений, поскольку соединение с БД - дорогостоящая операция всегда используется пул соединений.  По окончанию работы, вместо закрытия соединения, мы его возвращаем в пул.
+

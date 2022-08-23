@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Сериализация Десиариализация.md",
+            "file": "Base/Интерфейсы Golang.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "String Buffer",
+                "query": "(type)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,11 +71,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Сериализация Десиариализация.md"
+                "file": "Base/Интерфейсы Golang.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Сериализация Десиариализация.md",
+                "file": "Base/Интерфейсы Golang.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Сериализация Десиариализация.md",
+                "file": "Base/Интерфейсы Golang.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Сериализация Десиариализация.md",
+                "file": "Base/Интерфейсы Golang.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,15 +214,15 @@
   },
   "active": "1bde805b747e3cec",
   "lastOpenFiles": [
-    "Base/Streams Java.md",
-    "Base/Files Java.md",
-    "Base/Stream API.md",
-    "Base/LinkedHashMap Java.md",
-    "Base/HashMap Java.md",
-    "Base/Java core.md",
-    "Base/Collections Java.md",
-    "Base/Comparator Java.md",
-    "Base/Equals HashCode Java.md",
-    "Base/Iterator Java.md"
+    "Base/20 Golang.md",
+    "Base/map Golang.md",
+    "Base/Массивы Golang.md",
+    "Base/Каналы Golang.md",
+    "Base/Complexity algorithms.md",
+    "Base/Алгодроч.md",
+    "Base/10 Algorithm and data structures.md",
+    "Base/SQL.md",
+    "Base/JOIN.md",
+    "Base/Context Golang.md"
   ]
 }

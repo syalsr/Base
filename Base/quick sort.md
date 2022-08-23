@@ -16,7 +16,7 @@ std::vector<T> quicksort(const std::vector<T>& arr) {
         if (item == pivot) continue; // skip pivot element
         if (*item <= *pivot) less.push_back(*item);
         else greater.push_back(*item);
-    }
+    }**
     
     std::vector<T> sorted_less = quicksort(less);
     std::vector<T> sorted_greater = quicksort(greater);

@@ -24,4 +24,3 @@ JRE - нужен для запуска приложений, включает в
 # Полезное
 * [Java interview](https://github.com/enhorse/java-interview)
 * [Java interview](https://github.com/timmson/java-interview)
-* [Java interview](https://github.com/Vivelapaix/JavaInterview)

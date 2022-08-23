@@ -38,3 +38,16 @@ func main() {
    fmt.Println(a)
 }
 ```
+
+
+```go
+func NewClient(name string, age int) Client{
+	return Client(name, age);//создаем структуру на стеке, возвращаем ее, стек очищается
+}
+
+func NewClient(name string, age int) *Client{//возвращаем указатель на структуру
+	return &Client(name, age);//т.к. мы возвращаем указатель, то не можем создать ее на стеке, ибо она удалится, поэтому структура создается в куче.
+	//либо можно написать так
+	return new(Client(name, age));
+}
+```

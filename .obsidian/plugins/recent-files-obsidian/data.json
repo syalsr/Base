@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Сериализация Десиариализация",
-      "path": "Base/Сериализация Десиариализация.md"
+      "basename": "Интерфейсы Golang",
+      "path": "Base/Интерфейсы Golang.md"
     },
     {
-      "basename": "Streams Java",
-      "path": "Base/Streams Java.md"
+      "basename": "20 Golang",
+      "path": "Base/20 Golang.md"
     },
     {
-      "basename": "Files Java",
-      "path": "Base/Files Java.md"
+      "basename": "map Golang",
+      "path": "Base/map Golang.md"
     },
     {
-      "basename": "Stream API",
-      "path": "Base/Stream API.md"
+      "basename": "Массивы Golang",
+      "path": "Base/Массивы Golang.md"
     },
     {
-      "basename": "LinkedHashMap Java",
-      "path": "Base/LinkedHashMap Java.md"
+      "basename": "Каналы Golang",
+      "path": "Base/Каналы Golang.md"
     },
     {
-      "basename": "HashMap Java",
-      "path": "Base/HashMap Java.md"
+      "basename": "Complexity algorithms",
+      "path": "Base/Complexity algorithms.md"
     },
     {
-      "basename": "Java core",
-      "path": "Base/Java core.md"
+      "basename": "Алгодроч",
+      "path": "Base/Алгодроч.md"
     },
     {
-      "basename": "Collections Java",
-      "path": "Base/Collections Java.md"
-    },
-    {
-      "basename": "Comparator Java",
-      "path": "Base/Comparator Java.md"
-    },
-    {
-      "basename": "Equals HashCode Java",
-      "path": "Base/Equals HashCode Java.md"
-    },
-    {
-      "basename": "Iterator Java",
-      "path": "Base/Iterator Java.md"
-    },
-    {
-      "basename": "Generics Java",
-      "path": "Base/Generics Java.md"
-    },
-    {
-      "basename": "Strings Java",
-      "path": "Base/Strings Java.md"
-    },
-    {
-      "basename": "Scanner",
-      "path": "Base/Scanner.md"
-    },
-    {
-      "basename": "20 Java",
-      "path": "Base/20 Java.md"
-    },
-    {
-      "basename": "SOLID",
-      "path": "Base/SOLID.md"
-    },
-    {
-      "basename": "UPDATE table",
-      "path": "Base/UPDATE table.md"
-    },
-    {
-      "basename": "Spring",
-      "path": "Base/Spring.md"
-    },
-    {
-      "basename": "JDBC",
-      "path": "Base/JDBC.md"
+      "basename": "10 Algorithm and data structures",
+      "path": "Base/10 Algorithm and data structures.md"
     },
     {
       "basename": "SQL",
       "path": "Base/SQL.md"
     },
     {
-      "basename": "CREATE table",
-      "path": "Base/CREATE table.md"
+      "basename": "JOIN",
+      "path": "Base/JOIN.md"
     },
     {
-      "basename": "Транзакции",
-      "path": "Base/Транзакции.md"
+      "basename": "Context Golang",
+      "path": "Base/Context Golang.md"
     },
     {
-      "basename": "JPA & Hibernate",
-      "path": "Base/JPA & Hibernate.md"
+      "basename": "Ввод вывод Golang",
+      "path": "Base/Ввод вывод Golang.md"
     },
     {
-      "basename": "10 Programming languages",
-      "path": "Base/10 Programming languages.md"
+      "basename": "Многопоточность Golang",
+      "path": "Base/Многопоточность Golang.md"
     },
     {
-      "basename": "20 Javascript",
-      "path": "Base/20 Javascript.md"
-    },
-    {
-      "basename": "00 Computer science",
-      "path": "Base/00 Computer science.md"
-    },
-    {
-      "basename": "00 Начало",
-      "path": "Base/00 Начало.md"
-    },
-    {
-      "basename": "Питание",
-      "path": "Base/Питание.md"
-    },
-    {
-      "basename": "Медитация",
-      "path": "Base/Медитация.md"
-    },
-    {
-      "basename": "Линейная алгебра",
-      "path": "Math/Линейная алгебра.md"
-    },
-    {
-      "basename": "Комбинаторика",
-      "path": "Math/Комбинаторика.md"
-    },
-    {
-      "basename": "Type punning",
-      "path": "Base/Type punning.md"
+      "basename": "Бинарный поиск",
+      "path": "Base/Бинарный поиск.md"
     },
     {
       "basename": "quick sort",
       "path": "Base/quick sort.md"
     },
     {
-      "basename": "Серотонин",
-      "path": "Base/Серотонин.md"
+      "basename": "Циклы Golang",
+      "path": "Base/Циклы Golang.md"
     },
     {
-      "basename": "Сокеты",
-      "path": "Base/Сокеты.md"
-    },
-    {
-      "basename": "Garbage collector",
-      "path": "Base/Garbage collector.md"
-    },
-    {
-      "basename": "10 Design Patterns",
-      "path": "Base/10 Design Patterns.md"
-    },
-    {
-      "basename": "Стандартные алгоритмы",
-      "path": "Base/Стандартные алгоритмы.md"
+      "basename": "Условные операторы Golang",
+      "path": "Base/Условные операторы Golang.md"
     },
     {
       "basename": "Строки Golang",
       "path": "Base/Строки Golang.md"
     },
     {
+      "basename": "Тестирование Golang",
+      "path": "Base/Тестирование Golang.md"
+    },
+    {
+      "basename": "Структуры Golang",
+      "path": "Base/Структуры Golang.md"
+    },
+    {
+      "basename": "Модули Golang",
+      "path": "Base/Модули Golang.md"
+    },
+    {
+      "basename": "Пакеты Golang",
+      "path": "Base/Пакеты Golang.md"
+    },
+    {
+      "basename": "10 Computer network",
+      "path": "Base/10 Computer network.md"
+    },
+    {
+      "basename": "OSI",
+      "path": "Base/OSI.md"
+    },
+    {
+      "basename": "Прикладной уровень",
+      "path": "Base/Прикладной уровень.md"
+    },
+    {
       "basename": "Протокол HTTP",
       "path": "Base/Протокол HTTP.md"
     },
     {
-      "basename": "Интерфейсы Golang",
-      "path": "Base/Интерфейсы Golang.md"
+      "basename": "UPDATE table",
+      "path": "Base/UPDATE table.md"
     },
     {
-      "basename": "00 How to learn",
-      "path": "Base/00 How to learn.md"
+      "basename": "DELETE",
+      "path": "Base/DELETE.md"
     },
     {
-      "basename": "00 Conversation🗣️",
-      "path": "Base/00 Conversation🗣️.md"
+      "basename": "CREATE table",
+      "path": "Base/CREATE table.md"
     },
     {
-      "basename": "Частичная специализация шаблонов классов",
-      "path": "Base/Частичная специализация шаблонов классов.md"
+      "basename": "10 Databases",
+      "path": "Base/10 Databases.md"
     },
     {
-      "basename": "Функциональные объекты C++",
-      "path": "Base/Функциональные объекты C++.md"
+      "basename": "json Golang",
+      "path": "Base/json Golang.md"
     },
     {
-      "basename": "Обработка исключительных ситуаций в списке инициализаций",
-      "path": "Base/Обработка исключительных ситуаций в списке инициализаций.md"
+      "basename": "Файлы Golang",
+      "path": "Base/Файлы Golang.md"
     },
     {
-      "basename": "Обработка исключений",
-      "path": "Base/Обработка исключений.md"
+      "basename": "Работа Golang с базой данных",
+      "path": "Base/Работа Golang с базой данных.md"
     },
     {
-      "basename": "Исключения и множественное наследование",
-      "path": "Base/Исключения и множественное наследование.md"
+      "basename": "Garbage collector",
+      "path": "Base/Garbage collector.md"
     },
     {
-      "basename": "Механизм обработки исключений",
-      "path": "Base/Механизм обработки исключений.md"
+      "basename": "Транспортный уровень",
+      "path": "Base/Транспортный уровень.md"
     },
     {
-      "basename": "Многопоточность и аллокация памяти",
-      "path": "Base/Многопоточность и аллокация памяти.md"
+      "basename": "Сетевой уровень",
+      "path": "Base/Сетевой уровень.md"
+    },
+    {
+      "basename": "Протокол ARP",
+      "path": "Base/Протокол ARP.md"
+    },
+    {
+      "basename": "Протокол DHCP",
+      "path": "Base/Протокол DHCP.md"
+    },
+    {
+      "basename": "Протокол ICMP",
+      "path": "Base/Протокол ICMP.md"
+    },
+    {
+      "basename": "Канальный уровень",
+      "path": "Base/Канальный уровень.md"
+    },
+    {
+      "basename": "Коммутаторы(switch)",
+      "path": "Base/Коммутаторы(switch).md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Base/Docker.md"
+    },
+    {
+      "basename": "20 Python",
+      "path": "Base/20 Python.md"
+    },
+    {
+      "basename": "Строки Python",
+      "path": "Base/Строки Python.md"
+    },
+    {
+      "basename": "Переменные Golang",
+      "path": "Base/Переменные Golang.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "Base/Linux.md"
+    },
+    {
+      "basename": "Linux problems and solves",
+      "path": "Base/Linux problems and solves.md"
+    },
+    {
+      "basename": "Указатели Golang",
+      "path": "Base/Указатели Golang.md"
+    },
+    {
+      "basename": "TCPIP",
+      "path": "Base/TCPIP.md"
+    },
+    {
+      "basename": "Servlets",
+      "path": "Base/Servlets.md"
     }
   ],
   "omittedPaths": [],

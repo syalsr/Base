@@ -13,3 +13,14 @@ func TestBareer(t * testing.T){
 ```
 go test
 ```
+
+# Параллельный запуск
+```go
+func TestBareer(t * testing.T){
+	t.Parallel()
+}
+func TestSpin(t * testing.T){
+	t.Parallel()
+}
+```
+Теперь наши тесты будут выполняться параллельно

@@ -1,4 +1,5 @@
 # Переменные
+Если мы не присваиваем значение, то переменные равны zero-value
 ```go
 a := 5
 var a int = 5
@@ -11,7 +12,7 @@ var (        
 
 
 # const
-Вычисляются на этапе компиляции
+Вычисляются на этапе компиляции, если в константе присваиваем какое-то выражение, то сначала оно вычисляется в памяти, потом присваивается в переменную.
 ```go
 const pi float64 = 3.1415 
 pi = 2.7182           // ! Ошибка
@@ -42,7 +43,14 @@ import (
 const (  
    Sunday = iota  
    Monday  
-   Tuesday   Wednesday   Thursday   Friday   Saturday   _   _   Add)  
+   Tuesday   
+   Wednesday   
+   Thursday   
+   Friday   
+   Saturday  
+    _  
+    _   
+    Add)  
   
 func main() {  
    fmt.Println(Sunday)   // вывод 0  
@@ -58,6 +66,22 @@ func main() {
 // переменные ни в одном блоке const, поэтому индекс не увеличился  
 const x = iota  // x == 0  
 const y = iota  // y == 0
+}
+```
+
+```go
+const (  
+   Sunday = iota  
+   Monday  
+   Tuesday   Wednesday = 10  
+   Thursday  
+   Friday   Saturday   _   _   Add)  
+  
+func main() {  
+   fmt.Println(Sunday)   // вывод 0  
+   fmt.Println(Saturday) // вывод 10  
+   fmt.Println(Friday)   // вывод 10  
+   fmt.Println(Add)      // вывод 10  
 }
 ```
 

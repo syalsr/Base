@@ -1,23 +1,29 @@
 # 20 Golang - статически типизированный язык
 * [[Пакеты Golang]]
 * [[Модули Golang]]
-* [[Массивы Golang]]
-* [[Функции Golang]]
-* [[Файлы Golang]]
-* [[Многопоточность Golang]]
-* [[Интерфейсы Golang]]
-* [[Указатели Golang]]
-* [[Ошибки Golang]]
-* [[Структуры Golang]]
-* [[Ввод вывод Golang]]
-* [[Строки Golang]]
-* [[Условные операторы Golang]]
-* [[Циклы Golang]]
-* [[Переменные Golang]]
-* [[map Golang]]
+* Типы
+	* [[Массивы Golang]]
+	* [[map Golang]]
+	* [[Строки Golang]]
+	* [[Указатели Golang]]
+	* [[Переменные Golang]]
+* Основы
+	* [[Функции Golang]]
+	* [[Циклы Golang]]
+	* [[Условные операторы Golang]]
+	* [[Ошибки Golang]]
+	* [[Файлы Golang]]
+	* [[Ввод вывод Golang]]
+	* [[Context Golang]]
+* ООП
+	* [[Интерфейсы Golang]]
+	* [[Структуры Golang]]
+* Многопоточность
+	* [[Многопоточность Golang]]
+	* [[Каналы Golang]]
+* [[Тестирование Golang]]
 * [[json Golang]]
 * [[Работа Golang с базой данных]]
-* [[Тестирование Golang]]
 * [[Garbage collector]]
 
 # Проект
@@ -68,24 +74,6 @@ go 1.18
 
 Стоит помнить, если функции начинаются с маленькой буквы, то мы их не видим
 
-# require
-Можем указать какие библиотеки необходимы проекту
-
-```
-module test
-
-go 1.18
-
-require(
-	github.com/fatih/color v1.9.0
-)
-```
-
-## Сторонние библиотеки
-```
-go get github.com/fatih/color
-```
-
 # Полезные ссылки
 * [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 * [awesome backend](https://github.com/zhashkevych/awesome-backend)
@@ -94,4 +82,3 @@ go get github.com/fatih/color
 * [Visualizing Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)
 * [Под капотом Golang — как работают каналы. Часть 1.](https://medium.com/@victor_nerd/%D0%BF%D0%BE%D0%B4-%D0%BA%D0%B0%D0%BF%D0%BE%D1%82%D0%BE%D0%BC-golang-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E%D1%82-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-e1da9e3e104d)
 * [Внутренеее устройство каналов в Golang. Часть 2.](https://medium.com/@victor_nerd/golang-channel-internal-part2-b4e37ad9a118)
-* 
