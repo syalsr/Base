@@ -48,8 +48,6 @@ func name(names [4]string) {
 runtime.GOMAXPROCS(4)
 ```
 
-
-
 # Синхронизация горутин
 ```go
 func main() {  
@@ -222,5 +220,42 @@ for i:= 0; i < 1000; i++{
 ```
 Операции с помощью atomic будут выполняться атомарно, поскольку выполняются за 1 такт, в отличии от обычной переменной которая может выполниться 3-4 такта.
 
-# Scheduler
-Для каждого потока go создает виртуальный процессор P, для каждого процессора OC выделяет поток M. Горутины G создаются по необходимости
+# cond var
+Условная переменная(condition variable) — примитив синхронизации, обеспечивающий блокирование одного или нескольких потоков до момента поступления сигнала от другого потока о выполнении некоторого условия или до истечения максимального промежутка времени ожидания. Сигнал не несет никакой информации, кроме факта, что произошло какое-то событие. Очень часто мы хотим подождать один из этих сигналов, прежде чем продолжить выполнение.
+
+```go
+type message struct {
+   cond *sync.Cond
+   msg  string
+}
+
+func main() {
+   msg := message{
+      cond: sync.NewCond(&sync.Mutex{}),
+   }
+
+   // 1
+   for i := 1; i <= 3; i++ {
+      go func(num int) {
+         for {
+            msg.cond.L.Lock()
+            msg.cond.Wait()
+            fmt.Printf("hello, i am worker%d. text:%s\n", num, msg.msg)
+            msg.cond.L.Unlock()
+         }
+      }(i)
+   }
+
+   // 2
+   scanner := bufio.NewScanner(os.Stdin)
+   fmt.Print("Enter text: ")
+   for scanner.Scan() {
+      msg.cond.L.Lock()
+      msg.msg = scanner.Text()
+      msg.cond.L.Unlock()
+
+      msg.cond.Broadcast()
+   }
+
+}
+```

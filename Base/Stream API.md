@@ -66,3 +66,5 @@ Optional<Student> maybeStudent = Stream.of(
   
 maybeStudent.ifPresent(System.out::println);//не выыводит ничего
 ```
+
+https://metanit.com/java/tutorial/10.1.php

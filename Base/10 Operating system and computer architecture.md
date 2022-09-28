@@ -40,8 +40,8 @@ OS обеспечивает:
 * [CS 161 Computer security](https://su20.cs161.org)
 * [6.S081: Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/index.html)
 * [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-
-
+https://www.youtube.com/watch?v=-knefdASOz8
+https://thecode.media/intel_inside/
 ## ABI - Application binary interface
 Это набор соглашений о:
 1. Как передавать аргументы в функцию

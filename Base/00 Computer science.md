@@ -33,6 +33,12 @@
 * [Public APIs](https://github.com/n0shake/Public-APIs)
 * [Crafting interpreters](https://craftinginterpreters.com/contents.html)
 * [UTF-8 Everywhere](https://utf8everywhere.org)
+* https://resumake.io
+* https://blog.pragmaticengineer.com/the-developer-culture-test/
+* https://github.com/CyC2018/CS-Notes#computer-操作系统
+* https://pikuma.com
+* https://teamlead.wrike.tech
+* https://github.com/mtdvio/every-programmer-should-know
 
 # Проекты
 * [Подборка проектов по категориям (230+ проектов)](https://github.com/danistefanovic/build-your-own-x)
@@ -94,6 +100,8 @@
 * [Resume template](https://github.com/jglovier/resume-template)
 * [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
+# Работа
+* [just join it](https://justjoin.it)
 
 # Reverse engineering
 -   [Всякое. Разное. Полезное.](https://github.com/wtsxDev/reverse-engineering)

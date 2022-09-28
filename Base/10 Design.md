@@ -5,7 +5,10 @@
 4. https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 5. https://github.com/donnemartin/system-design-primer
 6. [[SOLID]]
-
+7. [[REST API]]
+#do/important_start 
+https://microservices.io/patterns/microservices.html
+https://gist.github.com/pavlov200912/c290a3d773776378a39fa8fab3e4f215
 # Проектирование приложений
 Проектирование - моделирование отношений между типами, которое можно выразить с помощью [[UML]]. Проектирование проекта следует составлять на основе некоторых правил:
 1. Абстракции - нужно писать такой код, чтобы человек не вдаваясь в детали реализации мог использовать написанный ранее функционал с ожидаемым поведением. Разделяйте интерфейс и определение.

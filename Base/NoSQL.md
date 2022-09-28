@@ -1,5 +1,5 @@
 # NoSQL
-#do/start 
+ 
 cassandra
 1. nosql
 2. cql

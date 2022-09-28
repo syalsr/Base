@@ -112,3 +112,5 @@
 * [LeetCode](https://leetcode.com/problemset/algorithms/)
 * [GeeksforGeeks](https://practice.geeksforgeeks.org)
 * [Codeforces](https://codeforces.com)
+* [9 weeks algorithms](https://www.techinterviewhandbook.org/grind75)
+* [structy](https://structy.net/problem-index)

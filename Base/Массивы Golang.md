@@ -196,3 +196,6 @@ func main() {
 ```
 
 capacity считается от начального элемента который указан в квадратных скобках и до конца, если не указан третье значение.
+
+#do/start 
+https://medium.com/swlh/use-pointer-of-for-range-loop-variable-in-go-3d3481f7ffc9

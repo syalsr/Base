@@ -1,5 +1,5 @@
 # JPA & Hibernate
-#do/start 
+
 1. orm
 2. entity - жизненный цикл сущностей
 3. hibernate session

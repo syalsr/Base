@@ -1,4 +1,5 @@
 # 20 Git
+[ебаный гит](https://ohshitgit.com/ru)
 # git commit
 ![[git1.excalidraw]]
 
