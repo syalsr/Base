@@ -56,11 +56,5 @@ and then you should be able to push it.
 docker push YOUR_DOCKERHUB_NAME/firstimage
 ```
 
-#do/start 
-1. docker cli
-2. image
-3. container
-4. dockerfile
-5. docker compose
 https://docs.microsoft.com/ru-ru/visualstudio/docker/tutorials/docker-tutorial
 

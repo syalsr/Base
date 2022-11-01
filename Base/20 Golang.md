@@ -29,6 +29,7 @@
 * [[Current memory usage Golang]]
 * [[Gracefull shut down in Go]]
 * [[Escape analysis]]
+* [[Компилятор Golang]]
 
 #do/important_start 
 http://golang-book.ru/chapter-13-core-packages.html
@@ -48,6 +49,8 @@ https://www.sohamkamani.com/golang/json/
 -   Formatter
 -   vet - статистческий анализатор для поиска типичных ошибок
 -   Большая стандартная библиотека
+
+
 
 # Проект
 Отсюда берем архив - https://go.dev/dl/
@@ -97,7 +100,54 @@ go 1.18
 
 Стоит помнить, если функции начинаются с маленькой буквы, то мы их не видим
 
+# Компиляция программы
+```
+go build main.go
+```
+
+# Аргументы командной строки
+```go
+func main() {  
+   if len(os.Args) == 1 {  
+      fmt.Println("Please give one or more floats.")  
+      os.Exit(1)  
+   }  
+   arguments := os.Args  
+   min, _ := strconv.ParseFloat(arguments[1], 64)  
+   max, _ := strconv.ParseFloat(arguments[1], 64)  
+  
+   for i := 2; i < len(arguments); i++ {  
+      n, _ := strconv.ParseFloat(arguments[i], 64)  
+      if n < min {  
+         min = n  
+      }  
+      if n > max {  
+         max = n  
+      }  
+   }  
+   fmt.Println("Min:", min)  
+   fmt.Println("Max:", max)  
+}
+```
+
+# Docker
+```
+FROM golang:alpine
+RUN mkdir /files
+COPY hw.go /files
+WORKDIR /files
+RUN go build -o /files/hw hw.go
+ENTRYPOINT ["/files/hw"]
+```
+
+```
+docker build -t go_hw:v1
+docker run go_hw:v1
+```
+go_hw:v1 - имя нового образа
+
 # Полезные ссылки
+* [[Middle Golang Developer Plan]]
 * [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 * [awesome backend](https://github.com/zhashkevych/awesome-backend)
 * [awesome go frameworks](https://github.com/avelino/awesome-go)
@@ -108,4 +158,5 @@ go 1.18
 * [Николай Тузов](https://www.youtube.com/c/НиколайТузов/videos)
 * [Ardan labs](https://www.ardanlabs.com/training/ultimate-go/)
 
-#do/start спиздить все что можно https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/interface.html
+#do/important_start  спиздить все что можно https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/interface.html
+https://www.gobeyond.dev/tag/go-walkthrough/

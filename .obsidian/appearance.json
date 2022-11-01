@@ -2,5 +2,6 @@
   "baseFontSize": 11,
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "California Coast"
+  "cssTheme": "California Coast",
+  "accentColor": ""
 }

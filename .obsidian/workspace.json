@@ -4,16 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1bde805b747e3cec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/10 Algorithm and data structures.md",
-            "mode": "source",
-            "source": false
+        "id": "ea9c04631fb18ea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55ee65ca586e5c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/CREATE table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -32,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "context",
+                "query": "primary key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/10 Algorithm and data structures.md"
+                "file": "Base/CREATE table.md"
               }
             }
           }
@@ -95,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/10 Algorithm and data structures.md",
+                "file": "Base/CREATE table.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/10 Algorithm and data structures.md",
+                "file": "Base/CREATE table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/10 Algorithm and data structures.md",
+                "file": "Base/CREATE table.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,17 +212,17 @@
     "width": 460,
     "collapsed": true
   },
-  "active": "1bde805b747e3cec",
+  "active": "55ee65ca586e5c38",
   "lastOpenFiles": [
-    "Base/00 Начало.md",
-    "История/00 История.md",
-    "История/Средневековье.md",
-    "История/Столетняя война между Англией и Францией.md",
-    "История/Раннее новое время.md",
-    "Base/NoSQL.md",
+    "Base/SQL.md",
+    "Base/Типы данных SQL.md",
+    "Base/Строки Golang.md",
     "Base/20 Golang.md",
-    "Base/json Golang.md",
-    "Base/Middle Golang Developer Plan.md",
-    "Base/Пакеты Golang.md"
+    "Base/Garbage collector.md",
+    "Base/Ошибки Golang.md",
+    "Base/Компилятор Golang.md",
+    "Base/10 Algorithm and data structures.md",
+    "Base/Docker.md",
+    "Base/Ввод вывод Golang.md"
   ]
 }
