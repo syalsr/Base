@@ -13,6 +13,7 @@
 * [Problem Solving with Algorithms and Data Structures](http://aliev.me/runestone/)
 * [План ИТМО](https://neerc.ifmo.ru/wiki/index.php?title=Дискретная_математика,_алгоритмы_и_структуры_данных#.D0.9F.D0.B5.D1.80.D0.B2.D1.8B.D0.B9_.D1.81.D0.B5.D0.BC.D0.B5.D1.81.D1.82.D1.80)
 * [Алгоритмы и алгоритмические языки](https://www.youtube.com/playlist?list=PLcsjsqLLSfNCR1DHnNovuWuwpKO90wfLs)
+* [Алгоритмический фундамент](https://algo-base.ru)
 
 # Дополнительные материалы
 ## Discrete math

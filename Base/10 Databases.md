@@ -10,6 +10,9 @@
 3. [[NoSQL]] - нереляционные - данные хранятся в неструктурированном виде на распределенном кластере серверов
 
 https://habr.com/ru/company/vk/blog/266811/
+acid https://www.youtube.com/watch?v=gOB3hpAVIIQ
+redis https://architecturenotes.co/redis/
+view https://vc.ru/newtechaudit/397454-virtualnye-tablicy-v-sql
 # Полезное
 1. https://15445.courses.cs.cmu.edu/fall2019/schedule.html
 2. https://15445.courses.cs.cmu.edu/fall2020/project0/

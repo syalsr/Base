@@ -1,204 +1,196 @@
 {
   "recentFiles": [
     {
-      "basename": "CREATE table",
-      "path": "Base/CREATE table.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Base/SQL.md"
-    },
-    {
-      "basename": "Типы данных SQL",
-      "path": "Base/Типы данных SQL.md"
-    },
-    {
-      "basename": "Строки Golang",
-      "path": "Base/Строки Golang.md"
-    },
-    {
-      "basename": "20 Golang",
-      "path": "Base/20 Golang.md"
-    },
-    {
-      "basename": "Garbage collector",
-      "path": "Base/Garbage collector.md"
-    },
-    {
-      "basename": "Ошибки Golang",
-      "path": "Base/Ошибки Golang.md"
-    },
-    {
-      "basename": "Компилятор Golang",
-      "path": "Base/Компилятор Golang.md"
-    },
-    {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "Base/Docker.md"
-    },
-    {
-      "basename": "Ввод вывод Golang",
-      "path": "Base/Ввод вывод Golang.md"
-    },
-    {
-      "basename": "20 C++",
-      "path": "Base/20 C++.md"
-    },
-    {
       "basename": "00 Начало",
       "path": "Base/00 Начало.md"
     },
     {
-      "basename": "00 История",
-      "path": "История/00 История.md"
+      "basename": "Apache Kafka",
+      "path": "Base/Apache Kafka.md"
     },
     {
-      "basename": "Средневековье",
-      "path": "История/Средневековье.md"
-    },
-    {
-      "basename": "Столетняя война между Англией и Францией",
-      "path": "История/Столетняя война между Англией и Францией.md"
-    },
-    {
-      "basename": "Раннее новое время",
-      "path": "История/Раннее новое время.md"
-    },
-    {
-      "basename": "NoSQL",
-      "path": "Base/NoSQL.md"
-    },
-    {
-      "basename": "json Golang",
-      "path": "Base/json Golang.md"
+      "basename": "Message brokers",
+      "path": "Base/Message brokers.md"
     },
     {
       "basename": "Middle Golang Developer Plan",
       "path": "Base/Middle Golang Developer Plan.md"
     },
     {
-      "basename": "Пакеты Golang",
-      "path": "Base/Пакеты Golang.md"
-    },
-    {
-      "basename": "Context Golang",
-      "path": "Base/Context Golang.md"
-    },
-    {
-      "basename": "Интерфейсы Golang",
-      "path": "Base/Интерфейсы Golang.md"
-    },
-    {
-      "basename": "map Golang",
-      "path": "Base/map Golang.md"
-    },
-    {
-      "basename": "Массивы Golang",
-      "path": "Base/Массивы Golang.md"
-    },
-    {
-      "basename": "Каналы Golang",
-      "path": "Base/Каналы Golang.md"
-    },
-    {
-      "basename": "Complexity algorithms",
-      "path": "Base/Complexity algorithms.md"
-    },
-    {
-      "basename": "Алгодроч",
-      "path": "Base/Алгодроч.md"
-    },
-    {
-      "basename": "JOIN",
-      "path": "Base/JOIN.md"
-    },
-    {
-      "basename": "Многопоточность Golang",
-      "path": "Base/Многопоточность Golang.md"
-    },
-    {
-      "basename": "Бинарный поиск",
-      "path": "Base/Бинарный поиск.md"
-    },
-    {
-      "basename": "quick sort",
-      "path": "Base/quick sort.md"
-    },
-    {
-      "basename": "Циклы Golang",
-      "path": "Base/Циклы Golang.md"
-    },
-    {
-      "basename": "Условные операторы Golang",
-      "path": "Base/Условные операторы Golang.md"
-    },
-    {
-      "basename": "Тестирование Golang",
-      "path": "Base/Тестирование Golang.md"
-    },
-    {
-      "basename": "Структуры Golang",
-      "path": "Base/Структуры Golang.md"
-    },
-    {
-      "basename": "Модули Golang",
-      "path": "Base/Модули Golang.md"
-    },
-    {
-      "basename": "10 Computer network",
-      "path": "Base/10 Computer network.md"
-    },
-    {
-      "basename": "OSI",
-      "path": "Base/OSI.md"
-    },
-    {
-      "basename": "Прикладной уровень",
-      "path": "Base/Прикладной уровень.md"
-    },
-    {
-      "basename": "Протокол HTTP",
-      "path": "Base/Протокол HTTP.md"
-    },
-    {
-      "basename": "UPDATE table",
-      "path": "Base/UPDATE table.md"
-    },
-    {
-      "basename": "DELETE",
-      "path": "Base/DELETE.md"
+      "basename": "20 Golang",
+      "path": "Base/20 Golang.md"
     },
     {
       "basename": "10 Databases",
       "path": "Base/10 Databases.md"
     },
     {
+      "basename": "Docker",
+      "path": "Base/Docker.md"
+    },
+    {
+      "basename": "10 Design",
+      "path": "Base/10 Design.md"
+    },
+    {
+      "basename": "20 Frontend",
+      "path": "Base/20 Frontend.md"
+    },
+    {
+      "basename": "SOLID",
+      "path": "Base/SOLID.md"
+    },
+    {
+      "basename": "00 Computer science",
+      "path": "Base/00 Computer science.md"
+    },
+    {
+      "basename": "10 Design Patterns",
+      "path": "Base/10 Design Patterns.md"
+    },
+    {
+      "basename": "Карьера",
+      "path": "Base/Карьера.md"
+    },
+    {
+      "basename": "00 Клетка",
+      "path": "Base/00 Клетка.md"
+    },
+    {
+      "basename": "Чай",
+      "path": "Base/Чай.md"
+    },
+    {
+      "basename": "00 Health care",
+      "path": "Base/00 Health care.md"
+    },
+    {
+      "basename": "Список книг",
+      "path": "Base/Список книг.md"
+    },
+    {
+      "basename": "Как достигать целей",
+      "path": "Base/Как достигать целей.md"
+    },
+    {
+      "basename": "Протокол HTTP",
+      "path": "Base/Протокол HTTP.md"
+    },
+    {
+      "basename": "Прикладной уровень",
+      "path": "Base/Прикладной уровень.md"
+    },
+    {
+      "basename": "OSI",
+      "path": "Base/OSI.md"
+    },
+    {
+      "basename": "10 Computer network",
+      "path": "Base/10 Computer network.md"
+    },
+    {
+      "basename": "General frontend QA",
+      "path": "Base/General frontend QA.md"
+    },
+    {
+      "basename": "10 Programming languages",
+      "path": "Base/10 Programming languages.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Base/SQL.md"
+    },
+    {
+      "basename": "Транзакции",
+      "path": "Base/Транзакции.md"
+    },
+    {
+      "basename": "Операторы C++",
+      "path": "Base/Операторы C++.md"
+    },
+    {
+      "basename": "20 cmake",
+      "path": "Base/20 cmake.md"
+    },
+    {
+      "basename": "10 Algorithm and data structures",
+      "path": "Base/10 Algorithm and data structures.md"
+    },
+    {
       "basename": "Файлы Golang",
       "path": "Base/Файлы Golang.md"
     },
     {
-      "basename": "Работа Golang с базой данных",
-      "path": "Base/Работа Golang с базой данных.md"
+      "basename": "Ввод вывод Golang",
+      "path": "Base/Ввод вывод Golang.md"
     },
     {
-      "basename": "Транспортный уровень",
-      "path": "Base/Транспортный уровень.md"
+      "basename": "DROP table",
+      "path": "Base/DROP table.md"
     },
     {
-      "basename": "Сетевой уровень",
-      "path": "Base/Сетевой уровень.md"
+      "basename": "DELETE",
+      "path": "Base/DELETE.md"
     },
     {
-      "basename": "Протокол ARP",
-      "path": "Base/Протокол ARP.md"
+      "basename": "UPDATE table",
+      "path": "Base/UPDATE table.md"
     },
     {
-      "basename": "Протокол DHCP",
-      "path": "Base/Протокол DHCP.md"
+      "basename": "git1.excalidraw",
+      "path": "Excalidraw/git1.excalidraw.md"
+    },
+    {
+      "basename": "20 Git",
+      "path": "Base/20 Git.md"
+    },
+    {
+      "basename": "Protobuf",
+      "path": "Base/Protobuf.md"
+    },
+    {
+      "basename": "WHERE",
+      "path": "Base/WHERE.md"
+    },
+    {
+      "basename": "JOIN",
+      "path": "Base/JOIN.md"
+    },
+    {
+      "basename": "Подзапросы",
+      "path": "Base/Подзапросы.md"
+    },
+    {
+      "basename": "SELECT",
+      "path": "Base/SELECT.md"
+    },
+    {
+      "basename": "DISTINCT",
+      "path": "Base/DISTINCT.md"
+    },
+    {
+      "basename": "HAVING",
+      "path": "Base/HAVING.md"
+    },
+    {
+      "basename": "Агрегатные функции - COUNT, MIN, MAX, AVG, SUM",
+      "path": "Base/Агрегатные функции - COUNT, MIN, MAX, AVG, SUM.md"
+    },
+    {
+      "basename": "CREATE table",
+      "path": "Base/CREATE table.md"
+    },
+    {
+      "basename": "json Golang",
+      "path": "Base/json Golang.md"
+    },
+    {
+      "basename": "Циклы Golang",
+      "path": "Base/Циклы Golang.md"
+    },
+    {
+      "basename": "Типы данных SQL",
+      "path": "Base/Типы данных SQL.md"
     }
   ],
   "omittedPaths": [],

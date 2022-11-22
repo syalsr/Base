@@ -1,3 +1,13 @@
+# Install
+```
+https://github.com/protocolbuffers/protobuf/releases/
+sudo apt-get install autoconf automake libtool curl make g++ unzip
+./configure
+make 
+make check 
+sudo make install 
+sudo ldconfig
+```
 # Protobuf
 ```protobuf
 syntax = "proto3";

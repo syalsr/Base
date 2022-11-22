@@ -9,3 +9,26 @@ func main() {
    fmt.Println(string(content))    // This is some content  
 }
 ```
+**
+# Печать директории
+```
+//Get working directory path
+    curdir, err := os.Getwd()
+
+
+    //check if any error occurs
+    if err != nil {
+        //display error if
+        fmt.Println(err)
+    }
+
+
+    //display the path
+    fmt.Println(curdir)
+
+   files, _ := os.ReadDir(curdir)
+    path, _ := filepath.Abs(curdir)
+    for _, file := range files {
+        fmt.Println(filepath.Join(path, file.Name()))
+    }
+```

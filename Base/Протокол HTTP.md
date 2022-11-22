@@ -141,3 +141,6 @@ HTTP cookie (web cookie, куки браузера) - это небольшо�
 -   Трекинга (отслеживания поведения пользователей)
 
 #do/continue https://developer.mozilla.org/ru/docs/Web/HTTP/Cookies
+
+# Полезное
+* https://launchschool.com/books/http/read/introduction

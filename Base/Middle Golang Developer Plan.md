@@ -1,6 +1,6 @@
 # Middle Golang Developer Plan
 1. Garbage collector
-	1. [Как устроена сборка мусора в Golang, Дмитрий Кривенко](https://www.youtube.com/watch?v=ZZJBu2o-NBU
+	1. [Как устроена сборка мусора в Golang, Дмитрий Кривенко](https://www.youtube.com/watch?v=ZZJBu2o-NBU)
 	2. [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
 2. The Scheduler
 	1. [GopherCon 2018: Kavya Joshi - The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k)

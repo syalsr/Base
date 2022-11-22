@@ -56,7 +56,7 @@ https://www.sohamkamani.com/golang/json/
 Отсюда берем архив - https://go.dev/dl/
 ```
 wget https://go.dev/dl/go1.18.4.linux-amd64.tar.gz
-tar -vfx go1.18.4.linux-amd64.tar.gz
+tar -xf go1.18.4.linux-amd64.tar.gz
 sudo mv go /usr/local
 rm -rf go1.18.4.linux-amd64.tar.gz
 ```
@@ -157,6 +157,11 @@ go_hw:v1 - имя нового образа
 * [Внутренеее устройство каналов в Golang. Часть 2.](https://medium.com/@victor_nerd/golang-channel-internal-part2-b4e37ad9a118)
 * [Николай Тузов](https://www.youtube.com/c/НиколайТузов/videos)
 * [Ardan labs](https://www.ardanlabs.com/training/ultimate-go/)
+* [Go by example](https://gobyexample.com)
+* [Go concurrency pattern](https://github.com/lotusirous/go-concurrency-patterns)
+* [Дока](https://doka.guide)
+* [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+* [26 основных паттернов микросервисной разработки](https://mcs.mail.ru/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki)
 
 #do/important_start  спиздить все что можно https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/interface.html
 https://www.gobeyond.dev/tag/go-walkthrough/

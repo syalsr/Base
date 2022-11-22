@@ -102,6 +102,7 @@
 
 # Работа
 * [just join it](https://justjoin.it)
+* https://jobs-innowise.com/en/internship/
 
 # Reverse engineering
 -   [Всякое. Разное. Полезное.](https://github.com/wtsxDev/reverse-engineering)

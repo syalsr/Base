@@ -39,4 +39,6 @@
 2. [Fundamentals of Computer Networks](https://web.archive.org/web/20210516124607/http://www.ini740.rocks/F20/index.html#top)
 3. [How internet works](https://eater.net/inet)
 4. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
+5. [Computer networking: A top-down approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm?s=09) - курс по одноименной книге от авторов этой книги
+6. [[General frontend QA]] - взять отсюда https://github.com/acilsd/wrk-fet
 

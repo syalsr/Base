@@ -13,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CREATE table.md",
-                "mode": "source",
+                "file": "Base/00 Начало.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "primary key",
+                "query": "backend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/CREATE table.md"
+                "file": "Base/00 Начало.md"
               }
             }
           }
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/CREATE table.md",
+                "file": "Base/00 Начало.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/CREATE table.md",
+                "file": "Base/00 Начало.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/CREATE table.md",
+                "file": "Base/00 Начало.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,15 +213,15 @@
   },
   "active": "55ee65ca586e5c38",
   "lastOpenFiles": [
-    "Base/SQL.md",
-    "Base/Типы данных SQL.md",
-    "Base/Строки Golang.md",
+    "Long Term Planner.md",
+    "Short Term Planner.md",
+    "Base/Apache Kafka.md",
+    "Base/Message brokers.md",
+    "Base/Middle Golang Developer Plan.md",
     "Base/20 Golang.md",
-    "Base/Garbage collector.md",
-    "Base/Ошибки Golang.md",
-    "Base/Компилятор Golang.md",
-    "Base/10 Algorithm and data structures.md",
+    "Base/10 Databases.md",
     "Base/Docker.md",
-    "Base/Ввод вывод Golang.md"
+    "Base/10 Design.md",
+    "Base/20 Frontend.md"
   ]
 }
