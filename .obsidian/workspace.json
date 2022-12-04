@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/DIgital garden.md",
+                "file": "Base/DIgitalgarden.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/DIgital garden.md"
+                "file": "Base/DIgitalgarden.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/DIgital garden.md",
+                "file": "Base/DIgitalgarden.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/DIgital garden.md",
+                "file": "Base/DIgitalgarden.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/DIgital garden.md",
+                "file": "Base/DIgitalgarden.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
