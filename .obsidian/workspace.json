@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Base/00 Начало.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -83,7 +83,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,20 +209,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460,
-    "collapsed": true
+    "width": 460
   },
-  "active": "55ee65ca586e5c38",
+  "active": "13b7266b1351db4f",
   "lastOpenFiles": [
+    "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
+    "Base/20 Git.md",
+    "Base/00 Начало.md",
     "Long Term Planner.md",
     "Short Term Planner.md",
     "Base/Apache Kafka.md",
     "Base/Message brokers.md",
     "Base/Middle Golang Developer Plan.md",
     "Base/20 Golang.md",
-    "Base/10 Databases.md",
-    "Base/Docker.md",
-    "Base/10 Design.md",
-    "Base/20 Frontend.md"
+    "Base/10 Databases.md"
   ]
 }

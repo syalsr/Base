@@ -5,6 +5,14 @@
       "path": "Base/00 Начало.md"
     },
     {
+      "basename": "00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "path": "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md"
+    },
+    {
+      "basename": "20 Git",
+      "path": "Base/20 Git.md"
+    },
+    {
       "basename": "Apache Kafka",
       "path": "Base/Apache Kafka.md"
     },
@@ -141,10 +149,6 @@
       "path": "Excalidraw/git1.excalidraw.md"
     },
     {
-      "basename": "20 Git",
-      "path": "Base/20 Git.md"
-    },
-    {
       "basename": "Protobuf",
       "path": "Base/Protobuf.md"
     },
@@ -194,5 +198,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
