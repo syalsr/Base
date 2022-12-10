@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "Base/DIgitalgarden.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md"
+                "file": "Base/DIgitalgarden.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "Base/DIgitalgarden.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "Base/DIgitalgarden.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "Base/DIgitalgarden.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,6 +226,7 @@
   },
   "active": "592d781ec6232f7a",
   "lastOpenFiles": [
+    "Base/Middle Golang Developer Plan.md",
     "Base/DIgitalgarden.md",
     "Base/00 Начало.md",
     "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
@@ -234,7 +235,6 @@
     "Short Term Planner.md",
     "Base/Apache Kafka.md",
     "Base/Message brokers.md",
-    "Base/Middle Golang Developer Plan.md",
     "Base/20 Golang.md"
   ]
 }
