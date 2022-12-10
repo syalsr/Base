@@ -35,7 +35,6 @@
 	1. [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos/videos)
 	2. [Pavel Marvin](https://www.youtube.com/c/pavelmavrin)
 10. Продвинутая база
-	1. [A Quick Guide to Go's Assembler](https://go.dev/doc/asm)
 	2. [Introducing the Go Race Detector](https://go.dev/blog/race-detector) [Data Race Detector](https://go.dev/doc/articles/race_detector)
 	3. [C? Go? Cgo!](https://go.dev/blog/cgo)
 	4. [Profiling Go Programs](https://go.dev/blog/pprof)
@@ -51,8 +50,6 @@
 13. Docker
 	1. [Вчереня школа Слёрм по Кубернетес - 2 и 3 видео](https://www.youtube.com/playlist?list=PL8D2P0ruohOA4Y9LQoTttfSgsRwUGWpu6)
 	2. [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
-14. Kubernetes
-	1. [Вчереня школа Слёрм по Кубернетес - все остальные видео](https://www.youtube.com/playlist?list=PL8D2P0ruohOA4Y9LQoTttfSgsRwUGWpu6)
 15. ELK stack
 	1. [THE COMPLETE GUIDE TO THE ELK STACK](https://logz.io/learn/complete-guide-elk-stack/)
 16. gRPC

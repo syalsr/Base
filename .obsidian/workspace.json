@@ -18,8 +18,53 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73a7de16142cd77b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "acd5d2ab4b230040",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8aea6a72a4749d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "57d9a879f3f3d4dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b067574fd65f90c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -79,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -104,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,8 +265,10 @@
     "width": 460,
     "collapsed": true
   },
-  "active": "55ee65ca586e5c38",
+  "active": "b067574fd65f90c1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Base/Middle Golang Developer Plan.md",
     "Base/Файлы Golang.md",
     "Base/20 Golang.md",
     "Base/Список книг.md",
@@ -229,8 +276,6 @@
     "Base/20 Git.md",
     "Base/Каналы Golang.md",
     "Base/Ввод вывод Golang.md",
-    "Base/Функции Golang.md",
-    "Base/Массивы Golang.md",
-    "Base/Условные операторы Golang.md"
+    "Base/Функции Golang.md"
   ]
 }
