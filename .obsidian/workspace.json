@@ -211,7 +211,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 255,
-                  "scale": 0.36288736930121945,
+                  "scale": 0.5087618855792697,
                   "close": true
                 }
               }
@@ -224,7 +224,7 @@
     "direction": "horizontal",
     "width": 460
   },
-  "active": "592d781ec6232f7a",
+  "active": "d1aeac774d287a2e",
   "lastOpenFiles": [
     "Base/00 Начало.md",
     "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
