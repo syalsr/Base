@@ -35,7 +35,6 @@
 	1. [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos/videos)
 	2. [Pavel Marvin](https://www.youtube.com/c/pavelmavrin)
 10. Продвинутая база
-	1. [A Quick Guide to Go's Assembler](https://go.dev/doc/asm)
 	2. [Introducing the Go Race Detector](https://go.dev/blog/race-detector) [Data Race Detector](https://go.dev/doc/articles/race_detector)
 	3. [C? Go? Cgo!](https://go.dev/blog/cgo)
 	4. [Profiling Go Programs](https://go.dev/blog/pprof)
