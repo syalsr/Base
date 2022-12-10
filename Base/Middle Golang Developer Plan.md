@@ -50,8 +50,6 @@
 13. Docker
 	1. [Вчереня школа Слёрм по Кубернетес - 2 и 3 видео](https://www.youtube.com/playlist?list=PL8D2P0ruohOA4Y9LQoTttfSgsRwUGWpu6)
 	2. [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
-14. Kubernetes
-	1. [Вчереня школа Слёрм по Кубернетес - все остальные видео](https://www.youtube.com/playlist?list=PL8D2P0ruohOA4Y9LQoTttfSgsRwUGWpu6)
 15. ELK stack
 	1. [THE COMPLETE GUIDE TO THE ELK STACK](https://logz.io/learn/complete-guide-elk-stack/)
 16. gRPC
