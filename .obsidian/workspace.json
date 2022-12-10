@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/DIgitalgarden.md",
+                "file": "Base/Middle Golang Developer Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/DIgitalgarden.md"
+                "file": "Base/Middle Golang Developer Plan.md"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/DIgitalgarden.md",
+                "file": "Base/Middle Golang Developer Plan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/DIgitalgarden.md",
+                "file": "Base/Middle Golang Developer Plan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/DIgitalgarden.md",
+                "file": "Base/Middle Golang Developer Plan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,8 +224,9 @@
     "direction": "horizontal",
     "width": 460
   },
-  "active": "d1aeac774d287a2e",
+  "active": "592d781ec6232f7a",
   "lastOpenFiles": [
+    "Base/DIgitalgarden.md",
     "Base/00 Начало.md",
     "Base/00 English🏴󠁧󠁢󠁥󠁮󠁧󠁿.md",
     "Base/20 Git.md",
@@ -234,7 +235,6 @@
     "Base/Apache Kafka.md",
     "Base/Message brokers.md",
     "Base/Middle Golang Developer Plan.md",
-    "Base/20 Golang.md",
-    "Base/10 Databases.md"
+    "Base/20 Golang.md"
   ]
 }

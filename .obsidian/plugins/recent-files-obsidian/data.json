@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Middle Golang Developer Plan",
+      "path": "Base/Middle Golang Developer Plan.md"
+    },
+    {
       "basename": "DIgitalgarden",
       "path": "Base/DIgitalgarden.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Message brokers",
       "path": "Base/Message brokers.md"
-    },
-    {
-      "basename": "Middle Golang Developer Plan",
-      "path": "Base/Middle Golang Developer Plan.md"
     },
     {
       "basename": "20 Golang",
