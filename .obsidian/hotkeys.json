@@ -39,15 +39,6 @@
       "key": "X"
     }
   ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
@@ -64,6 +55,15 @@
         "Mod"
       ],
       "key": "X"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
     }
   ]
 }
