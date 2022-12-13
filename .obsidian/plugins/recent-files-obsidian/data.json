@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Middle Golang Developer Plan",
-      "path": "Base/Middle Golang Developer Plan.md"
+      "basename": "Rough diamond",
+      "path": "Rough diamond/Rough diamond.md"
     },
     {
-      "basename": "Файлы Golang",
-      "path": "Base/Файлы Golang.md"
+      "basename": "Template anki words",
+      "path": "Templates/Template anki words.md"
+    },
+    {
+      "basename": "Templates title",
+      "path": "Templates/Templates title.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Строки Golang",
+      "path": "Base/Строки Golang.md"
     },
     {
       "basename": "20 Golang",
       "path": "Base/20 Golang.md"
+    },
+    {
+      "basename": "Файлы Golang",
+      "path": "Base/Файлы Golang.md"
     },
     {
       "basename": "Список книг",
@@ -175,26 +191,6 @@
     {
       "basename": "20 cmake",
       "path": "Base/20 cmake.md"
-    },
-    {
-      "basename": "10 Algorithm and data structures",
-      "path": "Base/10 Algorithm and data structures.md"
-    },
-    {
-      "basename": "DROP table",
-      "path": "Base/DROP table.md"
-    },
-    {
-      "basename": "DELETE",
-      "path": "Base/DELETE.md"
-    },
-    {
-      "basename": "UPDATE table",
-      "path": "Base/UPDATE table.md"
-    },
-    {
-      "basename": "git1.excalidraw",
-      "path": "Excalidraw/git1.excalidraw.md"
     }
   ],
   "omittedPaths": [],

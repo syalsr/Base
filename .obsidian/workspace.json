@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "Rough diamond/Rough diamond.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md"
+                "file": "Rough diamond/Rough diamond.md"
               }
             }
           }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 207,
+    "collapsed": true
   },
   "right": {
     "id": "d52be8816d028c61",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "Rough diamond/Rough diamond.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "Rough diamond/Rough diamond.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Middle Golang Developer Plan.md",
+                "file": "Rough diamond/Rough diamond.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,14 +224,14 @@
   "active": "55ee65ca586e5c38",
   "lastOpenFiles": [
     "Base/Middle Golang Developer Plan.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Файлы Golang.md",
+    "Rough diamond/Rough diamond.md",
+    "Rough diamond/How to ask for c++ coding help.md",
+    "Templates/Template anki words.md",
+    "Templates/Templates title.md",
+    "README.md",
+    "Base/Строки Golang.md",
+    "Base/().md",
     "Base/20 Golang.md",
-    "Base/Список книг.md",
-    "Base/map Golang.md",
-    "Base/20 Git.md",
-    "Base/Каналы Golang.md",
-    "Base/Ввод вывод Golang.md",
-    "Base/Функции Golang.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

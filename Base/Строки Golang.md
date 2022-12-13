@@ -99,7 +99,7 @@ r := strings.NewReader("foobar")
 http.Post("http://example.com", "text/plain", r)
 ```
 
-Этот способ работает также когда у вас есть много строк или слайсов байт, которые можно объединить с помощью [io.MultiReader]():
+Этот способ работает также когда у вас есть много строк или слайсов байт, которые можно объединить с помощью io.MultiReader:
 ```go
 r := io.MultiReader(
         strings.NewReader("HEADER"),
