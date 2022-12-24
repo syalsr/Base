@@ -1,7 +1,9 @@
 {
-  "baseFontSize": 12,
+  "accentColor": "",
+  "cssTheme": "",
   "theme": "moonstone",
-  "translucency": false,
-  "cssTheme": "California Coast",
-  "accentColor": ""
+  "baseFontSize": 10,
+  "enabledCssSnippets": [
+    "timeline-snippet"
+  ]
 }

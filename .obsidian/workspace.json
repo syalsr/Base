@@ -1,20 +1,21 @@
 {
   "main": {
-    "id": "8109ca24b4d5ed7f",
+    "id": "25848f943c5da239",
     "type": "split",
     "children": [
       {
-        "id": "ea9c04631fb18ea2",
+        "id": "22f07546d62f064b",
         "type": "tabs",
         "children": [
           {
-            "id": "55ee65ca586e5c38",
+            "id": "ecbb4603a3332cc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough diamond/Rough diamond.md",
+                "file": "Example use obsidian/URI.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -25,16 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ccf2bda2a01e97d7",
+    "id": "ec00d4e88e8d3611",
     "type": "split",
     "children": [
       {
-        "id": "914b25995a5ff5d9",
+        "id": "6f3a57626dacc726",
         "type": "tabs",
-        "dimension": 50.69721115537848,
         "children": [
           {
-            "id": "e1a58d3235277b80",
+            "id": "13aa549ac0997d3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -42,174 +42,43 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c25f031d63b4320c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       },
       {
-        "id": "59a065fb86ce85a4",
+        "id": "461c353dda43fd61",
         "type": "tabs",
-        "dimension": 49.30278884462152,
         "children": [
           {
-            "id": "595325253c14b819",
+            "id": "0eb8546ef2a53397",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "select",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "56d3a83df70c549e",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "088484dbc7db72e6",
+            "id": "025f7e474a5f05dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rough diamond/Rough diamond.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 207,
-    "collapsed": true
-  },
-  "right": {
-    "id": "d52be8816d028c61",
-    "type": "split",
-    "children": [
-      {
-        "id": "1a13a090639c76ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f06520f401ff2c1f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Rough diamond/Rough diamond.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "546ab0e5ce2b0e96",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Rough diamond/Rough diamond.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "13b7266b1351db4f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2f798a092ebf1026",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "45b8afbbe293ff17",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "cda75de121b63d71",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "f66297d892748eb4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd87fa9a959a63e1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "d1aeac774d287a2e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Rough diamond/Rough diamond.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -1,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.521367521367521,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 255,
-                  "scale": 0.36288736930121945,
-                  "close": true
-                }
+                "file": "Example use obsidian/URI.md"
               }
             }
           }
@@ -218,20 +87,129 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460,
+    "width": 239.5
+  },
+  "right": {
+    "id": "216a1f8d85f78436",
+    "type": "split",
+    "children": [
+      {
+        "id": "88f91550f2167526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f2a7f152dd834d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Example use obsidian/URI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "037e9f4be9998eac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Example use obsidian/URI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cbc7345d2bf6fa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4125c771028347e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acb436435d313983",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Example use obsidian/URI.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9537971486243055,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
     "collapsed": true
   },
-  "active": "55ee65ca586e5c38",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "ecbb4603a3332cc7",
   "lastOpenFiles": [
-    "Base/Middle Golang Developer Plan.md",
-    "Rough diamond/Rough diamond.md",
-    "Rough diamond/How to ask for c++ coding help.md",
-    "Templates/Template anki words.md",
-    "Templates/Templates title.md",
-    "README.md",
-    "Base/Строки Golang.md",
-    "Base/().md",
-    "Base/20 Golang.md",
-    "conflict-files-obsidian-git.md"
+    "Example use obsidian/Time line.md",
+    "Example use obsidian/example math obsidian.md",
+    "Home.md",
+    "IT/map.md",
+    "IT/Golang.md",
+    "IT/file.md",
+    "IT/Computer science.md",
+    "Up/How to learn.md",
+    "History/History.md",
+    "History/Цивилизация Древнего Египта II - I тысячелетия до н.э..md"
   ]
 }

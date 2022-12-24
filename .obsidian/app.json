@@ -1,26 +1,5 @@
 {
-  "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
-  "spellcheck": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Base",
-  "attachmentFolderPath": "Files",
-  "promptDelete": false,
-  "legacyEditor": false,
-  "livePreview": true,
-  "defaultViewMode": "preview",
-  "strictLineBreaks": false,
-  "showFrontmatter": false,
-  "foldHeading": true,
-  "foldIndent": true,
-  "spellcheckLanguages": [
-    "ru",
-    "en-GB"
-  ],
-  "trashOption": "local",
-  "tabSize": 4,
-  "readableLineLength": true,
-  "rightToLeft": false,
-  "communityPluginSortOrder": "download"
+  "showLineNumber": false,
+  "rightToLeft": false
 }
